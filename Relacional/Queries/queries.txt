@@ -1,0 +1,18 @@
+2.2.2  Requisitos de exploração
+11. Obter o número de clientes total
+12. Consultar quais os clientes que vivem num dado distrito
+13. Obter o número de clientes que vivem em cada distrito
+14. Consultar os artigos por tipo
+15. Consultar os artigos que não têm stock disponível
+16. Obter o top 3 dos clientes com mais artigos comprados
+17. Obter o top 3 dos clientes que mais dinheiro gastaram
+18. Obter o top 3 artigos mais vendidos
+19. Obter o top 3 artigos mais vendidos de um tipo específico
+20. Consultar a disponibilidade de um artigo em todas as lojas
+21. Consultar livros de um autor específico
+22. Verificar que jogos o cliente tem idade mínima para comprar
+23. Análise das vendas de cada autor (quantidade e montante totais)
+24. Consultar quanto foi vendido numa loja específica num ano específico
+25. Consultar quanto foi vendido em cada mês num ano específico
+26. Verificar a existência de stock de um certo artigo no distrito de um certo cliente
+27. Fazer análise das vendas de cada ano (loja que lucrou mais: qual o lucro e a média entre lojas de cada ano)

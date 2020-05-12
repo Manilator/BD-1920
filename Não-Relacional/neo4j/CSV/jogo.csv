@@ -1,0 +1,51 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,plataforma,idade_min,publisher,n_jogadores_max,genero
+101,"Catherine Classic",Jogo,18.60,2019,5,Win,18,Sega,1,Puzzle-platform
+102,"Hitman HD Enhanced Collection",Jogo,16.50,2019,6,PS4,15,"Warner Bros. Interactive Entertainment",3,Stealth
+103,"Hitman HD Enhanced Collection",Jogo,16.50,2019,4,XBO,15,"Warner Bros. Interactive Entertainment",3,Stealth
+104,"Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey",Jogo,26.10,2019,4,3DS,16,Nintendo,4,Role-playing
+105,"New Super Mario Bros. U Deluxe",Jogo,22.90,2019,4,NS,15,Nintendo,3,Platformer
+106,"Tales of Vesperia: Definitive Edition",Jogo,30.60,2019,5,Win,15,"Bandai Namco Entertainment",2,Role-playing
+107,"Tales of Vesperia: Definitive Edition",Jogo,30.60,2019,6,NS,15,"Bandai Namco Entertainment",2,Role-playing
+108,"Tales of Vesperia: Definitive Edition",Jogo,30.60,2019,3,PS4,15,"Bandai Namco Entertainment",2,Role-playing
+109,"Tales of Vesperia: Definitive Edition",Jogo,30.60,2019,5,Win,15,"Bandai Namco Entertainment",2,Role-playing
+110,"Bright Memory",Jogo,33.70,2019,3,Win,17,"FYQD Personal Studio",2,"First-person shooter"
+111,"Asdivine Hearts 2",Jogo,19.80,2019,4,PS4,18,Kemco,2,Role-playing
+112,"Asdivine Hearts 2",Jogo,19.80,2019,4,PSVita,18,Kemco,2,Role-playing
+113,"Onimusha: Warlords",Jogo,28.40,2019,4,Win,18,Capcom,2,"Action-adventure, hack and slash"
+114,"Onimusha: Warlords",Jogo,28.40,2019,3,NS,18,Capcom,2,"Action-adventure, hack and slash"
+115,"Onimusha: Warlords",Jogo,28.40,2019,3,PS4,18,Capcom,2,"Action-adventure, hack and slash"
+116,"Onimusha: Warlords",Jogo,28.40,2019,6,Win,18,Capcom,2,"Action-adventure, hack and slash"
+117,Vane,Jogo,28.00,2019,5,PS4,17,"Friend & Foe",3,Adventure
+118,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.50,2019,5,Win,18,"Skybound Entertainment",4,"Graphic adventure"
+119,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.50,2019,5,NS,18,"Skybound Entertainment",4,"Graphic adventure"
+120,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.50,2019,4,PS4,18,"Skybound Entertainment",4,"Graphic adventure"
+121,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.50,2019,4,Win,18,"Skybound Entertainment",4,"Graphic adventure"
+122,"Yakuza 4[A]",Jogo,39.50,2019,6,PS4,13,Sega,3,Action-adventure
+123,"YIIK: A Postmodern RPG",Jogo,46.40,2019,5,Win,16,"Ysbryd Games",1,Role-playing
+124,"Ace Combat 7: Skies Unknown",Jogo,29.70,2019,5,PS4,17,"Bandai Namco Entertainment",1,"Combat flight simulator"
+125,"Ace Combat 7: Skies Unknown",Jogo,29.70,2019,4,XBO,17,"Bandai Namco Entertainment",1,"Combat flight simulator"
+126,"Alvastia Chronicles",Jogo,30.70,2019,6,Win,13,Kemco,3,Role-playing
+127,"Alvastia Chronicles",Jogo,30.70,2019,5,XBO,13,Kemco,3,Role-playing
+128,"Travis Strikes Again: No More Heroes",Jogo,44.10,2019,5,NS,16,"Grasshopper Manufacture",4,Action-adventure
+129,Chaos;Child[B],Jogo,46.00,2019,6,Win,17,"Spike Chunsoft",3,"Visual novel"
+130,"The Raven Remastered",Jogo,35.80,2019,6,NS,17,"THQ Nordic",4,"Point-and-click adventure"
+131,"Senran Kagura Burst Re:Newal",Jogo,46.50,2019,5,Win,18,"Xseed Games",4,Action
+132,"Senran Kagura Burst Re:Newal",Jogo,46.50,2019,4,PS4,18,"Xseed Games",4,Action
+133,"At the Gates",Jogo,38.30,2019,3,Win,16,"Conifer Games",3,4X
+134,"At the Gates",Jogo,38.30,2019,5,Win,16,"Conifer Games",3,strategy
+135,"Slay the Spire",Jogo,41.40,2019,4,Win,15,"Humble Bundle",2,Roguelike
+136,"Slay the Spire",Jogo,41.40,2019,3,Mac,15,"Humble Bundle",2,Roguelike
+137,"Slay the Spire",Jogo,41.40,2019,4,Lin,15,"Humble Bundle",2,Roguelike
+138,"Battlefleet Gothic: Armada 2",Jogo,21.70,2019,3,Win,14,"Focus Home Interactive",4,"Strategy, real-time tactics"
+139,"Life Is Strange 2 – Episode 2: Rules",Jogo,41.70,2019,6,Win,15,"Square Enix",1,"Graphic adventure"
+140,"Life Is Strange 2 – Episode 2: Rules",Jogo,41.70,2019,4,PS4,15,"Square Enix",1,"Graphic adventure"
+141,"Life Is Strange 2 – Episode 2: Rules",Jogo,41.70,2019,5,XBO,15,"Square Enix",1,"Graphic adventure"
+142,"My Memory of Us",Jogo,17.60,2019,5,NS,15,"Crunching Koalas",3,"Graphic adventure, platform"
+143,Pikuniku,Jogo,30.70,2019,3,Win,14,"Devolver Digital",1,Platformer
+144,Pikuniku,Jogo,30.70,2019,5,NS,14,"Devolver Digital",1,Platformer
+145,Pikuniku,Jogo,30.70,2019,5,Win,14,"Devolver Digital",1,puzzle
+146,Pikuniku,Jogo,30.70,2019,3,NS,14,"Devolver Digital",1,puzzle
+147,"Resident Evil 2",Jogo,41.30,2019,5,Win,16,Capcom,1,"Survival horror"
+148,"Resident Evil 2",Jogo,41.30,2019,4,PS4,16,Capcom,1,"Survival horror"
+149,"Resident Evil 2",Jogo,41.30,2019,5,XBO,16,Capcom,1,"Survival horror"
+150,"Kingdom Hearts III",Jogo,44.40,2019,3,PS4,14,"Square Enix",1,"Action role-playing"

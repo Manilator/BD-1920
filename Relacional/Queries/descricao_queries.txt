@@ -1,0 +1,76 @@
+Aviso inicial: (muda este nome idk)
+
+    Para facilitar o teste das queries, todas foram feitas no formato de procedure (ou de view nas que pareceram uma melhor opção).
+
+11. Obter o número de clientes total
+
+    Recorremos à entidade Cliente para obter a contagem do número total de clientes, usando para esta a chave primária id_cliente (que, não tendo repetições, torna desnecessário o uso do distinct).
+
+12. Consultar quais os clientes que vivem num dado distrito
+
+    Recorremos novamente à entidade Cliente para obter a contagem do número de clientes, mas desta vez procurando apenas por um distrito dado.
+
+13. Obter o número de clientes que vivem em cada distrito
+
+    Através da entidade Cliente, conseguimos descobrir o distrito de cada cliente, podendo assim fazer uma contagem separada por cada distrito.
+
+14. Consultar os artigos por tipo
+
+    Dado um tipo específico, precisamos da entidade Artigo para obter informações como o título, preço, entre outras, desse tipo de artigo. Foi escolhido ordenar por preço crescente, e classificação decrescente, para mostrar uma melhor pesquisa aos utilizadores. 
+
+15. Consultar os artigos que não têm stock disponível
+
+    Para verificar os artigos que já não têm stock, precisamos das entidades Artigo, para consultar as informações básicas de cada artigo, e Stock, para verificar a quantidade ainda disponível de cada artigo, e verificar se é igual a 0.
+
+16. Obter o top 3 dos clientes com mais artigos comprados
+
+    Para obter este resultado precisamos de recorrer ao Cliente, Compra, e Compra_de_X_Artigos. Através do relacionamento entre Cliente e Compra, obtemos todos os clientes que efetuaram compras, e através do relacionamento entre Compra e Compra_de_X_Artigos descobrimos a quantidade comprada. Agrupando por cada cliente, e ordenando pelo total de quantidade comprada, por ordem decrescente, obtemos o nosso top de artigos mais comprados.
+
+17. Obter o top 3 dos clientes que mais dinheiro gastaram
+
+    Neste caso apenas precisamos de recorrer ao Cliente e Compra, uma vez que a quantidade não está a ser tomada em conta, e a Compra já contém o montante total da venda. Através do relacionamento entre Cliente e Compra, obtemos todos os clientes que efetuaram compras, e através do atributo montante conseguimos obter o montante total que cada cliente gastou. Agrupando por cada cliente, e ordenando pelo montante total gasto, por ordem decrescente, obtemos o nosso top de clientes que mais dinheiro gastaram.
+
+18. Obter o top 3 artigos mais vendidos
+
+    Foi decidido que seria útil fazer o top 3 de artigos mais vendidos no formato de uma view. Aqui, recorremos ao Artigo, Compra, e Compra_de_X_Artigos. Através do relacionamento entre Compra_de_X_Artigos e Compra, obtemos todos os artigos comprados, assim como o montante pago pelo cliente em cada compra, e através do relacionamento entre Artigo e Compra_de_X_Artigos, descobrimos todos os artigos comprados, e a quantidade adquirida. Agrupamos por cliente, e ordenamos por montante total decrescente.
+
+19. Obter o top 3 artigos mais vendidos de um tipo específico
+
+    Muito semelhante ao 18., com a diferença que é consultado apenas um tipo específico dado no input, e realizado na forma de procedure.
+
+20. Consultar a disponibilidade de um artigo em todas as lojas
+
+    Através da entidade Stock obtemos a quantidade disponível do artigo especificado em cada loja.
+
+21. Consultar livros de um autor específico
+
+    Recorremos às entidades Artigo e Livro. Através do relacionamento entre estes, conseguimos obter todas as informações que precisamos de mostrar ao utilizador na sua pesquisa, como o título, preço, género, entre outras. Selecionamos todos os livros que tenham como autor o especificado no input.
+
+22. Verificar que jogos o cliente tem idade mínima para comprar
+
+    Damos uso à entidade Cliente, assim como à view jogos_titulo_asc (que nos mostra todas as informações sobre os jogos e as suas características de artigo). Através do Cliente, descobrimos a sua idade, e verificamos quais os jogos apresentados em jogos_titulo_asc que tenham idade mínima permitida superior à idade do cliente dado.
+
+23. Análise das vendas de cada autor (quantidade e montante totais)
+
+    Para facilitar a constante consulta das vendas dos autores, esta foi realizada na forma de view, utilizando as entidades Artigo, Compra_de_X_Artigos, e Livro. Através do relacionamento entre Artigo e Compra_de_X_Artigos conseguimos obter a quantidade que foi comprada de cada artigo, e com o relacionamento do Artigo com o Livro, agrupamos por cada autor o montante e quantidade totais de cada um. Chamamos isto de top de vendas por autor, ordenando portanto por ordem decrescente de montante e quantidade vendidos.
+
+24. Consultar quanto foi vendido numa loja específica num ano específico
+
+    Através da Compra e da Compra_de_X_Artigos, temos todos os artigos que foram comprados, assim como a quantidade, e o montante gasto. Agrupando por loja, e consultando apenas o ano dado, obtemos o nosso resultado.
+
+25. Consultar quanto foi vendido em cada mês num ano específico
+
+    Muito semelhante ao 24., com a mudança que agrupamos por cada mês. Consultando apenas nesse ano, obtemos quanto foi vendido (quantidade e montante) em cada mês no ano pedido.
+
+26. Verificar a existência de stock de um certo artigo no distrito de um certo cliente
+
+    Recebendo o id de um cliente e o id de um artigo, queremos verificar a existência de stock desse artigo no distrito do cliente em questão. Para isto, recorremos às entidades Cliente e Stock. Estes não têm um relacionamento direto entre si, no entanto, este também não é necessário. Como são recebidos o id do cliente, e o id do artigo a procurar, isto é suficiente para descobrirmos o distrito do cliente, e procurar o stock do artigo dado apenas nas lojas desse distrito.
+
+27. Fazer análise das vendas de cada ano (loja que lucrou mais: qual o lucro e a média entre lojas de cada ano)
+
+    Para fazer esta análise, foi um pouco mais complexo. Foram selecionados através da entidade Compra, todos os anos em que foram feitas compras. Foi feito um loop que percorre esta lista, e para cada um dos anos, inserimos numa tabela auxiliar 'Análise Anual' os resultados do seguinte processo:
+        1. Descobrir o montante total vendido por cada loja nesse ano, num select chamado 'linha', através da entidade Compra.
+        2. Através do resultado linha, selecionamos ,para esse ano, o valor máximo vendido, assim como a média dos valores obtidos. Chamamos a este select 'results'.
+        3. Através da entidade Compra, e selecionando apenas o ano a ser verificado de momento, obtemos o montante vendido em cada loja. É nessário fazer este passo, mesmo sendo repetido, para conseguirmos obter a loja que obteve o resultado em questão. Chamamos este select 'get_loja'.
+        4. No fim, juntamos tudo, através da junção do 'results' com o 'get_loja', apenas nos valores em que o montante total obtido em cada um é igual. Assim, obtemos o nosso resultado para um ano, e inserimos na tabela 'Análise Anual'.
+    No fim do processo, quando o loop acaba e já tendo mostrado o resultado, a tabela é apagada, uma vez que já não é necessária.

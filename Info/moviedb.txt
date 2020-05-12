@@ -1,0 +1,250 @@
+The Shawshank Redemption	1994	9.3	142	Frank Darabont	Drama
+The Godfather	1972	9.2	175	Francis Ford Coppola	Crime
+The Godfather: Part II	1974	9.0	202	Francis Ford Coppola	Crime
+The Dark Knight	2008	9.0	152	Christopher Nolan	Action
+12 Angry Men	1957	8.9	96	Sidney Lumet	Drama
+Schindler's List	1993	8.9	195	Steven Spielberg	Biography
+The Lord of the Rings: The Return of the King	2003	8.9	201	Peter Jackson	Adventure
+Pulp Fiction	1994	8.9	154	Quentin Tarantino	Crime
+The Good, the Bad and the Ugly	1966	8.8	161	Sergio Leone	Western
+Fight Club	1999	8.8	139	David Fincher	Drama
+The Lord of the Rings: The Fellowship of the Ring	2001	8.8	178	Peter Jackson	Adventure
+Forrest Gump	1994	8.8	142	Robert Zemeckis	Drama
+Inception	2010	8.8	148	Christopher Nolan	Action
+Star Wars: Episode V - The Empire Strikes Back	1980	8.7	124	Irvin Kershner	Action
+The Lord of the Rings: The Two Towers	2002	8.7	179	Peter Jackson	Adventure
+The Matrix	1999	8.7	136	Lana Wachowski	Action
+Goodfellas	1990	8.7	146	Martin Scorsese	Biography
+One Flew Over the Cuckoo's Nest	1975	8.7	133	Milos Forman	Drama
+Seven Samurai	1954	8.6	207	Akira Kurosawa	Action
+Se7en	1995	8.6	127	David Fincher	Crime
+City of God	2002	8.6	130	Fernando Meirelles	Crime
+Life Is Beautiful	1997	8.6	116	Roberto Benigni	Comedy
+The Silence of the Lambs	1991	8.6	118	Jonathan Demme	Crime
+Joker	2019	8.7	122	Todd Phillips	Crime
+It's a Wonderful Life	1946	8.6	130	Frank Capra	Drama
+Star Wars: Episode IV - A New Hope	1977	8.6	121	George Lucas	Action
+Saving Private Ryan	1998	8.6	169	Steven Spielberg	Drama
+Spirited Away	2001	8.6	125	Hayao Miyazaki	Animation
+The Green Mile	1999	8.6	189	Frank Darabont	Crime
+Parasite	2019	8.6	132	Bong Joon Ho	Comedy
+Interstellar	2014	8.6	169	Christopher Nolan	Adventure
+Léon: The Professional	1994	8.5	110	Luc Besson	Action
+Harakiri	1962	8.7	133	Masaki Kobayashi	Drama
+The Usual Suspects	1995	8.5	106	Bryan Singer	Crime
+The Lion King	1994	8.5	88	Roger Allers	Animation
+American History X	1998	8.5	119	Tony Kaye	Drama
+Back to the Future	1985	8.5	116	Robert Zemeckis	Adventure
+The Pianist	2002	8.5	150	Roman Polanski	Biography
+Terminator 2: Judgment Day	1991	8.5	137	James Cameron	Action
+Modern Times	1936	8.5	87	Charles Chaplin	Comedy
+Psycho	1960	8.5	109	Alfred Hitchcock	Horror
+Gladiator	2000	8.5	155	Ridley Scott	Action
+The Intouchables	2011	8.5	112	Olivier Nakache	Biography
+City Lights	1931	8.5	87	Charles Chaplin	Comedy
+The Departed	2006	8.5	151	Martin Scorsese	Crime
+Whiplash	2014	8.5	106	Damien Chazelle	Drama
+Once Upon a Time in the West	1968	8.5	165	Sergio Leone	Western
+The Prestige	2006	8.5	130	Christopher Nolan	Drama
+Casablanca	1942	8.5	102	Michael Curtiz	Drama
+Grave of the Fireflies	1988	8.5	89	Isao Takahata	Animation
+Rear Window	1954	8.4	112	Alfred Hitchcock	Mystery
+Cinema Paradiso	1988	8.5	155	Giuseppe Tornatore	Drama
+Alien	1979	8.4	117	Ridley Scott	Horror
+Raiders of the Lost Ark	1981	8.4	115	Steven Spielberg	Action
+Apocalypse Now	1979	8.4	147	Francis Ford Coppola	Drama
+Memento	2000	8.4	113	Christopher Nolan	Mystery
+The Great Dictator	1940	8.5	125	Charles Chaplin	Comedy
+Avengers: Endgame	2019	8.5	181	Anthony Russo	Action
+The Lives of Others	2006	8.4	137	Florian Henckel von Donnersmarck	Drama
+Django Unchained	2012	8.4	165	Quentin Tarantino	Drama
+Avengers: Infinity War	2018	8.5	149	Anthony Russo	Action
+The Shining	1980	8.4	146	Stanley Kubrick	Drama
+Paths of Glory	1957	8.4	88	Stanley Kubrick	Drama
+Spider-Man: Into the Spider-Verse	2018	8.4	117	Bob Persichetti	Animation
+WALL·E	2008	8.4	98	Andrew Stanton	Animation
+Sunset Blvd.	1950	8.4	110	Billy Wilder	Drama
+Princess Mononoke	1997	8.4	134	Hayao Miyazaki	Animation
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	1964	8.4	95	Stanley Kubrick	Comedy
+Oldboy	2003	8.4	120	Chan-wook Park	Action
+Witness for the Prosecution	1957	8.4	116	Billy Wilder	Crime
+The Dark Knight Rises	2012	8.4	164	Christopher Nolan	Action
+Once Upon a Time in America	1984	8.4	229	Sergio Leone	Crime
+Aliens	1986	8.3	137	James Cameron	Action
+Your Name.	2016	8.4	106	Makoto Shinkai	Animation
+American Beauty	1999	8.3	122	Sam Mendes	Drama
+Coco	2017	8.4	105	Lee Unkrich	Animation
+Braveheart	1995	8.3	178	Mel Gibson	Biography
+Das Boot	1981	8.3	149	Wolfgang Petersen	Adventure
+3 Idiots	2009	8.4	170	Rajkumar Hirani	Comedy
+Star Wars: Episode VI - Return of the Jedi	1983	8.3	131	Richard Marquand	Action
+Taare Zameen Par	2007	8.4	165	Aamir Khan	Drama
+Toy Story	1995	8.3	81	John Lasseter	Animation
+Amadeus	1984	8.3	160	Milos Forman	Biography
+Reservoir Dogs	1992	8.3	99	Quentin Tarantino	Crime
+Inglourious Basterds	2009	8.3	153	Quentin Tarantino	Adventure
+Good Will Hunting	1997	8.3	126	Gus Van Sant	Drama
+M	1931	8.3	117	Fritz Lang	Crime
+2001: A Space Odyssey	1968	8.3	149	Stanley Kubrick	Adventure
+Requiem for a Dream	2000	8.3	102	Darren Aronofsky	Drama
+Vertigo	1958	8.3	128	Alfred Hitchcock	Mystery
+Dangal	2016	8.4	161	Nitesh Tiwari	Action
+Eternal Sunshine of the Spotless Mind	2004	8.3	108	Michel Gondry	Drama
+Citizen Kane	1941	8.3	119	Orson Welles	Drama
+The Hunt	2012	8.3	115	Thomas Vinterberg	Drama
+Full Metal Jacket	1987	8.3	116	Stanley Kubrick	Drama
+North by Northwest	1959	8.3	136	Alfred Hitchcock	Adventure
+A Clockwork Orange	1971	8.3	136	Stanley Kubrick	Crime
+Snatch	2000	8.3	104	Guy Ritchie	Comedy
+The Kid	1921	8.3	68	Charles Chaplin	Comedy
+Bicycle Thieves	1948	8.3	89	Vittorio De Sica	Drama
+Amélie	2001	8.3	122	Jean-Pierre Jeunet	Comedy
+Scarface	1983	8.3	170	Brian De Palma	Crime
+Singin' in the Rain	1952	8.3	103	Stanley Donen	Comedy
+Taxi Driver	1976	8.3	114	Martin Scorsese	Crime
+Lawrence of Arabia	1962	8.3	228	David Lean	Adventure
+Toy Story 3	2010	8.3	103	Lee Unkrich	Animation
+The Sting	1973	8.3	129	George Roy Hill	Comedy
+Metropolis	1927	8.3	153	Fritz Lang	Drama
+For a Few Dollars More	1965	8.3	132	Sergio Leone	Western
+Capernaum	2018	8.4	126	Nadine Labaki	Drama
+A Separation	2011	8.3	123	Asghar Farhadi	Drama
+Double Indemnity	1944	8.3	107	Billy Wilder	Crime
+Ikiru	1952	8.3	143	Akira Kurosawa	Drama
+To Kill a Mockingbird	1962	8.3	129	Robert Mulligan	Crime
+The Apartment	1960	8.3	125	Billy Wilder	Comedy
+Indiana Jones and the Last Crusade	1989	8.2	127	Steven Spielberg	Action
+Up	2009	8.2	96	Pete Docter	Animation
+Incendies	2010	8.3	131	Denis Villeneuve	Drama
+L.A. Confidential	1997	8.2	138	Curtis Hanson	Crime
+Monty Python and the Holy Grail	1975	8.2	91	Terry Gilliam	Adventure
+Heat	1995	8.2	170	Michael Mann	Crime
+Rashomon	1950	8.2	88	Akira Kurosawa	Crime
+Die Hard	1988	8.2	132	John McTiernan	Action
+Batman Begins	2005	8.2	140	Christopher Nolan	Action
+Yojimbo	1961	8.2	110	Akira Kurosawa	Action
+Unforgiven	1992	8.2	130	Clint Eastwood	Drama
+Green Book	2018	8.2	130	Peter Farrelly	Biography
+Ford v Ferrari	2019	8.3	152	James Mangold	Action
+Downfall	2004	8.2	156	Oliver Hirschbiegel	Biography
+Children of Heaven	1997	8.3	89	Majid Majidi	Drama
+Some Like It Hot	1959	8.2	121	Billy Wilder	Comedy
+Howl's Moving Castle	2004	8.2	119	Hayao Miyazaki	Animation
+The Great Escape	1963	8.2	172	John Sturges	Adventure
+My Neighbor Totoro	1988	8.2	86	Hayao Miyazaki	Animation
+Ran	1985	8.2	162	Akira Kurosawa	Action
+A Beautiful Mind	2001	8.2	135	Ron Howard	Biography
+All About Eve	1950	8.2	138	Joseph L. Mankiewicz	Drama
+Casino	1995	8.2	178	Martin Scorsese	Crime
+Pan's Labyrinth	2006	8.2	118	Guillermo del Toro	Drama
+Come and See	1985	8.3	142	Elem Klimov	Drama
+Raging Bull	1980	8.2	129	Martin Scorsese	Biography
+The Secret in Their Eyes	2009	8.2	129	Juan José Campanella	Drama
+Lock, Stock and Two Smoking Barrels	1998	8.2	107	Guy Ritchie	Comedy
+The Wolf of Wall Street	2013	8.2	180	Martin Scorsese	Biography
+The Treasure of the Sierra Madre	1948	8.2	126	John Huston	Adventure
+Judgment at Nuremberg	1961	8.2	179	Stanley Kramer	Drama
+Three Billboards Outside Ebbing, Missouri	2017	8.2	115	Martin McDonagh	Comedy
+My Father and My Son	2005	8.3	108	Çagan Irmak	Drama
+Chinatown	1974	8.2	130	Roman Polanski	Drama
+The Gold Rush	1925	8.2	95	Charles Chaplin	Adventure
+There Will Be Blood	2007	8.2	158	Paul Thomas Anderson	Drama
+Dial M for Murder	1954	8.2	105	Alfred Hitchcock	Crime
+V for Vendetta	2005	8.2	132	James McTeigue	Action
+Inside Out	2015	8.2	95	Pete Docter	Animation
+The Seventh Seal	1957	8.2	96	Ingmar Bergman	Drama
+Warrior	2011	8.2	140	Gavin O'Connor	Drama
+No Country for Old Men	2007	8.1	122	Ethan Coen	Crime
+Trainspotting	1996	8.1	93	Danny Boyle	Drama
+Marriage Story	2019	8.2	137	Noah Baumbach	Comedy
+The Elephant Man	1980	8.1	124	David Lynch	Biography
+Room	2015	8.1	118	Lenny Abrahamson	Drama
+Shutter Island	2010	8.1	138	Martin Scorsese	Mystery
+The Sixth Sense	1999	8.1	107	M. Night Shyamalan	Drama
+The Thing	1982	8.1	109	John Carpenter	Horror
+Gone with the Wind	1939	8.1	238	Victor Fleming	Drama
+The Bridge on the River Kwai	1957	8.1	161	David Lean	Adventure
+Blade Runner	1982	8.1	117	Ridley Scott	Action
+The Third Man	1949	8.1	104	Carol Reed	Film-Noir
+Jurassic Park	1993	8.1	127	Steven Spielberg	Action
+On the Waterfront	1954	8.1	108	Elia Kazan	Crime
+Finding Nemo	2003	8.1	100	Andrew Stanton	Animation
+Andhadhun	2018	8.4	139	Sriram Raghavan	Crime
+Wild Strawberries	1957	8.2	91	Ingmar Bergman	Drama
+Fargo	1996	8.1	98	Joel Coen	Crime
+Gran Torino	2008	8.1	116	Clint Eastwood	Drama
+Kill Bill: Vol. 1	2003	8.1	111	Quentin Tarantino	Action
+The Bandit	1996	8.3	128	Yavuz Turgul	Crime
+Klaus	2019	8.3	96	Sergio Pablos	Animation
+The Deer Hunter	1978	8.1	183	Michael Cimino	Drama
+The Truman Show	1998	8.1	103	Peter Weir	Comedy
+Tokyo Story	1953	8.2	136	Yasujirô Ozu	Drama
+Stalker	1979	8.2	162	Andrei Tarkovsky	Drama
+The Big Lebowski	1998	8.1	117	Joel Coen	Comedy
+Wild Tales	2014	8.1	122	Damián Szifron	Comedy
+Mary and Max	2009	8.1	92	Adam Elliot	Animation
+In the Name of the Father	1993	8.1	133	Jim Sheridan	Biography
+Gone Girl	2014	8.1	149	David Fincher	Drama
+Hacksaw Ridge	2016	8.1	139	Mel Gibson	Biography
+Memories of Murder	2003	8.1	131	Bong Joon Ho	Action
+Mr. Smith Goes to Washington	1939	8.1	129	Frank Capra	Comedy
+How to Train Your Dragon	2010	8.1	98	Dean DeBlois	Animation
+The General	1926	8.1	67	Clyde Bruckman	Action
+The Grand Budapest Hotel	2014	8.1	99	Wes Anderson	Adventure
+Sherlock Jr.	1924	8.2	45	Buster Keaton	Action
+Before Sunrise	1995	8.1	101	Richard Linklater	Drama
+Persona	1966	8.1	85	Ingmar Bergman	Drama
+Catch Me If You Can	2002	8.1	141	Steven Spielberg	Biography
+The Irishman	2019	8.1	209	Martin Scorsese	Biography
+Prisoners	2013	8.1	153	Denis Villeneuve	Crime
+Cool Hand Luke	1967	8.1	127	Stuart Rosenberg	Crime
+12 Years a Slave	2013	8.1	134	Steve McQueen	Biography
+Into the Wild	2007	8.1	148	Sean Penn	Adventure
+The Wages of Fear	1953	8.1	131	Henri-Georges Clouzot	Adventure
+Network	1976	8.1	121	Sidney Lumet	Drama
+Stand by Me	1986	8.1	89	Rob Reiner	Adventure
+Monty Python's Life of Brian	1979	8.1	94	Terry Jones	Comedy
+Mad Max: Fury Road	2015	8.1	120	George Miller	Action
+Platoon	1986	8.1	120	Oliver Stone	Drama
+Barry Lyndon	1975	8.1	185	Stanley Kubrick	Adventure
+The Passion of Joan of Arc	1928	8.1	110	Carl Theodor Dreyer	Biography
+Million Dollar Baby	2004	8.1	132	Clint Eastwood	Drama
+Hachi: A Dog's Tale	2009	8.1	93	Lasse Hallström	Drama
+Rush	2013	8.1	123	Ron Howard	Biography
+Rang De Basanti	2006	8.2	167	Rakeysh Omprakash Mehra	Comedy
+Logan	2017	8.1	137	James Mangold	Action
+Andrei Rublev	1966	8.2	205	Andrei Tarkovsky	Biography
+Ben-Hur	1959	8.1	212	William Wyler	Adventure
+Nausicaä of the Valley of the Wind	1984	8.1	117	Hayao Miyazaki	Animation
+The 400 Blows	1959	8.1	99	François Truffaut	Crime
+Harry Potter and the Deathly Hallows: Part 2	2011	8.1	130	David Yates	Adventure
+Hotel Rwanda	2004	8.1	121	Terry George	Biography
+Amores Perros	2000	8.1	154	Alejandro G. Iñárritu	Drama
+Dead Poets Society	1989	8.1	128	Peter Weir	Comedy
+The Red Shoes	1948	8.2	135	Michael Powell	Drama
+Spotlight	2015	8.1	129	Tom McCarthy	Biography
+Rebecca	1940	8.1	130	Alfred Hitchcock	Drama
+Ace in the Hole	1951	8.2	111	Billy Wilder	Drama
+Rocky	1976	8.1	120	John G. Avildsen	Drama
+Drishyam	2013	8.5	160	Jeethu Joseph	Crime
+White Heat	1949	8.2	114	Raoul Walsh	Action
+The Handmaiden	2016	8.1	145	Chan-wook Park	Drama
+Monsters, Inc.	2001	8.0	92	Pete Docter	Animation
+It Happened One Night	1934	8.1	105	Frank Capra	Comedy
+La Haine	1995	8.1	98	Mathieu Kassovitz	Crime
+Lagaan: Once Upon a Time in India	2001	8.1	224	Ashutosh Gowariker	Adventure
+Gangs of Wasseypur	2012	8.2	321	Anurag Kashyap	Action
+The Princess Bride	1987	8.1	98	Rob Reiner	Adventure
+Before Sunset	2004	8.0	80	Richard Linklater	Drama
+The Help	2011	8.1	146	Tate Taylor	Drama
+PK	2014	8.1	153	Rajkumar Hirani	Comedy
+In the Mood for Love	2000	8.1	98	Kar-Wai Wong	Drama
+Butch Cassidy and the Sundance Kid	1969	8.0	110	George Roy Hill	Biography
+The Terminator	1984	8.0	107	James Cameron	Action
+Akira	1988	8.1	124	Katsuhiro Ôtomo	Animation
+Paris, Texas	1984	8.1	145	Wim Wenders	Drama
+Aladdin	1992	8.0	90	Ron Clements	Animation
+The Battle of Algiers	1966	8.1	121	Gillo Pontecorvo	Drama
+Munna Bhai M.B.B.S.	2003	8.1	156	Rajkumar Hirani	Comedy
+Castle in the Sky	1986	8.0	125	Hayao Miyazaki	Animation
+Guardians of the Galaxy	2014	8.0	121	James Gunn	Action

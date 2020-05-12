@@ -1,0 +1,51 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,autor,genero,editora,n_paginas
+1,"To Kill a Mockingbird",Livro,12.90,1958,5,"Harper Lee",Classics,"Porto Editora",296
+2,"Pride and Prejudice",Livro,12.60,1963,6,"Jane Austen",Classics,Antígona,288
+3,"Anne Frank: The Diary of a Young Girl",Livro,11.20,1960,4,"Anne Frank",Classics,"Harper Collins",251
+4,1984,Livro,12.80,1958,5,"George Orwell",Dystopian,"Penguin Books",336
+5,"Harry Potter and the Sorcerer’s Stone",Livro,17.60,1970,6,"J.K. Rowling",Fantasy,"Cavalo de Ferro",364
+6,"The Lord of the Rings",Livro,11.20,1974,4,"J.R.R. Tolkien",Fantasy,"Porto Editora",239
+7,"The Great Gatsby",Livro,9.10,1965,5,"F. Scott Fitzgerald",Classics,"Usborne Publishing",286
+8,"Charlotte’s Web",Livro,14.70,1986,5,"E.B. White",Classics,"Editorial Presença",381
+9,"Little Women",Livro,9.20,2005,5,"Louisa May Alcott",Classics,"Harper Collins",421
+10,"The Hobbit",Livro,11.10,2014,4,"J.R.R. Tolkien",Fantasy,"Penguin Books",302
+11,"Fahrenheit 451",Livro,11.60,1994,5,"Ray Bradbury",Classics,"Harper Collins",364
+12,"Jane Eyre",Livro,10.40,1965,5,"Charlotte Bronte",Classics,"Sextante Editora",315
+13,"Gone With the Wind",Livro,9.80,1951,5,"Margaret Mitchell",Classics,"Usborne Publishing",231
+14,"Animal Farm",Livro,14.10,2008,6,"George Orwell",Dystopian,"Editorial Presença",288
+15,"The Catcher in the Rye",Livro,15.60,1971,4,"J.D. Salinger",Classics,"Porto Editora",419
+16,"The Adventures of Huckleberry Finn",Livro,9.30,1989,5,"Mark Twain",Classics,"Quetzal Editores",320
+17,"The Help",Livro,11.30,2014,5,"Kathryn Stockett",Classics,"Porto Editora",326
+18,"The Grapes of Wrath",Livro,17.80,1959,6,"John Steinbeck",Classics,"Faber and Faber",272
+19,"The Lion, the Witch and the Wardrobe",Livro,14.90,1969,6,"C.S. Lewis",Classics,"Usborne Publishing",243
+20,"The Hunger Games",Livro,10.10,1989,5,"Suzanne Collins",Dystopian,"Harper Collins",349
+21,"The Book Thief",Livro,11.40,2010,5,"Markus Zusak",Classics,"Penguin Books",370
+22,"Lord of the Flies",Livro,15.40,2019,5,"William Golding",Classics,"Usborne Publishing",409
+23,"The Kite Runner",Livro,10.90,1985,4,"Khaled Hosseini",Classics,"Harper Collins",344
+24,Night,Livro,9.70,2008,6,"Elie Wiesel",Classics,"Editorial Presença",302
+25,Hamlet,Livro,12.20,1961,5,"William Shakespeare",Classics,"Penguin Books",315
+26,"A Tale of Two Cities",Livro,15.00,1971,5,"Charles Dickens",Classics,"Editorial Presença",328
+27,"A Wrinkle in Time",Livro,11.10,2003,6,"Madeline L’Engle",Classics,"Porto Editora",294
+28,"The Hitchhiker’s Guide to the Galaxy",Livro,12.70,1963,6,"Douglas Adams",Sci-Fi,"Sextante Editora",300
+29,"A Christmas Carol",Livro,14.20,2009,5,"Charles Dickens",Classics,"Usborne Publishing",430
+30,"Of Mice and Men",Livro,10.50,1952,5,"John Steinbeck",Classics,"Editorial Presença",327
+31,"The Secret Garden",Livro,11.80,1955,6,"Frances Hodgson Burnett",Classics,"Porto Editora",221
+32,"Romeo and Juliet",Livro,14.50,2019,6,"William Shakespeare",Classics,"Faber and Faber",373
+33,"The Handmaid’s Tale",Livro,9.00,1993,4,"Margaret Atwood",Classics,"Usborne Publishing",377
+34,"Brave New World",Livro,14.90,1993,5,"Aldous Huxley",Dystopian,"Harper Collins",340
+35,"The Little Prince",Livro,10.20,2018,5,"Antoine Saint-Exupery",Classics,"Penguin Books",332
+36,"Where the Sidewalk Ends",Livro,17.60,1958,4,"Shel Silverstein",Classics,"Porto Editora",393
+37,"Wuthering Heights",Livro,16.70,1959,6,"Emily Bronte",Classics,Antígona,306
+38,"The Giver",Livro,16.30,1979,6,"Lois Lowry",Classics,"Harper Collins",276
+39,"Anne of Green Gables",Livro,16.20,1988,5,"L.M. Montgomery",Classics,"Penguin Books",419
+40,Macbeth,Livro,12.20,1970,5,"William Shakespeare",Classics,"Cavalo de Ferro",314
+41,"The Adventures of Tom Sawyer",Livro,11.90,2010,6,"Mark Twain",Classics,"Porto Editora",222
+42,"Harry Potter and the Deathly Hallows",Livro,12.90,2004,5,"J.K. Rowling",Fantasy,"Usborne Publishing",337
+43,Frankenstein,Livro,17.70,1963,5,"Mary Shelley",Classics,"Editorial Presença",275
+44,"The Holy Bible: New King James Version",Livro,16.70,1991,5,"Thomas Nelson",Classics,"Harper Collins",385
+45,"The Girl with the Dragon Tattoo",Livro,11.30,1980,5,"Stieg Larsson",Classics,"Penguin Books",273
+46,"The Count of Monte Cristo",Livro,16.30,1971,5,"Alexandre Dumas pere",Classics,"Harper Collins",376
+47,"The Fault in Our Stars",Livro,11.70,1973,5,"John Green",Classics,"Sextante Editora",325
+48,"The Color Purple",Livro,16.70,2014,6,"Alice Walker",Classics,"Usborne Publishing",232
+49,"East of Eden",Livro,17.60,1953,5,"John Steinbeck",Classics,"Editorial Presença",230
+50,"A Tree Grows in Brooklyn",Livro,15.20,1984,4,"Betty Smith",Classics,"Porto Editora",391

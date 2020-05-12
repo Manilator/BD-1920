@@ -1,0 +1,101 @@
+id_cliente,nome,data_nascimento,data_subscricao,email,telemovel,distrito
+1,"ABIMAEL CARDOSO",1968-04-06,2014-03-11,abimael.cardoso@exemplo.com,978801951,Aveiro
+2,"ABNER CARVALHO",1977-03-19,2015-11-06,abner.carvalho@exemplo.com,907328148,Beja
+3,"ABNER MAGALHAES",1968-04-03,2015-01-01,abner.magalhaes@exemplo.com,986408633,Braga
+4,"ADAILDA SANTOS",1984-01-04,2012-12-07,adailda.santos@exemplo.com,942719137,Bragança
+5,"ADAILTON ANICETO",1974-10-23,2013-11-19,adailton.aniceto@exemplo.com,983237013,"Castelo Branco"
+6,"ADALBERTO SOUSA",1979-07-12,2013-03-14,adalberto.sousa@exemplo.com,933359662,Coimbra
+7,"ADAO BOSCOLO",1972-09-03,2019-02-24,adao.boscolo@exemplo.com,937931456,Évora
+8,"ADELINE GARCIA",1997-08-31,2016-11-02,adeline.garcia@exemplo.com,976119044,Faro
+9,"ADELSON LOPES",1963-12-18,2010-01-05,adelson.lopes@exemplo.com,908303641,Guarda
+10,"ADEMILDA LEITE",1982-06-16,2016-10-22,ademilda.leite@exemplo.com,956872006,Leiria
+11,"ADEMILDA OLIVEIRA",1980-01-09,2017-03-28,ademilda.oliveira@exemplo.com,933738293,Lisboa
+12,"ADEMILSON CRUZ",1986-01-05,2012-12-28,ademilson.cruz@exemplo.com,955222581,Portalegre
+13,"ADEMILSON OLIVEIRA",1966-05-19,2010-03-30,ademilson.oliveira@exemplo.com,905621457,Porto
+14,"ADEMIR DEODATO",1981-11-20,2019-08-17,ademir.deodato@exemplo.com,965290806,Santarém
+15,"ADENILCE SANTOS",1961-01-28,2015-01-18,adenilce.santos@exemplo.com,981449669,Setúbal
+16,"ADENILDE SILVA",1995-11-22,2010-12-25,adenilde.silva@exemplo.com,937280202,"Viana do Castelo"
+17,"ADIA BOMFIM",1981-11-09,2012-06-30,adia.bomfim@exemplo.com,941061765,"Vila Real"
+18,"ADILSON FERREIRA",1994-05-29,2012-07-30,adilson.ferreira@exemplo.com,972415033,Viseu
+19,"ADILSON LOPES",1967-02-05,2018-05-21,adilson.lopes@exemplo.com,997583346,Aveiro
+20,"ADIONI MELO",1985-12-03,2012-10-29,adioni.melo@exemplo.com,988773931,Beja
+21,"ADJAELSO LIRA",1972-01-23,2011-06-01,adjaelso.lira@exemplo.com,977128902,Braga
+22,"ADMILTON ROCHA",1968-12-28,2015-08-01,admilton.rocha@exemplo.com,921137142,Bragança
+23,"ADNA MORAES",1962-05-27,2018-03-13,adna.moraes@exemplo.com,925253744,"Castelo Branco"
+24,"ADOLFO SOUZA",1972-10-12,2010-10-03,adolfo.souza@exemplo.com,990261016,Coimbra
+25,"ADRIANA ALMEIDA",1990-05-04,2014-08-23,adriana.almeida@exemplo.com,970457830,Évora
+26,"ADRIANA ALVAREZ",1978-10-08,2010-10-15,adriana.alvarez@exemplo.com,920117538,Faro
+27,"ADRIANA ARRUDA",1975-03-21,2017-11-28,adriana.arruda@exemplo.com,985548121,Guarda
+28,"ADRIANA AUGUSTO",1980-09-06,2013-07-10,adriana.augusto@exemplo.com,945602129,Leiria
+29,"ADRIANA BARBOSA",1979-12-06,2013-12-31,adriana.barbosa@exemplo.com,966556166,Lisboa
+30,"ADRIANA BASTOS",1996-02-04,2015-12-16,adriana.bastos@exemplo.com,969884740,Portalegre
+31,"ADRIANA BRANDAO",1992-05-02,2016-11-02,adriana.brandao@exemplo.com,936526434,Porto
+32,"ADRIANA CARVALHO",1963-11-11,2012-06-04,adriana.carvalho@exemplo.com,966685335,Santarém
+33,"ADRIANA CENEVIVA",1969-06-30,2010-08-11,adriana.ceneviva@exemplo.com,959161355,Setúbal
+34,"ADRIANA CONCEICAO",1985-12-16,2014-03-28,adriana.conceicao@exemplo.com,924051854,"Viana do Castelo"
+35,"ADRIANA COSTA",1976-12-24,2012-08-28,adriana.costa@exemplo.com,918178889,"Vila Real"
+36,"ADRIANA CUNHA",1989-01-09,2017-07-18,adriana.cunha@exemplo.com,908136977,Viseu
+37,"ADRIANA CUSTODIO",1969-02-11,2019-09-15,adriana.custodio@exemplo.com,918786343,Aveiro
+38,"ADRIANA DOMINGUES",1967-03-11,2016-07-17,adriana.domingues@exemplo.com,942936030,Beja
+39,"ADRIANA ESTEVAM",1975-06-30,2013-05-28,adriana.estevam@exemplo.com,965823540,Braga
+40,"ADRIANA FERREIRA",1971-02-23,2012-02-13,adriana.ferreira@exemplo.com,987764967,Bragança
+41,"ADRIANA FRAGA",1981-01-07,2017-10-04,adriana.fraga@exemplo.com,918507511,"Castelo Branco"
+42,"ADRIANA GARCIA",1999-10-02,2014-11-10,adriana.garcia@exemplo.com,925150498,Coimbra
+43,"ADRIANA GIMENES",1977-04-07,2016-08-19,adriana.gimenes@exemplo.com,971497145,Évora
+44,"ADRIANA GONCALVES",1977-04-22,2011-08-03,adriana.goncalves@exemplo.com,967153281,Faro
+45,"ADRIANA HERENY",1981-11-24,2012-01-28,adriana.hereny@exemplo.com,917072892,Guarda
+46,"ADRIANA LEITAO",1980-02-13,2015-09-18,adriana.leitao@exemplo.com,927501938,Leiria
+47,"ADRIANA LEONE",1980-01-04,2014-04-12,adriana.leone@exemplo.com,934670044,Lisboa
+48,"ADRIANA LIMA",1995-04-05,2017-05-02,adriana.lima@exemplo.com,906541372,Portalegre
+49,"ADRIANA LIRA",1994-01-05,2011-06-04,adriana.lira@exemplo.com,928180411,Porto
+50,"ADRIANA LOFFEL",1974-05-10,2017-04-27,adriana.loffel@exemplo.com,930063580,Santarém
+51,"ADRIANA MAIA",1997-08-05,2019-03-17,adriana.maia@exemplo.com,949357192,Setúbal
+52,"ADRIANA MARQUES",1964-11-12,2012-01-11,adriana.marques@exemplo.com,969416751,"Viana do Castelo"
+53,"ADRIANA MIRANDA",1971-05-28,2018-05-30,adriana.miranda@exemplo.com,911138445,"Vila Real"
+54,"ADRIANA MORAIS",1988-12-27,2014-11-02,adriana.morais@exemplo.com,959165637,Viseu
+55,"ADRIANA NAKAHATA",1998-10-18,2011-01-03,adriana.nakahata@exemplo.com,976771139,Aveiro
+56,"ADRIANA NASCIMENTO",1978-08-14,2011-05-07,adriana.nascimento@exemplo.com,902264884,Beja
+57,"ADRIANA NOGUEIRA",1989-01-07,2016-04-16,adriana.nogueira@exemplo.com,940215122,Braga
+58,"ADRIANA PEREIRA",1981-11-16,2017-04-20,adriana.pereira@exemplo.com,928098572,Bragança
+59,"ADRIANA PRADO",1991-07-08,2016-04-15,adriana.prado@exemplo.com,950347156,"Castelo Branco"
+60,"ADRIANA RODRIGUES",1985-08-15,2011-05-15,adriana.rodrigues@exemplo.com,911139353,Coimbra
+61,"ADRIANA SANTOS",1986-11-02,2013-03-18,adriana.santos@exemplo.com,925803139,Évora
+62,"ADRIANA SILVA",1984-03-14,2014-05-28,adriana.silva@exemplo.com,923434990,Faro
+63,"ADRIANA SOUSA",1966-11-18,2017-09-20,adriana.sousa@exemplo.com,945109272,Guarda
+64,"ADRIANA SOUZA",1965-01-29,2019-08-19,adriana.souza@exemplo.com,901725369,Leiria
+65,"ADRIANA TAVARES",1997-10-14,2010-05-13,adriana.tavares@exemplo.com,934784085,Lisboa
+66,"ADRIANA TEODORO",1968-02-09,2013-01-28,adriana.teodoro@exemplo.com,971056545,Portalegre
+67,"ADRIANA TRINDADE",1962-01-18,2019-11-21,adriana.trindade@exemplo.com,936439465,Porto
+68,"ADRIANA VIEIRA",1965-09-09,2019-05-09,adriana.vieira@exemplo.com,990772788,Santarém
+69,"ADRIANA VILELA",1994-02-27,2010-12-06,adriana.vilela@exemplo.com,920668274,Setúbal
+70,"ADRIANA WALDMAN",1962-04-01,2016-05-29,adriana.waldman@exemplo.com,949518009,"Viana do Castelo"
+71,"ADRIANA XAVIER",1994-10-16,2011-09-10,adriana.xavier@exemplo.com,985922062,"Vila Real"
+72,"ADRIANO CARMO",1969-04-23,2015-11-07,adriano.carmo@exemplo.com,900775052,Viseu
+73,"ADRIANO FOGANHOLO",1992-03-31,2016-11-28,adriano.foganholo@exemplo.com,994206288,Aveiro
+74,"ADRIANO MACEDO",1994-01-16,2019-03-30,adriano.macedo@exemplo.com,959467406,Beja
+75,"ADRIANO MATOS",1982-05-15,2016-10-21,adriano.matos@exemplo.com,923624522,Braga
+76,"ADRIANO OLIVEIRA",1966-06-20,2019-01-26,adriano.oliveira@exemplo.com,945383320,Bragança
+77,"ADRIANO RIBEIRO",1975-08-25,2019-02-03,adriano.ribeiro@exemplo.com,987666110,"Castelo Branco"
+78,"ADRIANO ROCHA",1989-07-08,2016-02-26,adriano.rocha@exemplo.com,986793354,Coimbra
+79,"ADRIANO SANTOS",1969-12-17,2011-05-23,adriano.santos@exemplo.com,911743739,Évora
+80,"ADRIANO SILVA",1962-02-12,2018-06-07,adriano.silva@exemplo.com,946813704,Faro
+81,"ADRIANO SOUSA",1999-02-10,2019-04-24,adriano.sousa@exemplo.com,935064931,Guarda
+82,"ADRIELE PEREIRA",1981-06-02,2013-11-22,adriele.pereira@exemplo.com,932106284,Leiria
+83,"ADRIELI PEREIRA",1995-11-16,2015-02-02,adrieli.pereira@exemplo.com,963467424,Lisboa
+84,"ADRIELLY MARTINS",2000-02-10,2013-12-06,adrielly.martins@exemplo.com,912765884,Portalegre
+85,"ADSON GETULIO",1986-10-27,2019-09-01,adson.getulio@exemplo.com,953926486,Porto
+86,"ADSON SANTOS",1966-09-05,2011-06-08,adson.santos@exemplo.com,984497224,Santarém
+87,"AECIO RESENDE",1991-11-09,2010-01-19,aecio.resende@exemplo.com,930419192,Setúbal
+88,"AGATA SOUZA",1990-03-16,2016-11-25,agata.souza@exemplo.com,957646064,"Viana do Castelo"
+89,"AGATHA BIONI",1996-03-13,2018-12-11,agatha.bioni@exemplo.com,951748728,"Vila Real"
+90,"AGATHA RODRIGUES",1985-07-10,2014-06-04,agatha.rodrigues@exemplo.com,908350821,Viseu
+91,"AGILVANIZA LEAL",1991-09-23,2016-10-18,agilvaniza.leal@exemplo.com,923156365,Aveiro
+92,"AGLEISA SOUZA",1976-12-29,2011-05-20,agleisa.souza@exemplo.com,998495284,Beja
+93,"AGMAR BARBOSA",1973-09-05,2018-04-19,agmar.barbosa@exemplo.com,909084800,Braga
+94,"AGNALDA FLORIANO",1988-06-08,2016-12-08,agnalda.floriano@exemplo.com,927315376,Bragança
+95,"AGNALDINO SANTOS",1972-02-18,2016-05-22,agnaldino.santos@exemplo.com,993625797,"Castelo Branco"
+96,"AGNALDO SILVA",1983-08-11,2011-07-29,agnaldo.silva@exemplo.com,944236762,Coimbra
+97,"AGNER MALDONADO",2000-09-14,2010-07-03,agner.maldonado@exemplo.com,931611377,Évora
+98,"AGNES COSTA",1981-01-13,2016-03-20,agnes.costa@exemplo.com,918038257,Faro
+99,"AGNES SILVA",1996-11-28,2012-04-09,agnes.silva@exemplo.com,919276837,Guarda
+100,"AGRAETE MOREIRA",1963-02-01,2014-08-28,agraete.moreira@exemplo.com,923447439,Leiria

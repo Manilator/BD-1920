@@ -1,0 +1,3401 @@
+id_artigo,loja,qtd_disponivel,distrito
+1,Aeroporto,17,Lisboa
+1,Amoreiras,0,Lisboa
+1,"Braga Parque",3,Braga
+1,"CC Setúbal",12,Setúbal
+1,Colombo,0,Lisboa
+1,"Estação Viana",0,"Viana do Castelo"
+1,"Évora Plaza",14,Évora
+1,"Fórum Algarve",25,Faro
+1,"Fórum Aveiro",27,Aveiro
+1,"Fórum Coimbra",15,Coimbra
+1,"Gaia Shopping",0,Porto
+1,"Leiria Shopping",16,Leiria
+1,"Norte Shopping",27,Porto
+1,"Nosso Shopping",23,"Vila Real"
+1,"Palácio do Gelo",16,Viseu
+1,"Santa Catarina",23,Porto
+1,"Vasgo da Gama",28,Lisboa
+2,Aeroporto,15,Lisboa
+2,Amoreiras,0,Lisboa
+2,"Braga Parque",14,Braga
+2,"CC Setúbal",17,Setúbal
+2,Colombo,27,Lisboa
+2,"Estação Viana",7,"Viana do Castelo"
+2,"Évora Plaza",0,Évora
+2,"Fórum Algarve",3,Faro
+2,"Fórum Aveiro",7,Aveiro
+2,"Fórum Coimbra",18,Coimbra
+2,"Gaia Shopping",11,Porto
+2,"Leiria Shopping",5,Leiria
+2,"Norte Shopping",27,Porto
+2,"Nosso Shopping",0,"Vila Real"
+2,"Palácio do Gelo",0,Viseu
+2,"Santa Catarina",29,Porto
+2,"Vasgo da Gama",25,Lisboa
+3,Aeroporto,11,Lisboa
+3,Amoreiras,30,Lisboa
+3,"Braga Parque",3,Braga
+3,"CC Setúbal",15,Setúbal
+3,Colombo,2,Lisboa
+3,"Estação Viana",16,"Viana do Castelo"
+3,"Évora Plaza",12,Évora
+3,"Fórum Algarve",14,Faro
+3,"Fórum Aveiro",23,Aveiro
+3,"Fórum Coimbra",0,Coimbra
+3,"Gaia Shopping",31,Porto
+3,"Leiria Shopping",5,Leiria
+3,"Norte Shopping",11,Porto
+3,"Nosso Shopping",4,"Vila Real"
+3,"Palácio do Gelo",27,Viseu
+3,"Santa Catarina",18,Porto
+3,"Vasgo da Gama",0,Lisboa
+4,Aeroporto,14,Lisboa
+4,Amoreiras,21,Lisboa
+4,"Braga Parque",2,Braga
+4,"CC Setúbal",26,Setúbal
+4,Colombo,21,Lisboa
+4,"Estação Viana",18,"Viana do Castelo"
+4,"Évora Plaza",25,Évora
+4,"Fórum Algarve",14,Faro
+4,"Fórum Aveiro",16,Aveiro
+4,"Fórum Coimbra",22,Coimbra
+4,"Gaia Shopping",18,Porto
+4,"Leiria Shopping",7,Leiria
+4,"Norte Shopping",10,Porto
+4,"Nosso Shopping",30,"Vila Real"
+4,"Palácio do Gelo",27,Viseu
+4,"Santa Catarina",0,Porto
+4,"Vasgo da Gama",0,Lisboa
+5,Aeroporto,14,Lisboa
+5,Amoreiras,25,Lisboa
+5,"Braga Parque",1,Braga
+5,"CC Setúbal",31,Setúbal
+5,Colombo,0,Lisboa
+5,"Estação Viana",19,"Viana do Castelo"
+5,"Évora Plaza",13,Évora
+5,"Fórum Algarve",22,Faro
+5,"Fórum Aveiro",8,Aveiro
+5,"Fórum Coimbra",14,Coimbra
+5,"Gaia Shopping",0,Porto
+5,"Leiria Shopping",20,Leiria
+5,"Norte Shopping",0,Porto
+5,"Nosso Shopping",0,"Vila Real"
+5,"Palácio do Gelo",27,Viseu
+5,"Santa Catarina",10,Porto
+5,"Vasgo da Gama",0,Lisboa
+6,Aeroporto,24,Lisboa
+6,Amoreiras,2,Lisboa
+6,"Braga Parque",4,Braga
+6,"CC Setúbal",0,Setúbal
+6,Colombo,28,Lisboa
+6,"Estação Viana",15,"Viana do Castelo"
+6,"Évora Plaza",28,Évora
+6,"Fórum Algarve",22,Faro
+6,"Fórum Aveiro",24,Aveiro
+6,"Fórum Coimbra",0,Coimbra
+6,"Gaia Shopping",22,Porto
+6,"Leiria Shopping",1,Leiria
+6,"Norte Shopping",7,Porto
+6,"Nosso Shopping",16,"Vila Real"
+6,"Palácio do Gelo",0,Viseu
+6,"Santa Catarina",20,Porto
+6,"Vasgo da Gama",0,Lisboa
+7,Aeroporto,31,Lisboa
+7,Amoreiras,9,Lisboa
+7,"Braga Parque",23,Braga
+7,"CC Setúbal",16,Setúbal
+7,Colombo,14,Lisboa
+7,"Estação Viana",14,"Viana do Castelo"
+7,"Évora Plaza",21,Évora
+7,"Fórum Algarve",6,Faro
+7,"Fórum Aveiro",26,Aveiro
+7,"Fórum Coimbra",26,Coimbra
+7,"Gaia Shopping",25,Porto
+7,"Leiria Shopping",15,Leiria
+7,"Norte Shopping",8,Porto
+7,"Nosso Shopping",0,"Vila Real"
+7,"Palácio do Gelo",1,Viseu
+7,"Santa Catarina",11,Porto
+7,"Vasgo da Gama",23,Lisboa
+8,Aeroporto,28,Lisboa
+8,Amoreiras,31,Lisboa
+8,"Braga Parque",13,Braga
+8,"CC Setúbal",14,Setúbal
+8,Colombo,13,Lisboa
+8,"Estação Viana",26,"Viana do Castelo"
+8,"Évora Plaza",1,Évora
+8,"Fórum Algarve",25,Faro
+8,"Fórum Aveiro",21,Aveiro
+8,"Fórum Coimbra",23,Coimbra
+8,"Gaia Shopping",25,Porto
+8,"Leiria Shopping",23,Leiria
+8,"Norte Shopping",23,Porto
+8,"Nosso Shopping",25,"Vila Real"
+8,"Palácio do Gelo",12,Viseu
+8,"Santa Catarina",14,Porto
+8,"Vasgo da Gama",0,Lisboa
+9,Aeroporto,27,Lisboa
+9,Amoreiras,0,Lisboa
+9,"Braga Parque",1,Braga
+9,"CC Setúbal",27,Setúbal
+9,Colombo,12,Lisboa
+9,"Estação Viana",11,"Viana do Castelo"
+9,"Évora Plaza",30,Évora
+9,"Fórum Algarve",10,Faro
+9,"Fórum Aveiro",31,Aveiro
+9,"Fórum Coimbra",12,Coimbra
+9,"Gaia Shopping",0,Porto
+9,"Leiria Shopping",0,Leiria
+9,"Norte Shopping",22,Porto
+9,"Nosso Shopping",25,"Vila Real"
+9,"Palácio do Gelo",9,Viseu
+9,"Santa Catarina",4,Porto
+9,"Vasgo da Gama",22,Lisboa
+10,Aeroporto,8,Lisboa
+10,Amoreiras,1,Lisboa
+10,"Braga Parque",13,Braga
+10,"CC Setúbal",18,Setúbal
+10,Colombo,14,Lisboa
+10,"Estação Viana",24,"Viana do Castelo"
+10,"Évora Plaza",4,Évora
+10,"Fórum Algarve",7,Faro
+10,"Fórum Aveiro",29,Aveiro
+10,"Fórum Coimbra",14,Coimbra
+10,"Gaia Shopping",5,Porto
+10,"Leiria Shopping",2,Leiria
+10,"Norte Shopping",10,Porto
+10,"Nosso Shopping",26,"Vila Real"
+10,"Palácio do Gelo",7,Viseu
+10,"Santa Catarina",2,Porto
+10,"Vasgo da Gama",4,Lisboa
+11,Aeroporto,24,Lisboa
+11,Amoreiras,8,Lisboa
+11,"Braga Parque",9,Braga
+11,"CC Setúbal",23,Setúbal
+11,Colombo,16,Lisboa
+11,"Estação Viana",20,"Viana do Castelo"
+11,"Évora Plaza",28,Évora
+11,"Fórum Algarve",7,Faro
+11,"Fórum Aveiro",3,Aveiro
+11,"Fórum Coimbra",24,Coimbra
+11,"Gaia Shopping",0,Porto
+11,"Leiria Shopping",13,Leiria
+11,"Norte Shopping",0,Porto
+11,"Nosso Shopping",14,"Vila Real"
+11,"Palácio do Gelo",21,Viseu
+11,"Santa Catarina",0,Porto
+11,"Vasgo da Gama",29,Lisboa
+12,Aeroporto,22,Lisboa
+12,Amoreiras,8,Lisboa
+12,"Braga Parque",29,Braga
+12,"CC Setúbal",1,Setúbal
+12,Colombo,8,Lisboa
+12,"Estação Viana",15,"Viana do Castelo"
+12,"Évora Plaza",20,Évora
+12,"Fórum Algarve",20,Faro
+12,"Fórum Aveiro",19,Aveiro
+12,"Fórum Coimbra",8,Coimbra
+12,"Gaia Shopping",24,Porto
+12,"Leiria Shopping",30,Leiria
+12,"Norte Shopping",20,Porto
+12,"Nosso Shopping",22,"Vila Real"
+12,"Palácio do Gelo",24,Viseu
+12,"Santa Catarina",11,Porto
+12,"Vasgo da Gama",22,Lisboa
+13,Aeroporto,21,Lisboa
+13,Amoreiras,16,Lisboa
+13,"Braga Parque",11,Braga
+13,"CC Setúbal",8,Setúbal
+13,Colombo,23,Lisboa
+13,"Estação Viana",28,"Viana do Castelo"
+13,"Évora Plaza",2,Évora
+13,"Fórum Algarve",14,Faro
+13,"Fórum Aveiro",20,Aveiro
+13,"Fórum Coimbra",7,Coimbra
+13,"Gaia Shopping",0,Porto
+13,"Leiria Shopping",0,Leiria
+13,"Norte Shopping",3,Porto
+13,"Nosso Shopping",14,"Vila Real"
+13,"Palácio do Gelo",26,Viseu
+13,"Santa Catarina",7,Porto
+13,"Vasgo da Gama",21,Lisboa
+14,Aeroporto,0,Lisboa
+14,Amoreiras,0,Lisboa
+14,"Braga Parque",2,Braga
+14,"CC Setúbal",18,Setúbal
+14,Colombo,20,Lisboa
+14,"Estação Viana",18,"Viana do Castelo"
+14,"Évora Plaza",4,Évora
+14,"Fórum Algarve",11,Faro
+14,"Fórum Aveiro",2,Aveiro
+14,"Fórum Coimbra",21,Coimbra
+14,"Gaia Shopping",7,Porto
+14,"Leiria Shopping",24,Leiria
+14,"Norte Shopping",14,Porto
+14,"Nosso Shopping",29,"Vila Real"
+14,"Palácio do Gelo",11,Viseu
+14,"Santa Catarina",5,Porto
+14,"Vasgo da Gama",10,Lisboa
+15,Aeroporto,11,Lisboa
+15,Amoreiras,25,Lisboa
+15,"Braga Parque",28,Braga
+15,"CC Setúbal",19,Setúbal
+15,Colombo,7,Lisboa
+15,"Estação Viana",0,"Viana do Castelo"
+15,"Évora Plaza",11,Évora
+15,"Fórum Algarve",1,Faro
+15,"Fórum Aveiro",14,Aveiro
+15,"Fórum Coimbra",5,Coimbra
+15,"Gaia Shopping",25,Porto
+15,"Leiria Shopping",0,Leiria
+15,"Norte Shopping",13,Porto
+15,"Nosso Shopping",30,"Vila Real"
+15,"Palácio do Gelo",9,Viseu
+15,"Santa Catarina",8,Porto
+15,"Vasgo da Gama",17,Lisboa
+16,Aeroporto,4,Lisboa
+16,Amoreiras,14,Lisboa
+16,"Braga Parque",13,Braga
+16,"CC Setúbal",27,Setúbal
+16,Colombo,20,Lisboa
+16,"Estação Viana",5,"Viana do Castelo"
+16,"Évora Plaza",23,Évora
+16,"Fórum Algarve",14,Faro
+16,"Fórum Aveiro",25,Aveiro
+16,"Fórum Coimbra",12,Coimbra
+16,"Gaia Shopping",1,Porto
+16,"Leiria Shopping",25,Leiria
+16,"Norte Shopping",0,Porto
+16,"Nosso Shopping",1,"Vila Real"
+16,"Palácio do Gelo",23,Viseu
+16,"Santa Catarina",3,Porto
+16,"Vasgo da Gama",14,Lisboa
+17,Aeroporto,31,Lisboa
+17,Amoreiras,18,Lisboa
+17,"Braga Parque",18,Braga
+17,"CC Setúbal",12,Setúbal
+17,Colombo,22,Lisboa
+17,"Estação Viana",14,"Viana do Castelo"
+17,"Évora Plaza",15,Évora
+17,"Fórum Algarve",9,Faro
+17,"Fórum Aveiro",14,Aveiro
+17,"Fórum Coimbra",14,Coimbra
+17,"Gaia Shopping",4,Porto
+17,"Leiria Shopping",17,Leiria
+17,"Norte Shopping",21,Porto
+17,"Nosso Shopping",5,"Vila Real"
+17,"Palácio do Gelo",27,Viseu
+17,"Santa Catarina",5,Porto
+17,"Vasgo da Gama",6,Lisboa
+18,Aeroporto,21,Lisboa
+18,Amoreiras,3,Lisboa
+18,"Braga Parque",8,Braga
+18,"CC Setúbal",26,Setúbal
+18,Colombo,0,Lisboa
+18,"Estação Viana",12,"Viana do Castelo"
+18,"Évora Plaza",1,Évora
+18,"Fórum Algarve",5,Faro
+18,"Fórum Aveiro",16,Aveiro
+18,"Fórum Coimbra",21,Coimbra
+18,"Gaia Shopping",12,Porto
+18,"Leiria Shopping",10,Leiria
+18,"Norte Shopping",16,Porto
+18,"Nosso Shopping",6,"Vila Real"
+18,"Palácio do Gelo",12,Viseu
+18,"Santa Catarina",0,Porto
+18,"Vasgo da Gama",20,Lisboa
+19,Aeroporto,5,Lisboa
+19,Amoreiras,31,Lisboa
+19,"Braga Parque",30,Braga
+19,"CC Setúbal",13,Setúbal
+19,Colombo,18,Lisboa
+19,"Estação Viana",14,"Viana do Castelo"
+19,"Évora Plaza",0,Évora
+19,"Fórum Algarve",0,Faro
+19,"Fórum Aveiro",31,Aveiro
+19,"Fórum Coimbra",8,Coimbra
+19,"Gaia Shopping",30,Porto
+19,"Leiria Shopping",16,Leiria
+19,"Norte Shopping",13,Porto
+19,"Nosso Shopping",28,"Vila Real"
+19,"Palácio do Gelo",22,Viseu
+19,"Santa Catarina",12,Porto
+19,"Vasgo da Gama",28,Lisboa
+20,Aeroporto,9,Lisboa
+20,Amoreiras,8,Lisboa
+20,"Braga Parque",0,Braga
+20,"CC Setúbal",9,Setúbal
+20,Colombo,0,Lisboa
+20,"Estação Viana",4,"Viana do Castelo"
+20,"Évora Plaza",4,Évora
+20,"Fórum Algarve",26,Faro
+20,"Fórum Aveiro",10,Aveiro
+20,"Fórum Coimbra",0,Coimbra
+20,"Gaia Shopping",22,Porto
+20,"Leiria Shopping",26,Leiria
+20,"Norte Shopping",6,Porto
+20,"Nosso Shopping",20,"Vila Real"
+20,"Palácio do Gelo",15,Viseu
+20,"Santa Catarina",22,Porto
+20,"Vasgo da Gama",2,Lisboa
+21,Aeroporto,11,Lisboa
+21,Amoreiras,30,Lisboa
+21,"Braga Parque",14,Braga
+21,"CC Setúbal",23,Setúbal
+21,Colombo,6,Lisboa
+21,"Estação Viana",5,"Viana do Castelo"
+21,"Évora Plaza",29,Évora
+21,"Fórum Algarve",28,Faro
+21,"Fórum Aveiro",0,Aveiro
+21,"Fórum Coimbra",0,Coimbra
+21,"Gaia Shopping",14,Porto
+21,"Leiria Shopping",0,Leiria
+21,"Norte Shopping",28,Porto
+21,"Nosso Shopping",9,"Vila Real"
+21,"Palácio do Gelo",14,Viseu
+21,"Santa Catarina",14,Porto
+21,"Vasgo da Gama",17,Lisboa
+22,Aeroporto,24,Lisboa
+22,Amoreiras,0,Lisboa
+22,"Braga Parque",5,Braga
+22,"CC Setúbal",8,Setúbal
+22,Colombo,29,Lisboa
+22,"Estação Viana",14,"Viana do Castelo"
+22,"Évora Plaza",17,Évora
+22,"Fórum Algarve",27,Faro
+22,"Fórum Aveiro",5,Aveiro
+22,"Fórum Coimbra",27,Coimbra
+22,"Gaia Shopping",24,Porto
+22,"Leiria Shopping",15,Leiria
+22,"Norte Shopping",9,Porto
+22,"Nosso Shopping",27,"Vila Real"
+22,"Palácio do Gelo",26,Viseu
+22,"Santa Catarina",27,Porto
+22,"Vasgo da Gama",4,Lisboa
+23,Aeroporto,21,Lisboa
+23,Amoreiras,16,Lisboa
+23,"Braga Parque",10,Braga
+23,"CC Setúbal",20,Setúbal
+23,Colombo,16,Lisboa
+23,"Estação Viana",30,"Viana do Castelo"
+23,"Évora Plaza",2,Évora
+23,"Fórum Algarve",16,Faro
+23,"Fórum Aveiro",14,Aveiro
+23,"Fórum Coimbra",21,Coimbra
+23,"Gaia Shopping",10,Porto
+23,"Leiria Shopping",17,Leiria
+23,"Norte Shopping",2,Porto
+23,"Nosso Shopping",9,"Vila Real"
+23,"Palácio do Gelo",19,Viseu
+23,"Santa Catarina",0,Porto
+23,"Vasgo da Gama",31,Lisboa
+24,Aeroporto,16,Lisboa
+24,Amoreiras,14,Lisboa
+24,"Braga Parque",19,Braga
+24,"CC Setúbal",23,Setúbal
+24,Colombo,18,Lisboa
+24,"Estação Viana",15,"Viana do Castelo"
+24,"Évora Plaza",31,Évora
+24,"Fórum Algarve",25,Faro
+24,"Fórum Aveiro",23,Aveiro
+24,"Fórum Coimbra",26,Coimbra
+24,"Gaia Shopping",0,Porto
+24,"Leiria Shopping",18,Leiria
+24,"Norte Shopping",14,Porto
+24,"Nosso Shopping",29,"Vila Real"
+24,"Palácio do Gelo",0,Viseu
+24,"Santa Catarina",16,Porto
+24,"Vasgo da Gama",3,Lisboa
+25,Aeroporto,17,Lisboa
+25,Amoreiras,1,Lisboa
+25,"Braga Parque",25,Braga
+25,"CC Setúbal",22,Setúbal
+25,Colombo,22,Lisboa
+25,"Estação Viana",24,"Viana do Castelo"
+25,"Évora Plaza",1,Évora
+25,"Fórum Algarve",0,Faro
+25,"Fórum Aveiro",14,Aveiro
+25,"Fórum Coimbra",0,Coimbra
+25,"Gaia Shopping",26,Porto
+25,"Leiria Shopping",22,Leiria
+25,"Norte Shopping",0,Porto
+25,"Nosso Shopping",12,"Vila Real"
+25,"Palácio do Gelo",24,Viseu
+25,"Santa Catarina",13,Porto
+25,"Vasgo da Gama",2,Lisboa
+26,Aeroporto,4,Lisboa
+26,Amoreiras,0,Lisboa
+26,"Braga Parque",25,Braga
+26,"CC Setúbal",0,Setúbal
+26,Colombo,21,Lisboa
+26,"Estação Viana",2,"Viana do Castelo"
+26,"Évora Plaza",30,Évora
+26,"Fórum Algarve",0,Faro
+26,"Fórum Aveiro",22,Aveiro
+26,"Fórum Coimbra",5,Coimbra
+26,"Gaia Shopping",30,Porto
+26,"Leiria Shopping",14,Leiria
+26,"Norte Shopping",4,Porto
+26,"Nosso Shopping",15,"Vila Real"
+26,"Palácio do Gelo",0,Viseu
+26,"Santa Catarina",14,Porto
+26,"Vasgo da Gama",23,Lisboa
+27,Aeroporto,27,Lisboa
+27,Amoreiras,9,Lisboa
+27,"Braga Parque",28,Braga
+27,"CC Setúbal",10,Setúbal
+27,Colombo,0,Lisboa
+27,"Estação Viana",14,"Viana do Castelo"
+27,"Évora Plaza",8,Évora
+27,"Fórum Algarve",6,Faro
+27,"Fórum Aveiro",2,Aveiro
+27,"Fórum Coimbra",13,Coimbra
+27,"Gaia Shopping",26,Porto
+27,"Leiria Shopping",17,Leiria
+27,"Norte Shopping",10,Porto
+27,"Nosso Shopping",30,"Vila Real"
+27,"Palácio do Gelo",0,Viseu
+27,"Santa Catarina",10,Porto
+27,"Vasgo da Gama",19,Lisboa
+28,Aeroporto,5,Lisboa
+28,Amoreiras,20,Lisboa
+28,"Braga Parque",24,Braga
+28,"CC Setúbal",6,Setúbal
+28,Colombo,9,Lisboa
+28,"Estação Viana",0,"Viana do Castelo"
+28,"Évora Plaza",30,Évora
+28,"Fórum Algarve",29,Faro
+28,"Fórum Aveiro",9,Aveiro
+28,"Fórum Coimbra",0,Coimbra
+28,"Gaia Shopping",26,Porto
+28,"Leiria Shopping",24,Leiria
+28,"Norte Shopping",0,Porto
+28,"Nosso Shopping",14,"Vila Real"
+28,"Palácio do Gelo",11,Viseu
+28,"Santa Catarina",0,Porto
+28,"Vasgo da Gama",25,Lisboa
+29,Aeroporto,14,Lisboa
+29,Amoreiras,8,Lisboa
+29,"Braga Parque",16,Braga
+29,"CC Setúbal",0,Setúbal
+29,Colombo,17,Lisboa
+29,"Estação Viana",4,"Viana do Castelo"
+29,"Évora Plaza",18,Évora
+29,"Fórum Algarve",6,Faro
+29,"Fórum Aveiro",23,Aveiro
+29,"Fórum Coimbra",4,Coimbra
+29,"Gaia Shopping",3,Porto
+29,"Leiria Shopping",23,Leiria
+29,"Norte Shopping",21,Porto
+29,"Nosso Shopping",7,"Vila Real"
+29,"Palácio do Gelo",10,Viseu
+29,"Santa Catarina",5,Porto
+29,"Vasgo da Gama",15,Lisboa
+30,Aeroporto,9,Lisboa
+30,Amoreiras,2,Lisboa
+30,"Braga Parque",1,Braga
+30,"CC Setúbal",17,Setúbal
+30,Colombo,31,Lisboa
+30,"Estação Viana",5,"Viana do Castelo"
+30,"Évora Plaza",23,Évora
+30,"Fórum Algarve",21,Faro
+30,"Fórum Aveiro",0,Aveiro
+30,"Fórum Coimbra",13,Coimbra
+30,"Gaia Shopping",0,Porto
+30,"Leiria Shopping",0,Leiria
+30,"Norte Shopping",28,Porto
+30,"Nosso Shopping",25,"Vila Real"
+30,"Palácio do Gelo",20,Viseu
+30,"Santa Catarina",29,Porto
+30,"Vasgo da Gama",3,Lisboa
+31,Aeroporto,21,Lisboa
+31,Amoreiras,0,Lisboa
+31,"Braga Parque",14,Braga
+31,"CC Setúbal",5,Setúbal
+31,Colombo,23,Lisboa
+31,"Estação Viana",23,"Viana do Castelo"
+31,"Évora Plaza",14,Évora
+31,"Fórum Algarve",22,Faro
+31,"Fórum Aveiro",13,Aveiro
+31,"Fórum Coimbra",5,Coimbra
+31,"Gaia Shopping",18,Porto
+31,"Leiria Shopping",10,Leiria
+31,"Norte Shopping",12,Porto
+31,"Nosso Shopping",28,"Vila Real"
+31,"Palácio do Gelo",10,Viseu
+31,"Santa Catarina",8,Porto
+31,"Vasgo da Gama",23,Lisboa
+32,Aeroporto,14,Lisboa
+32,Amoreiras,23,Lisboa
+32,"Braga Parque",27,Braga
+32,"CC Setúbal",8,Setúbal
+32,Colombo,22,Lisboa
+32,"Estação Viana",3,"Viana do Castelo"
+32,"Évora Plaza",26,Évora
+32,"Fórum Algarve",15,Faro
+32,"Fórum Aveiro",29,Aveiro
+32,"Fórum Coimbra",0,Coimbra
+32,"Gaia Shopping",31,Porto
+32,"Leiria Shopping",0,Leiria
+32,"Norte Shopping",27,Porto
+32,"Nosso Shopping",20,"Vila Real"
+32,"Palácio do Gelo",16,Viseu
+32,"Santa Catarina",20,Porto
+32,"Vasgo da Gama",0,Lisboa
+33,Aeroporto,14,Lisboa
+33,Amoreiras,21,Lisboa
+33,"Braga Parque",30,Braga
+33,"CC Setúbal",14,Setúbal
+33,Colombo,3,Lisboa
+33,"Estação Viana",14,"Viana do Castelo"
+33,"Évora Plaza",7,Évora
+33,"Fórum Algarve",0,Faro
+33,"Fórum Aveiro",10,Aveiro
+33,"Fórum Coimbra",18,Coimbra
+33,"Gaia Shopping",14,Porto
+33,"Leiria Shopping",13,Leiria
+33,"Norte Shopping",10,Porto
+33,"Nosso Shopping",25,"Vila Real"
+33,"Palácio do Gelo",5,Viseu
+33,"Santa Catarina",29,Porto
+33,"Vasgo da Gama",22,Lisboa
+34,Aeroporto,3,Lisboa
+34,Amoreiras,20,Lisboa
+34,"Braga Parque",25,Braga
+34,"CC Setúbal",9,Setúbal
+34,Colombo,17,Lisboa
+34,"Estação Viana",8,"Viana do Castelo"
+34,"Évora Plaza",23,Évora
+34,"Fórum Algarve",0,Faro
+34,"Fórum Aveiro",25,Aveiro
+34,"Fórum Coimbra",16,Coimbra
+34,"Gaia Shopping",11,Porto
+34,"Leiria Shopping",0,Leiria
+34,"Norte Shopping",12,Porto
+34,"Nosso Shopping",26,"Vila Real"
+34,"Palácio do Gelo",14,Viseu
+34,"Santa Catarina",5,Porto
+34,"Vasgo da Gama",11,Lisboa
+35,Aeroporto,25,Lisboa
+35,Amoreiras,14,Lisboa
+35,"Braga Parque",7,Braga
+35,"CC Setúbal",20,Setúbal
+35,Colombo,24,Lisboa
+35,"Estação Viana",9,"Viana do Castelo"
+35,"Évora Plaza",10,Évora
+35,"Fórum Algarve",17,Faro
+35,"Fórum Aveiro",1,Aveiro
+35,"Fórum Coimbra",20,Coimbra
+35,"Gaia Shopping",4,Porto
+35,"Leiria Shopping",4,Leiria
+35,"Norte Shopping",18,Porto
+35,"Nosso Shopping",9,"Vila Real"
+35,"Palácio do Gelo",0,Viseu
+35,"Santa Catarina",27,Porto
+35,"Vasgo da Gama",0,Lisboa
+36,Aeroporto,7,Lisboa
+36,Amoreiras,30,Lisboa
+36,"Braga Parque",22,Braga
+36,"CC Setúbal",12,Setúbal
+36,Colombo,17,Lisboa
+36,"Estação Viana",7,"Viana do Castelo"
+36,"Évora Plaza",8,Évora
+36,"Fórum Algarve",0,Faro
+36,"Fórum Aveiro",10,Aveiro
+36,"Fórum Coimbra",20,Coimbra
+36,"Gaia Shopping",2,Porto
+36,"Leiria Shopping",26,Leiria
+36,"Norte Shopping",27,Porto
+36,"Nosso Shopping",0,"Vila Real"
+36,"Palácio do Gelo",23,Viseu
+36,"Santa Catarina",16,Porto
+36,"Vasgo da Gama",0,Lisboa
+37,Aeroporto,4,Lisboa
+37,Amoreiras,0,Lisboa
+37,"Braga Parque",2,Braga
+37,"CC Setúbal",5,Setúbal
+37,Colombo,20,Lisboa
+37,"Estação Viana",20,"Viana do Castelo"
+37,"Évora Plaza",0,Évora
+37,"Fórum Algarve",27,Faro
+37,"Fórum Aveiro",0,Aveiro
+37,"Fórum Coimbra",9,Coimbra
+37,"Gaia Shopping",31,Porto
+37,"Leiria Shopping",26,Leiria
+37,"Norte Shopping",16,Porto
+37,"Nosso Shopping",4,"Vila Real"
+37,"Palácio do Gelo",23,Viseu
+37,"Santa Catarina",0,Porto
+37,"Vasgo da Gama",4,Lisboa
+38,Aeroporto,20,Lisboa
+38,Amoreiras,27,Lisboa
+38,"Braga Parque",28,Braga
+38,"CC Setúbal",0,Setúbal
+38,Colombo,25,Lisboa
+38,"Estação Viana",27,"Viana do Castelo"
+38,"Évora Plaza",28,Évora
+38,"Fórum Algarve",14,Faro
+38,"Fórum Aveiro",1,Aveiro
+38,"Fórum Coimbra",25,Coimbra
+38,"Gaia Shopping",17,Porto
+38,"Leiria Shopping",10,Leiria
+38,"Norte Shopping",4,Porto
+38,"Nosso Shopping",28,"Vila Real"
+38,"Palácio do Gelo",21,Viseu
+38,"Santa Catarina",19,Porto
+38,"Vasgo da Gama",0,Lisboa
+39,Aeroporto,14,Lisboa
+39,Amoreiras,17,Lisboa
+39,"Braga Parque",12,Braga
+39,"CC Setúbal",0,Setúbal
+39,Colombo,14,Lisboa
+39,"Estação Viana",15,"Viana do Castelo"
+39,"Évora Plaza",6,Évora
+39,"Fórum Algarve",7,Faro
+39,"Fórum Aveiro",13,Aveiro
+39,"Fórum Coimbra",12,Coimbra
+39,"Gaia Shopping",27,Porto
+39,"Leiria Shopping",25,Leiria
+39,"Norte Shopping",17,Porto
+39,"Nosso Shopping",23,"Vila Real"
+39,"Palácio do Gelo",14,Viseu
+39,"Santa Catarina",31,Porto
+39,"Vasgo da Gama",14,Lisboa
+40,Aeroporto,28,Lisboa
+40,Amoreiras,21,Lisboa
+40,"Braga Parque",1,Braga
+40,"CC Setúbal",30,Setúbal
+40,Colombo,12,Lisboa
+40,"Estação Viana",22,"Viana do Castelo"
+40,"Évora Plaza",3,Évora
+40,"Fórum Algarve",8,Faro
+40,"Fórum Aveiro",0,Aveiro
+40,"Fórum Coimbra",29,Coimbra
+40,"Gaia Shopping",0,Porto
+40,"Leiria Shopping",0,Leiria
+40,"Norte Shopping",28,Porto
+40,"Nosso Shopping",29,"Vila Real"
+40,"Palácio do Gelo",27,Viseu
+40,"Santa Catarina",0,Porto
+40,"Vasgo da Gama",5,Lisboa
+41,Aeroporto,23,Lisboa
+41,Amoreiras,30,Lisboa
+41,"Braga Parque",9,Braga
+41,"CC Setúbal",2,Setúbal
+41,Colombo,13,Lisboa
+41,"Estação Viana",27,"Viana do Castelo"
+41,"Évora Plaza",25,Évora
+41,"Fórum Algarve",18,Faro
+41,"Fórum Aveiro",20,Aveiro
+41,"Fórum Coimbra",18,Coimbra
+41,"Gaia Shopping",16,Porto
+41,"Leiria Shopping",22,Leiria
+41,"Norte Shopping",22,Porto
+41,"Nosso Shopping",1,"Vila Real"
+41,"Palácio do Gelo",6,Viseu
+41,"Santa Catarina",31,Porto
+41,"Vasgo da Gama",5,Lisboa
+42,Aeroporto,28,Lisboa
+42,Amoreiras,19,Lisboa
+42,"Braga Parque",26,Braga
+42,"CC Setúbal",25,Setúbal
+42,Colombo,14,Lisboa
+42,"Estação Viana",4,"Viana do Castelo"
+42,"Évora Plaza",12,Évora
+42,"Fórum Algarve",0,Faro
+42,"Fórum Aveiro",25,Aveiro
+42,"Fórum Coimbra",30,Coimbra
+42,"Gaia Shopping",23,Porto
+42,"Leiria Shopping",17,Leiria
+42,"Norte Shopping",7,Porto
+42,"Nosso Shopping",17,"Vila Real"
+42,"Palácio do Gelo",9,Viseu
+42,"Santa Catarina",29,Porto
+42,"Vasgo da Gama",21,Lisboa
+43,Aeroporto,0,Lisboa
+43,Amoreiras,20,Lisboa
+43,"Braga Parque",9,Braga
+43,"CC Setúbal",0,Setúbal
+43,Colombo,5,Lisboa
+43,"Estação Viana",14,"Viana do Castelo"
+43,"Évora Plaza",23,Évora
+43,"Fórum Algarve",19,Faro
+43,"Fórum Aveiro",29,Aveiro
+43,"Fórum Coimbra",6,Coimbra
+43,"Gaia Shopping",11,Porto
+43,"Leiria Shopping",0,Leiria
+43,"Norte Shopping",11,Porto
+43,"Nosso Shopping",14,"Vila Real"
+43,"Palácio do Gelo",5,Viseu
+43,"Santa Catarina",8,Porto
+43,"Vasgo da Gama",12,Lisboa
+44,Aeroporto,28,Lisboa
+44,Amoreiras,29,Lisboa
+44,"Braga Parque",22,Braga
+44,"CC Setúbal",4,Setúbal
+44,Colombo,2,Lisboa
+44,"Estação Viana",28,"Viana do Castelo"
+44,"Évora Plaza",14,Évora
+44,"Fórum Algarve",14,Faro
+44,"Fórum Aveiro",0,Aveiro
+44,"Fórum Coimbra",25,Coimbra
+44,"Gaia Shopping",26,Porto
+44,"Leiria Shopping",16,Leiria
+44,"Norte Shopping",24,Porto
+44,"Nosso Shopping",10,"Vila Real"
+44,"Palácio do Gelo",19,Viseu
+44,"Santa Catarina",27,Porto
+44,"Vasgo da Gama",23,Lisboa
+45,Aeroporto,5,Lisboa
+45,Amoreiras,3,Lisboa
+45,"Braga Parque",4,Braga
+45,"CC Setúbal",31,Setúbal
+45,Colombo,2,Lisboa
+45,"Estação Viana",11,"Viana do Castelo"
+45,"Évora Plaza",0,Évora
+45,"Fórum Algarve",0,Faro
+45,"Fórum Aveiro",7,Aveiro
+45,"Fórum Coimbra",25,Coimbra
+45,"Gaia Shopping",29,Porto
+45,"Leiria Shopping",24,Leiria
+45,"Norte Shopping",24,Porto
+45,"Nosso Shopping",10,"Vila Real"
+45,"Palácio do Gelo",9,Viseu
+45,"Santa Catarina",0,Porto
+45,"Vasgo da Gama",0,Lisboa
+46,Aeroporto,7,Lisboa
+46,Amoreiras,0,Lisboa
+46,"Braga Parque",20,Braga
+46,"CC Setúbal",24,Setúbal
+46,Colombo,6,Lisboa
+46,"Estação Viana",28,"Viana do Castelo"
+46,"Évora Plaza",0,Évora
+46,"Fórum Algarve",3,Faro
+46,"Fórum Aveiro",22,Aveiro
+46,"Fórum Coimbra",14,Coimbra
+46,"Gaia Shopping",23,Porto
+46,"Leiria Shopping",0,Leiria
+46,"Norte Shopping",14,Porto
+46,"Nosso Shopping",26,"Vila Real"
+46,"Palácio do Gelo",13,Viseu
+46,"Santa Catarina",11,Porto
+46,"Vasgo da Gama",16,Lisboa
+47,Aeroporto,17,Lisboa
+47,Amoreiras,17,Lisboa
+47,"Braga Parque",12,Braga
+47,"CC Setúbal",16,Setúbal
+47,Colombo,26,Lisboa
+47,"Estação Viana",15,"Viana do Castelo"
+47,"Évora Plaza",0,Évora
+47,"Fórum Algarve",9,Faro
+47,"Fórum Aveiro",14,Aveiro
+47,"Fórum Coimbra",10,Coimbra
+47,"Gaia Shopping",27,Porto
+47,"Leiria Shopping",18,Leiria
+47,"Norte Shopping",14,Porto
+47,"Nosso Shopping",6,"Vila Real"
+47,"Palácio do Gelo",8,Viseu
+47,"Santa Catarina",1,Porto
+47,"Vasgo da Gama",0,Lisboa
+48,Aeroporto,0,Lisboa
+48,Amoreiras,19,Lisboa
+48,"Braga Parque",4,Braga
+48,"CC Setúbal",26,Setúbal
+48,Colombo,15,Lisboa
+48,"Estação Viana",28,"Viana do Castelo"
+48,"Évora Plaza",11,Évora
+48,"Fórum Algarve",18,Faro
+48,"Fórum Aveiro",9,Aveiro
+48,"Fórum Coimbra",12,Coimbra
+48,"Gaia Shopping",31,Porto
+48,"Leiria Shopping",0,Leiria
+48,"Norte Shopping",11,Porto
+48,"Nosso Shopping",26,"Vila Real"
+48,"Palácio do Gelo",5,Viseu
+48,"Santa Catarina",14,Porto
+48,"Vasgo da Gama",12,Lisboa
+49,Aeroporto,12,Lisboa
+49,Amoreiras,0,Lisboa
+49,"Braga Parque",12,Braga
+49,"CC Setúbal",20,Setúbal
+49,Colombo,15,Lisboa
+49,"Estação Viana",30,"Viana do Castelo"
+49,"Évora Plaza",28,Évora
+49,"Fórum Algarve",13,Faro
+49,"Fórum Aveiro",12,Aveiro
+49,"Fórum Coimbra",4,Coimbra
+49,"Gaia Shopping",21,Porto
+49,"Leiria Shopping",2,Leiria
+49,"Norte Shopping",6,Porto
+49,"Nosso Shopping",0,"Vila Real"
+49,"Palácio do Gelo",8,Viseu
+49,"Santa Catarina",5,Porto
+49,"Vasgo da Gama",8,Lisboa
+50,Aeroporto,28,Lisboa
+50,Amoreiras,3,Lisboa
+50,"Braga Parque",25,Braga
+50,"CC Setúbal",9,Setúbal
+50,Colombo,3,Lisboa
+50,"Estação Viana",10,"Viana do Castelo"
+50,"Évora Plaza",26,Évora
+50,"Fórum Algarve",28,Faro
+50,"Fórum Aveiro",8,Aveiro
+50,"Fórum Coimbra",9,Coimbra
+50,"Gaia Shopping",23,Porto
+50,"Leiria Shopping",17,Leiria
+50,"Norte Shopping",22,Porto
+50,"Nosso Shopping",22,"Vila Real"
+50,"Palácio do Gelo",6,Viseu
+50,"Santa Catarina",21,Porto
+50,"Vasgo da Gama",1,Lisboa
+51,Aeroporto,16,Lisboa
+51,Amoreiras,9,Lisboa
+51,"Braga Parque",17,Braga
+51,"CC Setúbal",2,Setúbal
+51,Colombo,15,Lisboa
+51,"Estação Viana",7,"Viana do Castelo"
+51,"Évora Plaza",8,Évora
+51,"Fórum Algarve",0,Faro
+51,"Fórum Aveiro",24,Aveiro
+51,"Fórum Coimbra",15,Coimbra
+51,"Gaia Shopping",29,Porto
+51,"Leiria Shopping",13,Leiria
+51,"Norte Shopping",9,Porto
+51,"Nosso Shopping",1,"Vila Real"
+51,"Palácio do Gelo",19,Viseu
+51,"Santa Catarina",0,Porto
+51,"Vasgo da Gama",26,Lisboa
+52,Aeroporto,31,Lisboa
+52,Amoreiras,12,Lisboa
+52,"Braga Parque",31,Braga
+52,"CC Setúbal",18,Setúbal
+52,Colombo,27,Lisboa
+52,"Estação Viana",13,"Viana do Castelo"
+52,"Évora Plaza",26,Évora
+52,"Fórum Algarve",26,Faro
+52,"Fórum Aveiro",3,Aveiro
+52,"Fórum Coimbra",13,Coimbra
+52,"Gaia Shopping",14,Porto
+52,"Leiria Shopping",16,Leiria
+52,"Norte Shopping",1,Porto
+52,"Nosso Shopping",0,"Vila Real"
+52,"Palácio do Gelo",17,Viseu
+52,"Santa Catarina",0,Porto
+52,"Vasgo da Gama",3,Lisboa
+53,Aeroporto,0,Lisboa
+53,Amoreiras,5,Lisboa
+53,"Braga Parque",20,Braga
+53,"CC Setúbal",23,Setúbal
+53,Colombo,8,Lisboa
+53,"Estação Viana",22,"Viana do Castelo"
+53,"Évora Plaza",14,Évora
+53,"Fórum Algarve",16,Faro
+53,"Fórum Aveiro",9,Aveiro
+53,"Fórum Coimbra",0,Coimbra
+53,"Gaia Shopping",21,Porto
+53,"Leiria Shopping",14,Leiria
+53,"Norte Shopping",6,Porto
+53,"Nosso Shopping",31,"Vila Real"
+53,"Palácio do Gelo",5,Viseu
+53,"Santa Catarina",0,Porto
+53,"Vasgo da Gama",14,Lisboa
+54,Aeroporto,2,Lisboa
+54,Amoreiras,3,Lisboa
+54,"Braga Parque",0,Braga
+54,"CC Setúbal",18,Setúbal
+54,Colombo,0,Lisboa
+54,"Estação Viana",16,"Viana do Castelo"
+54,"Évora Plaza",17,Évora
+54,"Fórum Algarve",18,Faro
+54,"Fórum Aveiro",14,Aveiro
+54,"Fórum Coimbra",22,Coimbra
+54,"Gaia Shopping",5,Porto
+54,"Leiria Shopping",12,Leiria
+54,"Norte Shopping",26,Porto
+54,"Nosso Shopping",8,"Vila Real"
+54,"Palácio do Gelo",17,Viseu
+54,"Santa Catarina",0,Porto
+54,"Vasgo da Gama",0,Lisboa
+55,Aeroporto,22,Lisboa
+55,Amoreiras,3,Lisboa
+55,"Braga Parque",0,Braga
+55,"CC Setúbal",26,Setúbal
+55,Colombo,3,Lisboa
+55,"Estação Viana",28,"Viana do Castelo"
+55,"Évora Plaza",30,Évora
+55,"Fórum Algarve",0,Faro
+55,"Fórum Aveiro",0,Aveiro
+55,"Fórum Coimbra",18,Coimbra
+55,"Gaia Shopping",13,Porto
+55,"Leiria Shopping",15,Leiria
+55,"Norte Shopping",16,Porto
+55,"Nosso Shopping",29,"Vila Real"
+55,"Palácio do Gelo",20,Viseu
+55,"Santa Catarina",24,Porto
+55,"Vasgo da Gama",7,Lisboa
+56,Aeroporto,31,Lisboa
+56,Amoreiras,26,Lisboa
+56,"Braga Parque",0,Braga
+56,"CC Setúbal",0,Setúbal
+56,Colombo,22,Lisboa
+56,"Estação Viana",9,"Viana do Castelo"
+56,"Évora Plaza",16,Évora
+56,"Fórum Algarve",25,Faro
+56,"Fórum Aveiro",19,Aveiro
+56,"Fórum Coimbra",7,Coimbra
+56,"Gaia Shopping",0,Porto
+56,"Leiria Shopping",1,Leiria
+56,"Norte Shopping",22,Porto
+56,"Nosso Shopping",1,"Vila Real"
+56,"Palácio do Gelo",4,Viseu
+56,"Santa Catarina",26,Porto
+56,"Vasgo da Gama",24,Lisboa
+57,Aeroporto,23,Lisboa
+57,Amoreiras,0,Lisboa
+57,"Braga Parque",5,Braga
+57,"CC Setúbal",15,Setúbal
+57,Colombo,4,Lisboa
+57,"Estação Viana",19,"Viana do Castelo"
+57,"Évora Plaza",0,Évora
+57,"Fórum Algarve",12,Faro
+57,"Fórum Aveiro",27,Aveiro
+57,"Fórum Coimbra",12,Coimbra
+57,"Gaia Shopping",7,Porto
+57,"Leiria Shopping",7,Leiria
+57,"Norte Shopping",26,Porto
+57,"Nosso Shopping",1,"Vila Real"
+57,"Palácio do Gelo",27,Viseu
+57,"Santa Catarina",0,Porto
+57,"Vasgo da Gama",15,Lisboa
+58,Aeroporto,10,Lisboa
+58,Amoreiras,30,Lisboa
+58,"Braga Parque",17,Braga
+58,"CC Setúbal",4,Setúbal
+58,Colombo,19,Lisboa
+58,"Estação Viana",30,"Viana do Castelo"
+58,"Évora Plaza",0,Évora
+58,"Fórum Algarve",0,Faro
+58,"Fórum Aveiro",15,Aveiro
+58,"Fórum Coimbra",29,Coimbra
+58,"Gaia Shopping",0,Porto
+58,"Leiria Shopping",4,Leiria
+58,"Norte Shopping",26,Porto
+58,"Nosso Shopping",0,"Vila Real"
+58,"Palácio do Gelo",25,Viseu
+58,"Santa Catarina",0,Porto
+58,"Vasgo da Gama",30,Lisboa
+59,Aeroporto,0,Lisboa
+59,Amoreiras,4,Lisboa
+59,"Braga Parque",23,Braga
+59,"CC Setúbal",11,Setúbal
+59,Colombo,3,Lisboa
+59,"Estação Viana",23,"Viana do Castelo"
+59,"Évora Plaza",20,Évora
+59,"Fórum Algarve",27,Faro
+59,"Fórum Aveiro",15,Aveiro
+59,"Fórum Coimbra",2,Coimbra
+59,"Gaia Shopping",3,Porto
+59,"Leiria Shopping",28,Leiria
+59,"Norte Shopping",31,Porto
+59,"Nosso Shopping",19,"Vila Real"
+59,"Palácio do Gelo",25,Viseu
+59,"Santa Catarina",0,Porto
+59,"Vasgo da Gama",0,Lisboa
+60,Aeroporto,21,Lisboa
+60,Amoreiras,15,Lisboa
+60,"Braga Parque",15,Braga
+60,"CC Setúbal",25,Setúbal
+60,Colombo,28,Lisboa
+60,"Estação Viana",30,"Viana do Castelo"
+60,"Évora Plaza",0,Évora
+60,"Fórum Algarve",14,Faro
+60,"Fórum Aveiro",21,Aveiro
+60,"Fórum Coimbra",24,Coimbra
+60,"Gaia Shopping",0,Porto
+60,"Leiria Shopping",0,Leiria
+60,"Norte Shopping",19,Porto
+60,"Nosso Shopping",8,"Vila Real"
+60,"Palácio do Gelo",17,Viseu
+60,"Santa Catarina",22,Porto
+60,"Vasgo da Gama",0,Lisboa
+61,Aeroporto,11,Lisboa
+61,Amoreiras,14,Lisboa
+61,"Braga Parque",0,Braga
+61,"CC Setúbal",19,Setúbal
+61,Colombo,11,Lisboa
+61,"Estação Viana",14,"Viana do Castelo"
+61,"Évora Plaza",7,Évora
+61,"Fórum Algarve",18,Faro
+61,"Fórum Aveiro",24,Aveiro
+61,"Fórum Coimbra",14,Coimbra
+61,"Gaia Shopping",5,Porto
+61,"Leiria Shopping",0,Leiria
+61,"Norte Shopping",12,Porto
+61,"Nosso Shopping",27,"Vila Real"
+61,"Palácio do Gelo",16,Viseu
+61,"Santa Catarina",0,Porto
+61,"Vasgo da Gama",3,Lisboa
+62,Aeroporto,10,Lisboa
+62,Amoreiras,24,Lisboa
+62,"Braga Parque",14,Braga
+62,"CC Setúbal",29,Setúbal
+62,Colombo,16,Lisboa
+62,"Estação Viana",11,"Viana do Castelo"
+62,"Évora Plaza",6,Évora
+62,"Fórum Algarve",23,Faro
+62,"Fórum Aveiro",11,Aveiro
+62,"Fórum Coimbra",16,Coimbra
+62,"Gaia Shopping",4,Porto
+62,"Leiria Shopping",2,Leiria
+62,"Norte Shopping",31,Porto
+62,"Nosso Shopping",29,"Vila Real"
+62,"Palácio do Gelo",22,Viseu
+62,"Santa Catarina",0,Porto
+62,"Vasgo da Gama",29,Lisboa
+63,Aeroporto,0,Lisboa
+63,Amoreiras,16,Lisboa
+63,"Braga Parque",22,Braga
+63,"CC Setúbal",18,Setúbal
+63,Colombo,29,Lisboa
+63,"Estação Viana",4,"Viana do Castelo"
+63,"Évora Plaza",1,Évora
+63,"Fórum Algarve",0,Faro
+63,"Fórum Aveiro",23,Aveiro
+63,"Fórum Coimbra",28,Coimbra
+63,"Gaia Shopping",12,Porto
+63,"Leiria Shopping",24,Leiria
+63,"Norte Shopping",0,Porto
+63,"Nosso Shopping",23,"Vila Real"
+63,"Palácio do Gelo",0,Viseu
+63,"Santa Catarina",6,Porto
+63,"Vasgo da Gama",7,Lisboa
+64,Aeroporto,31,Lisboa
+64,Amoreiras,14,Lisboa
+64,"Braga Parque",2,Braga
+64,"CC Setúbal",4,Setúbal
+64,Colombo,15,Lisboa
+64,"Estação Viana",0,"Viana do Castelo"
+64,"Évora Plaza",3,Évora
+64,"Fórum Algarve",1,Faro
+64,"Fórum Aveiro",0,Aveiro
+64,"Fórum Coimbra",0,Coimbra
+64,"Gaia Shopping",13,Porto
+64,"Leiria Shopping",4,Leiria
+64,"Norte Shopping",24,Porto
+64,"Nosso Shopping",12,"Vila Real"
+64,"Palácio do Gelo",18,Viseu
+64,"Santa Catarina",28,Porto
+64,"Vasgo da Gama",11,Lisboa
+65,Aeroporto,28,Lisboa
+65,Amoreiras,0,Lisboa
+65,"Braga Parque",1,Braga
+65,"CC Setúbal",30,Setúbal
+65,Colombo,21,Lisboa
+65,"Estação Viana",14,"Viana do Castelo"
+65,"Évora Plaza",24,Évora
+65,"Fórum Algarve",28,Faro
+65,"Fórum Aveiro",0,Aveiro
+65,"Fórum Coimbra",21,Coimbra
+65,"Gaia Shopping",12,Porto
+65,"Leiria Shopping",6,Leiria
+65,"Norte Shopping",18,Porto
+65,"Nosso Shopping",30,"Vila Real"
+65,"Palácio do Gelo",14,Viseu
+65,"Santa Catarina",0,Porto
+65,"Vasgo da Gama",26,Lisboa
+66,Aeroporto,0,Lisboa
+66,Amoreiras,15,Lisboa
+66,"Braga Parque",8,Braga
+66,"CC Setúbal",23,Setúbal
+66,Colombo,1,Lisboa
+66,"Estação Viana",15,"Viana do Castelo"
+66,"Évora Plaza",5,Évora
+66,"Fórum Algarve",26,Faro
+66,"Fórum Aveiro",2,Aveiro
+66,"Fórum Coimbra",9,Coimbra
+66,"Gaia Shopping",25,Porto
+66,"Leiria Shopping",9,Leiria
+66,"Norte Shopping",23,Porto
+66,"Nosso Shopping",19,"Vila Real"
+66,"Palácio do Gelo",14,Viseu
+66,"Santa Catarina",29,Porto
+66,"Vasgo da Gama",29,Lisboa
+67,Aeroporto,11,Lisboa
+67,Amoreiras,21,Lisboa
+67,"Braga Parque",28,Braga
+67,"CC Setúbal",14,Setúbal
+67,Colombo,2,Lisboa
+67,"Estação Viana",11,"Viana do Castelo"
+67,"Évora Plaza",25,Évora
+67,"Fórum Algarve",17,Faro
+67,"Fórum Aveiro",6,Aveiro
+67,"Fórum Coimbra",3,Coimbra
+67,"Gaia Shopping",25,Porto
+67,"Leiria Shopping",28,Leiria
+67,"Norte Shopping",4,Porto
+67,"Nosso Shopping",14,"Vila Real"
+67,"Palácio do Gelo",23,Viseu
+67,"Santa Catarina",22,Porto
+67,"Vasgo da Gama",26,Lisboa
+68,Aeroporto,19,Lisboa
+68,Amoreiras,19,Lisboa
+68,"Braga Parque",13,Braga
+68,"CC Setúbal",28,Setúbal
+68,Colombo,31,Lisboa
+68,"Estação Viana",16,"Viana do Castelo"
+68,"Évora Plaza",4,Évora
+68,"Fórum Algarve",16,Faro
+68,"Fórum Aveiro",19,Aveiro
+68,"Fórum Coimbra",1,Coimbra
+68,"Gaia Shopping",4,Porto
+68,"Leiria Shopping",17,Leiria
+68,"Norte Shopping",5,Porto
+68,"Nosso Shopping",1,"Vila Real"
+68,"Palácio do Gelo",29,Viseu
+68,"Santa Catarina",30,Porto
+68,"Vasgo da Gama",8,Lisboa
+69,Aeroporto,16,Lisboa
+69,Amoreiras,29,Lisboa
+69,"Braga Parque",3,Braga
+69,"CC Setúbal",0,Setúbal
+69,Colombo,8,Lisboa
+69,"Estação Viana",6,"Viana do Castelo"
+69,"Évora Plaza",26,Évora
+69,"Fórum Algarve",16,Faro
+69,"Fórum Aveiro",27,Aveiro
+69,"Fórum Coimbra",6,Coimbra
+69,"Gaia Shopping",5,Porto
+69,"Leiria Shopping",11,Leiria
+69,"Norte Shopping",6,Porto
+69,"Nosso Shopping",30,"Vila Real"
+69,"Palácio do Gelo",25,Viseu
+69,"Santa Catarina",24,Porto
+69,"Vasgo da Gama",18,Lisboa
+70,Aeroporto,28,Lisboa
+70,Amoreiras,9,Lisboa
+70,"Braga Parque",6,Braga
+70,"CC Setúbal",16,Setúbal
+70,Colombo,13,Lisboa
+70,"Estação Viana",5,"Viana do Castelo"
+70,"Évora Plaza",4,Évora
+70,"Fórum Algarve",24,Faro
+70,"Fórum Aveiro",14,Aveiro
+70,"Fórum Coimbra",0,Coimbra
+70,"Gaia Shopping",23,Porto
+70,"Leiria Shopping",4,Leiria
+70,"Norte Shopping",21,Porto
+70,"Nosso Shopping",9,"Vila Real"
+70,"Palácio do Gelo",13,Viseu
+70,"Santa Catarina",23,Porto
+70,"Vasgo da Gama",2,Lisboa
+71,Aeroporto,12,Lisboa
+71,Amoreiras,20,Lisboa
+71,"Braga Parque",23,Braga
+71,"CC Setúbal",2,Setúbal
+71,Colombo,19,Lisboa
+71,"Estação Viana",11,"Viana do Castelo"
+71,"Évora Plaza",22,Évora
+71,"Fórum Algarve",25,Faro
+71,"Fórum Aveiro",14,Aveiro
+71,"Fórum Coimbra",31,Coimbra
+71,"Gaia Shopping",17,Porto
+71,"Leiria Shopping",0,Leiria
+71,"Norte Shopping",1,Porto
+71,"Nosso Shopping",2,"Vila Real"
+71,"Palácio do Gelo",21,Viseu
+71,"Santa Catarina",13,Porto
+71,"Vasgo da Gama",1,Lisboa
+72,Aeroporto,22,Lisboa
+72,Amoreiras,5,Lisboa
+72,"Braga Parque",18,Braga
+72,"CC Setúbal",2,Setúbal
+72,Colombo,4,Lisboa
+72,"Estação Viana",3,"Viana do Castelo"
+72,"Évora Plaza",12,Évora
+72,"Fórum Algarve",0,Faro
+72,"Fórum Aveiro",9,Aveiro
+72,"Fórum Coimbra",19,Coimbra
+72,"Gaia Shopping",0,Porto
+72,"Leiria Shopping",16,Leiria
+72,"Norte Shopping",4,Porto
+72,"Nosso Shopping",1,"Vila Real"
+72,"Palácio do Gelo",6,Viseu
+72,"Santa Catarina",3,Porto
+72,"Vasgo da Gama",2,Lisboa
+73,Aeroporto,0,Lisboa
+73,Amoreiras,21,Lisboa
+73,"Braga Parque",28,Braga
+73,"CC Setúbal",7,Setúbal
+73,Colombo,30,Lisboa
+73,"Estação Viana",31,"Viana do Castelo"
+73,"Évora Plaza",16,Évora
+73,"Fórum Algarve",2,Faro
+73,"Fórum Aveiro",0,Aveiro
+73,"Fórum Coimbra",2,Coimbra
+73,"Gaia Shopping",24,Porto
+73,"Leiria Shopping",20,Leiria
+73,"Norte Shopping",21,Porto
+73,"Nosso Shopping",0,"Vila Real"
+73,"Palácio do Gelo",16,Viseu
+73,"Santa Catarina",9,Porto
+73,"Vasgo da Gama",30,Lisboa
+74,Aeroporto,2,Lisboa
+74,Amoreiras,18,Lisboa
+74,"Braga Parque",23,Braga
+74,"CC Setúbal",29,Setúbal
+74,Colombo,24,Lisboa
+74,"Estação Viana",0,"Viana do Castelo"
+74,"Évora Plaza",20,Évora
+74,"Fórum Algarve",1,Faro
+74,"Fórum Aveiro",14,Aveiro
+74,"Fórum Coimbra",17,Coimbra
+74,"Gaia Shopping",16,Porto
+74,"Leiria Shopping",25,Leiria
+74,"Norte Shopping",25,Porto
+74,"Nosso Shopping",14,"Vila Real"
+74,"Palácio do Gelo",6,Viseu
+74,"Santa Catarina",9,Porto
+74,"Vasgo da Gama",14,Lisboa
+75,Aeroporto,1,Lisboa
+75,Amoreiras,14,Lisboa
+75,"Braga Parque",29,Braga
+75,"CC Setúbal",30,Setúbal
+75,Colombo,5,Lisboa
+75,"Estação Viana",24,"Viana do Castelo"
+75,"Évora Plaza",5,Évora
+75,"Fórum Algarve",0,Faro
+75,"Fórum Aveiro",20,Aveiro
+75,"Fórum Coimbra",14,Coimbra
+75,"Gaia Shopping",7,Porto
+75,"Leiria Shopping",14,Leiria
+75,"Norte Shopping",26,Porto
+75,"Nosso Shopping",19,"Vila Real"
+75,"Palácio do Gelo",3,Viseu
+75,"Santa Catarina",4,Porto
+75,"Vasgo da Gama",12,Lisboa
+76,Aeroporto,27,Lisboa
+76,Amoreiras,8,Lisboa
+76,"Braga Parque",18,Braga
+76,"CC Setúbal",10,Setúbal
+76,Colombo,13,Lisboa
+76,"Estação Viana",8,"Viana do Castelo"
+76,"Évora Plaza",8,Évora
+76,"Fórum Algarve",14,Faro
+76,"Fórum Aveiro",26,Aveiro
+76,"Fórum Coimbra",11,Coimbra
+76,"Gaia Shopping",5,Porto
+76,"Leiria Shopping",22,Leiria
+76,"Norte Shopping",9,Porto
+76,"Nosso Shopping",31,"Vila Real"
+76,"Palácio do Gelo",5,Viseu
+76,"Santa Catarina",10,Porto
+76,"Vasgo da Gama",0,Lisboa
+77,Aeroporto,0,Lisboa
+77,Amoreiras,18,Lisboa
+77,"Braga Parque",19,Braga
+77,"CC Setúbal",15,Setúbal
+77,Colombo,5,Lisboa
+77,"Estação Viana",0,"Viana do Castelo"
+77,"Évora Plaza",10,Évora
+77,"Fórum Algarve",9,Faro
+77,"Fórum Aveiro",26,Aveiro
+77,"Fórum Coimbra",25,Coimbra
+77,"Gaia Shopping",4,Porto
+77,"Leiria Shopping",0,Leiria
+77,"Norte Shopping",10,Porto
+77,"Nosso Shopping",5,"Vila Real"
+77,"Palácio do Gelo",21,Viseu
+77,"Santa Catarina",25,Porto
+77,"Vasgo da Gama",30,Lisboa
+78,Aeroporto,7,Lisboa
+78,Amoreiras,8,Lisboa
+78,"Braga Parque",19,Braga
+78,"CC Setúbal",18,Setúbal
+78,Colombo,21,Lisboa
+78,"Estação Viana",14,"Viana do Castelo"
+78,"Évora Plaza",10,Évora
+78,"Fórum Algarve",2,Faro
+78,"Fórum Aveiro",12,Aveiro
+78,"Fórum Coimbra",26,Coimbra
+78,"Gaia Shopping",2,Porto
+78,"Leiria Shopping",8,Leiria
+78,"Norte Shopping",6,Porto
+78,"Nosso Shopping",14,"Vila Real"
+78,"Palácio do Gelo",1,Viseu
+78,"Santa Catarina",17,Porto
+78,"Vasgo da Gama",0,Lisboa
+79,Aeroporto,1,Lisboa
+79,Amoreiras,28,Lisboa
+79,"Braga Parque",29,Braga
+79,"CC Setúbal",24,Setúbal
+79,Colombo,12,Lisboa
+79,"Estação Viana",2,"Viana do Castelo"
+79,"Évora Plaza",21,Évora
+79,"Fórum Algarve",20,Faro
+79,"Fórum Aveiro",1,Aveiro
+79,"Fórum Coimbra",14,Coimbra
+79,"Gaia Shopping",25,Porto
+79,"Leiria Shopping",31,Leiria
+79,"Norte Shopping",2,Porto
+79,"Nosso Shopping",7,"Vila Real"
+79,"Palácio do Gelo",20,Viseu
+79,"Santa Catarina",5,Porto
+79,"Vasgo da Gama",6,Lisboa
+80,Aeroporto,17,Lisboa
+80,Amoreiras,25,Lisboa
+80,"Braga Parque",26,Braga
+80,"CC Setúbal",25,Setúbal
+80,Colombo,10,Lisboa
+80,"Estação Viana",5,"Viana do Castelo"
+80,"Évora Plaza",27,Évora
+80,"Fórum Algarve",0,Faro
+80,"Fórum Aveiro",19,Aveiro
+80,"Fórum Coimbra",24,Coimbra
+80,"Gaia Shopping",5,Porto
+80,"Leiria Shopping",12,Leiria
+80,"Norte Shopping",0,Porto
+80,"Nosso Shopping",24,"Vila Real"
+80,"Palácio do Gelo",24,Viseu
+80,"Santa Catarina",1,Porto
+80,"Vasgo da Gama",13,Lisboa
+81,Aeroporto,14,Lisboa
+81,Amoreiras,22,Lisboa
+81,"Braga Parque",16,Braga
+81,"CC Setúbal",11,Setúbal
+81,Colombo,4,Lisboa
+81,"Estação Viana",23,"Viana do Castelo"
+81,"Évora Plaza",7,Évora
+81,"Fórum Algarve",27,Faro
+81,"Fórum Aveiro",17,Aveiro
+81,"Fórum Coimbra",12,Coimbra
+81,"Gaia Shopping",17,Porto
+81,"Leiria Shopping",11,Leiria
+81,"Norte Shopping",1,Porto
+81,"Nosso Shopping",15,"Vila Real"
+81,"Palácio do Gelo",6,Viseu
+81,"Santa Catarina",21,Porto
+81,"Vasgo da Gama",16,Lisboa
+82,Aeroporto,28,Lisboa
+82,Amoreiras,7,Lisboa
+82,"Braga Parque",14,Braga
+82,"CC Setúbal",15,Setúbal
+82,Colombo,0,Lisboa
+82,"Estação Viana",0,"Viana do Castelo"
+82,"Évora Plaza",19,Évora
+82,"Fórum Algarve",30,Faro
+82,"Fórum Aveiro",15,Aveiro
+82,"Fórum Coimbra",30,Coimbra
+82,"Gaia Shopping",0,Porto
+82,"Leiria Shopping",14,Leiria
+82,"Norte Shopping",25,Porto
+82,"Nosso Shopping",19,"Vila Real"
+82,"Palácio do Gelo",9,Viseu
+82,"Santa Catarina",20,Porto
+82,"Vasgo da Gama",0,Lisboa
+83,Aeroporto,13,Lisboa
+83,Amoreiras,29,Lisboa
+83,"Braga Parque",24,Braga
+83,"CC Setúbal",13,Setúbal
+83,Colombo,13,Lisboa
+83,"Estação Viana",25,"Viana do Castelo"
+83,"Évora Plaza",26,Évora
+83,"Fórum Algarve",29,Faro
+83,"Fórum Aveiro",17,Aveiro
+83,"Fórum Coimbra",25,Coimbra
+83,"Gaia Shopping",25,Porto
+83,"Leiria Shopping",3,Leiria
+83,"Norte Shopping",7,Porto
+83,"Nosso Shopping",23,"Vila Real"
+83,"Palácio do Gelo",8,Viseu
+83,"Santa Catarina",3,Porto
+83,"Vasgo da Gama",14,Lisboa
+84,Aeroporto,20,Lisboa
+84,Amoreiras,6,Lisboa
+84,"Braga Parque",16,Braga
+84,"CC Setúbal",7,Setúbal
+84,Colombo,16,Lisboa
+84,"Estação Viana",5,"Viana do Castelo"
+84,"Évora Plaza",17,Évora
+84,"Fórum Algarve",0,Faro
+84,"Fórum Aveiro",18,Aveiro
+84,"Fórum Coimbra",0,Coimbra
+84,"Gaia Shopping",2,Porto
+84,"Leiria Shopping",31,Leiria
+84,"Norte Shopping",0,Porto
+84,"Nosso Shopping",29,"Vila Real"
+84,"Palácio do Gelo",6,Viseu
+84,"Santa Catarina",9,Porto
+84,"Vasgo da Gama",23,Lisboa
+85,Aeroporto,14,Lisboa
+85,Amoreiras,0,Lisboa
+85,"Braga Parque",15,Braga
+85,"CC Setúbal",19,Setúbal
+85,Colombo,12,Lisboa
+85,"Estação Viana",18,"Viana do Castelo"
+85,"Évora Plaza",15,Évora
+85,"Fórum Algarve",0,Faro
+85,"Fórum Aveiro",31,Aveiro
+85,"Fórum Coimbra",2,Coimbra
+85,"Gaia Shopping",19,Porto
+85,"Leiria Shopping",16,Leiria
+85,"Norte Shopping",16,Porto
+85,"Nosso Shopping",12,"Vila Real"
+85,"Palácio do Gelo",20,Viseu
+85,"Santa Catarina",23,Porto
+85,"Vasgo da Gama",31,Lisboa
+86,Aeroporto,26,Lisboa
+86,Amoreiras,28,Lisboa
+86,"Braga Parque",25,Braga
+86,"CC Setúbal",11,Setúbal
+86,Colombo,21,Lisboa
+86,"Estação Viana",11,"Viana do Castelo"
+86,"Évora Plaza",7,Évora
+86,"Fórum Algarve",0,Faro
+86,"Fórum Aveiro",7,Aveiro
+86,"Fórum Coimbra",6,Coimbra
+86,"Gaia Shopping",5,Porto
+86,"Leiria Shopping",4,Leiria
+86,"Norte Shopping",22,Porto
+86,"Nosso Shopping",24,"Vila Real"
+86,"Palácio do Gelo",0,Viseu
+86,"Santa Catarina",10,Porto
+86,"Vasgo da Gama",31,Lisboa
+87,Aeroporto,25,Lisboa
+87,Amoreiras,24,Lisboa
+87,"Braga Parque",0,Braga
+87,"CC Setúbal",0,Setúbal
+87,Colombo,19,Lisboa
+87,"Estação Viana",0,"Viana do Castelo"
+87,"Évora Plaza",0,Évora
+87,"Fórum Algarve",19,Faro
+87,"Fórum Aveiro",16,Aveiro
+87,"Fórum Coimbra",26,Coimbra
+87,"Gaia Shopping",0,Porto
+87,"Leiria Shopping",0,Leiria
+87,"Norte Shopping",30,Porto
+87,"Nosso Shopping",14,"Vila Real"
+87,"Palácio do Gelo",10,Viseu
+87,"Santa Catarina",0,Porto
+87,"Vasgo da Gama",20,Lisboa
+88,Aeroporto,8,Lisboa
+88,Amoreiras,27,Lisboa
+88,"Braga Parque",0,Braga
+88,"CC Setúbal",28,Setúbal
+88,Colombo,14,Lisboa
+88,"Estação Viana",23,"Viana do Castelo"
+88,"Évora Plaza",26,Évora
+88,"Fórum Algarve",16,Faro
+88,"Fórum Aveiro",21,Aveiro
+88,"Fórum Coimbra",27,Coimbra
+88,"Gaia Shopping",6,Porto
+88,"Leiria Shopping",8,Leiria
+88,"Norte Shopping",6,Porto
+88,"Nosso Shopping",13,"Vila Real"
+88,"Palácio do Gelo",13,Viseu
+88,"Santa Catarina",0,Porto
+88,"Vasgo da Gama",0,Lisboa
+89,Aeroporto,23,Lisboa
+89,Amoreiras,10,Lisboa
+89,"Braga Parque",0,Braga
+89,"CC Setúbal",10,Setúbal
+89,Colombo,3,Lisboa
+89,"Estação Viana",15,"Viana do Castelo"
+89,"Évora Plaza",22,Évora
+89,"Fórum Algarve",2,Faro
+89,"Fórum Aveiro",5,Aveiro
+89,"Fórum Coimbra",0,Coimbra
+89,"Gaia Shopping",3,Porto
+89,"Leiria Shopping",25,Leiria
+89,"Norte Shopping",3,Porto
+89,"Nosso Shopping",27,"Vila Real"
+89,"Palácio do Gelo",24,Viseu
+89,"Santa Catarina",27,Porto
+89,"Vasgo da Gama",27,Lisboa
+90,Aeroporto,11,Lisboa
+90,Amoreiras,27,Lisboa
+90,"Braga Parque",22,Braga
+90,"CC Setúbal",11,Setúbal
+90,Colombo,25,Lisboa
+90,"Estação Viana",6,"Viana do Castelo"
+90,"Évora Plaza",20,Évora
+90,"Fórum Algarve",6,Faro
+90,"Fórum Aveiro",1,Aveiro
+90,"Fórum Coimbra",14,Coimbra
+90,"Gaia Shopping",25,Porto
+90,"Leiria Shopping",12,Leiria
+90,"Norte Shopping",23,Porto
+90,"Nosso Shopping",7,"Vila Real"
+90,"Palácio do Gelo",9,Viseu
+90,"Santa Catarina",13,Porto
+90,"Vasgo da Gama",14,Lisboa
+91,Aeroporto,8,Lisboa
+91,Amoreiras,28,Lisboa
+91,"Braga Parque",19,Braga
+91,"CC Setúbal",0,Setúbal
+91,Colombo,19,Lisboa
+91,"Estação Viana",17,"Viana do Castelo"
+91,"Évora Plaza",21,Évora
+91,"Fórum Algarve",13,Faro
+91,"Fórum Aveiro",2,Aveiro
+91,"Fórum Coimbra",24,Coimbra
+91,"Gaia Shopping",28,Porto
+91,"Leiria Shopping",0,Leiria
+91,"Norte Shopping",23,Porto
+91,"Nosso Shopping",0,"Vila Real"
+91,"Palácio do Gelo",21,Viseu
+91,"Santa Catarina",8,Porto
+91,"Vasgo da Gama",17,Lisboa
+92,Aeroporto,13,Lisboa
+92,Amoreiras,0,Lisboa
+92,"Braga Parque",18,Braga
+92,"CC Setúbal",0,Setúbal
+92,Colombo,17,Lisboa
+92,"Estação Viana",18,"Viana do Castelo"
+92,"Évora Plaza",0,Évora
+92,"Fórum Algarve",14,Faro
+92,"Fórum Aveiro",17,Aveiro
+92,"Fórum Coimbra",25,Coimbra
+92,"Gaia Shopping",0,Porto
+92,"Leiria Shopping",0,Leiria
+92,"Norte Shopping",19,Porto
+92,"Nosso Shopping",28,"Vila Real"
+92,"Palácio do Gelo",0,Viseu
+92,"Santa Catarina",21,Porto
+92,"Vasgo da Gama",21,Lisboa
+93,Aeroporto,2,Lisboa
+93,Amoreiras,9,Lisboa
+93,"Braga Parque",27,Braga
+93,"CC Setúbal",0,Setúbal
+93,Colombo,17,Lisboa
+93,"Estação Viana",31,"Viana do Castelo"
+93,"Évora Plaza",2,Évora
+93,"Fórum Algarve",12,Faro
+93,"Fórum Aveiro",31,Aveiro
+93,"Fórum Coimbra",16,Coimbra
+93,"Gaia Shopping",14,Porto
+93,"Leiria Shopping",5,Leiria
+93,"Norte Shopping",3,Porto
+93,"Nosso Shopping",15,"Vila Real"
+93,"Palácio do Gelo",10,Viseu
+93,"Santa Catarina",4,Porto
+93,"Vasgo da Gama",0,Lisboa
+94,Aeroporto,28,Lisboa
+94,Amoreiras,17,Lisboa
+94,"Braga Parque",26,Braga
+94,"CC Setúbal",0,Setúbal
+94,Colombo,31,Lisboa
+94,"Estação Viana",13,"Viana do Castelo"
+94,"Évora Plaza",20,Évora
+94,"Fórum Algarve",18,Faro
+94,"Fórum Aveiro",28,Aveiro
+94,"Fórum Coimbra",31,Coimbra
+94,"Gaia Shopping",28,Porto
+94,"Leiria Shopping",0,Leiria
+94,"Norte Shopping",6,Porto
+94,"Nosso Shopping",8,"Vila Real"
+94,"Palácio do Gelo",28,Viseu
+94,"Santa Catarina",18,Porto
+94,"Vasgo da Gama",29,Lisboa
+95,Aeroporto,20,Lisboa
+95,Amoreiras,18,Lisboa
+95,"Braga Parque",23,Braga
+95,"CC Setúbal",28,Setúbal
+95,Colombo,9,Lisboa
+95,"Estação Viana",29,"Viana do Castelo"
+95,"Évora Plaza",0,Évora
+95,"Fórum Algarve",22,Faro
+95,"Fórum Aveiro",0,Aveiro
+95,"Fórum Coimbra",0,Coimbra
+95,"Gaia Shopping",26,Porto
+95,"Leiria Shopping",0,Leiria
+95,"Norte Shopping",20,Porto
+95,"Nosso Shopping",22,"Vila Real"
+95,"Palácio do Gelo",24,Viseu
+95,"Santa Catarina",28,Porto
+95,"Vasgo da Gama",9,Lisboa
+96,Aeroporto,17,Lisboa
+96,Amoreiras,31,Lisboa
+96,"Braga Parque",13,Braga
+96,"CC Setúbal",5,Setúbal
+96,Colombo,31,Lisboa
+96,"Estação Viana",29,"Viana do Castelo"
+96,"Évora Plaza",12,Évora
+96,"Fórum Algarve",11,Faro
+96,"Fórum Aveiro",17,Aveiro
+96,"Fórum Coimbra",22,Coimbra
+96,"Gaia Shopping",31,Porto
+96,"Leiria Shopping",24,Leiria
+96,"Norte Shopping",13,Porto
+96,"Nosso Shopping",6,"Vila Real"
+96,"Palácio do Gelo",13,Viseu
+96,"Santa Catarina",23,Porto
+96,"Vasgo da Gama",9,Lisboa
+97,Aeroporto,17,Lisboa
+97,Amoreiras,1,Lisboa
+97,"Braga Parque",3,Braga
+97,"CC Setúbal",15,Setúbal
+97,Colombo,0,Lisboa
+97,"Estação Viana",12,"Viana do Castelo"
+97,"Évora Plaza",30,Évora
+97,"Fórum Algarve",5,Faro
+97,"Fórum Aveiro",10,Aveiro
+97,"Fórum Coimbra",0,Coimbra
+97,"Gaia Shopping",20,Porto
+97,"Leiria Shopping",10,Leiria
+97,"Norte Shopping",24,Porto
+97,"Nosso Shopping",9,"Vila Real"
+97,"Palácio do Gelo",18,Viseu
+97,"Santa Catarina",8,Porto
+97,"Vasgo da Gama",0,Lisboa
+98,Aeroporto,6,Lisboa
+98,Amoreiras,4,Lisboa
+98,"Braga Parque",11,Braga
+98,"CC Setúbal",0,Setúbal
+98,Colombo,31,Lisboa
+98,"Estação Viana",16,"Viana do Castelo"
+98,"Évora Plaza",0,Évora
+98,"Fórum Algarve",17,Faro
+98,"Fórum Aveiro",15,Aveiro
+98,"Fórum Coimbra",5,Coimbra
+98,"Gaia Shopping",20,Porto
+98,"Leiria Shopping",31,Leiria
+98,"Norte Shopping",0,Porto
+98,"Nosso Shopping",0,"Vila Real"
+98,"Palácio do Gelo",18,Viseu
+98,"Santa Catarina",13,Porto
+98,"Vasgo da Gama",7,Lisboa
+99,Aeroporto,13,Lisboa
+99,Amoreiras,0,Lisboa
+99,"Braga Parque",4,Braga
+99,"CC Setúbal",9,Setúbal
+99,Colombo,20,Lisboa
+99,"Estação Viana",13,"Viana do Castelo"
+99,"Évora Plaza",2,Évora
+99,"Fórum Algarve",12,Faro
+99,"Fórum Aveiro",11,Aveiro
+99,"Fórum Coimbra",30,Coimbra
+99,"Gaia Shopping",2,Porto
+99,"Leiria Shopping",21,Leiria
+99,"Norte Shopping",18,Porto
+99,"Nosso Shopping",22,"Vila Real"
+99,"Palácio do Gelo",16,Viseu
+99,"Santa Catarina",8,Porto
+99,"Vasgo da Gama",20,Lisboa
+100,Aeroporto,23,Lisboa
+100,Amoreiras,21,Lisboa
+100,"Braga Parque",19,Braga
+100,"CC Setúbal",6,Setúbal
+100,Colombo,11,Lisboa
+100,"Estação Viana",7,"Viana do Castelo"
+100,"Évora Plaza",25,Évora
+100,"Fórum Algarve",21,Faro
+100,"Fórum Aveiro",7,Aveiro
+100,"Fórum Coimbra",5,Coimbra
+100,"Gaia Shopping",12,Porto
+100,"Leiria Shopping",19,Leiria
+100,"Norte Shopping",13,Porto
+100,"Nosso Shopping",30,"Vila Real"
+100,"Palácio do Gelo",7,Viseu
+100,"Santa Catarina",19,Porto
+100,"Vasgo da Gama",8,Lisboa
+101,Aeroporto,18,Lisboa
+101,Amoreiras,25,Lisboa
+101,"Braga Parque",10,Braga
+101,"CC Setúbal",1,Setúbal
+101,Colombo,0,Lisboa
+101,"Estação Viana",27,"Viana do Castelo"
+101,"Évora Plaza",11,Évora
+101,"Fórum Algarve",24,Faro
+101,"Fórum Aveiro",22,Aveiro
+101,"Fórum Coimbra",26,Coimbra
+101,"Gaia Shopping",0,Porto
+101,"Leiria Shopping",4,Leiria
+101,"Norte Shopping",21,Porto
+101,"Nosso Shopping",14,"Vila Real"
+101,"Palácio do Gelo",9,Viseu
+101,"Santa Catarina",18,Porto
+101,"Vasgo da Gama",7,Lisboa
+102,Aeroporto,25,Lisboa
+102,Amoreiras,7,Lisboa
+102,"Braga Parque",21,Braga
+102,"CC Setúbal",8,Setúbal
+102,Colombo,14,Lisboa
+102,"Estação Viana",19,"Viana do Castelo"
+102,"Évora Plaza",15,Évora
+102,"Fórum Algarve",12,Faro
+102,"Fórum Aveiro",5,Aveiro
+102,"Fórum Coimbra",15,Coimbra
+102,"Gaia Shopping",27,Porto
+102,"Leiria Shopping",21,Leiria
+102,"Norte Shopping",22,Porto
+102,"Nosso Shopping",19,"Vila Real"
+102,"Palácio do Gelo",31,Viseu
+102,"Santa Catarina",14,Porto
+102,"Vasgo da Gama",9,Lisboa
+103,Aeroporto,21,Lisboa
+103,Amoreiras,24,Lisboa
+103,"Braga Parque",7,Braga
+103,"CC Setúbal",28,Setúbal
+103,Colombo,0,Lisboa
+103,"Estação Viana",22,"Viana do Castelo"
+103,"Évora Plaza",31,Évora
+103,"Fórum Algarve",14,Faro
+103,"Fórum Aveiro",18,Aveiro
+103,"Fórum Coimbra",14,Coimbra
+103,"Gaia Shopping",14,Porto
+103,"Leiria Shopping",17,Leiria
+103,"Norte Shopping",25,Porto
+103,"Nosso Shopping",9,"Vila Real"
+103,"Palácio do Gelo",0,Viseu
+103,"Santa Catarina",24,Porto
+103,"Vasgo da Gama",18,Lisboa
+104,Aeroporto,28,Lisboa
+104,Amoreiras,5,Lisboa
+104,"Braga Parque",2,Braga
+104,"CC Setúbal",24,Setúbal
+104,Colombo,23,Lisboa
+104,"Estação Viana",8,"Viana do Castelo"
+104,"Évora Plaza",12,Évora
+104,"Fórum Algarve",2,Faro
+104,"Fórum Aveiro",18,Aveiro
+104,"Fórum Coimbra",21,Coimbra
+104,"Gaia Shopping",31,Porto
+104,"Leiria Shopping",12,Leiria
+104,"Norte Shopping",12,Porto
+104,"Nosso Shopping",26,"Vila Real"
+104,"Palácio do Gelo",25,Viseu
+104,"Santa Catarina",0,Porto
+104,"Vasgo da Gama",25,Lisboa
+105,Aeroporto,25,Lisboa
+105,Amoreiras,26,Lisboa
+105,"Braga Parque",10,Braga
+105,"CC Setúbal",0,Setúbal
+105,Colombo,24,Lisboa
+105,"Estação Viana",24,"Viana do Castelo"
+105,"Évora Plaza",31,Évora
+105,"Fórum Algarve",14,Faro
+105,"Fórum Aveiro",14,Aveiro
+105,"Fórum Coimbra",2,Coimbra
+105,"Gaia Shopping",0,Porto
+105,"Leiria Shopping",26,Leiria
+105,"Norte Shopping",0,Porto
+105,"Nosso Shopping",5,"Vila Real"
+105,"Palácio do Gelo",7,Viseu
+105,"Santa Catarina",4,Porto
+105,"Vasgo da Gama",20,Lisboa
+106,Aeroporto,0,Lisboa
+106,Amoreiras,9,Lisboa
+106,"Braga Parque",1,Braga
+106,"CC Setúbal",1,Setúbal
+106,Colombo,0,Lisboa
+106,"Estação Viana",0,"Viana do Castelo"
+106,"Évora Plaza",0,Évora
+106,"Fórum Algarve",21,Faro
+106,"Fórum Aveiro",25,Aveiro
+106,"Fórum Coimbra",22,Coimbra
+106,"Gaia Shopping",11,Porto
+106,"Leiria Shopping",0,Leiria
+106,"Norte Shopping",23,Porto
+106,"Nosso Shopping",6,"Vila Real"
+106,"Palácio do Gelo",14,Viseu
+106,"Santa Catarina",27,Porto
+106,"Vasgo da Gama",14,Lisboa
+107,Aeroporto,6,Lisboa
+107,Amoreiras,10,Lisboa
+107,"Braga Parque",17,Braga
+107,"CC Setúbal",2,Setúbal
+107,Colombo,26,Lisboa
+107,"Estação Viana",23,"Viana do Castelo"
+107,"Évora Plaza",1,Évora
+107,"Fórum Algarve",2,Faro
+107,"Fórum Aveiro",2,Aveiro
+107,"Fórum Coimbra",8,Coimbra
+107,"Gaia Shopping",30,Porto
+107,"Leiria Shopping",24,Leiria
+107,"Norte Shopping",0,Porto
+107,"Nosso Shopping",17,"Vila Real"
+107,"Palácio do Gelo",22,Viseu
+107,"Santa Catarina",10,Porto
+107,"Vasgo da Gama",15,Lisboa
+108,Aeroporto,24,Lisboa
+108,Amoreiras,8,Lisboa
+108,"Braga Parque",26,Braga
+108,"CC Setúbal",29,Setúbal
+108,Colombo,8,Lisboa
+108,"Estação Viana",0,"Viana do Castelo"
+108,"Évora Plaza",28,Évora
+108,"Fórum Algarve",0,Faro
+108,"Fórum Aveiro",20,Aveiro
+108,"Fórum Coimbra",18,Coimbra
+108,"Gaia Shopping",5,Porto
+108,"Leiria Shopping",16,Leiria
+108,"Norte Shopping",13,Porto
+108,"Nosso Shopping",15,"Vila Real"
+108,"Palácio do Gelo",10,Viseu
+108,"Santa Catarina",15,Porto
+108,"Vasgo da Gama",3,Lisboa
+109,Aeroporto,1,Lisboa
+109,Amoreiras,10,Lisboa
+109,"Braga Parque",30,Braga
+109,"CC Setúbal",8,Setúbal
+109,Colombo,0,Lisboa
+109,"Estação Viana",0,"Viana do Castelo"
+109,"Évora Plaza",17,Évora
+109,"Fórum Algarve",0,Faro
+109,"Fórum Aveiro",0,Aveiro
+109,"Fórum Coimbra",9,Coimbra
+109,"Gaia Shopping",18,Porto
+109,"Leiria Shopping",23,Leiria
+109,"Norte Shopping",12,Porto
+109,"Nosso Shopping",24,"Vila Real"
+109,"Palácio do Gelo",0,Viseu
+109,"Santa Catarina",30,Porto
+109,"Vasgo da Gama",0,Lisboa
+110,Aeroporto,28,Lisboa
+110,Amoreiras,7,Lisboa
+110,"Braga Parque",3,Braga
+110,"CC Setúbal",20,Setúbal
+110,Colombo,15,Lisboa
+110,"Estação Viana",7,"Viana do Castelo"
+110,"Évora Plaza",20,Évora
+110,"Fórum Algarve",10,Faro
+110,"Fórum Aveiro",29,Aveiro
+110,"Fórum Coimbra",3,Coimbra
+110,"Gaia Shopping",23,Porto
+110,"Leiria Shopping",3,Leiria
+110,"Norte Shopping",7,Porto
+110,"Nosso Shopping",4,"Vila Real"
+110,"Palácio do Gelo",22,Viseu
+110,"Santa Catarina",1,Porto
+110,"Vasgo da Gama",27,Lisboa
+111,Aeroporto,24,Lisboa
+111,Amoreiras,2,Lisboa
+111,"Braga Parque",8,Braga
+111,"CC Setúbal",0,Setúbal
+111,Colombo,10,Lisboa
+111,"Estação Viana",22,"Viana do Castelo"
+111,"Évora Plaza",23,Évora
+111,"Fórum Algarve",14,Faro
+111,"Fórum Aveiro",13,Aveiro
+111,"Fórum Coimbra",21,Coimbra
+111,"Gaia Shopping",14,Porto
+111,"Leiria Shopping",25,Leiria
+111,"Norte Shopping",5,Porto
+111,"Nosso Shopping",14,"Vila Real"
+111,"Palácio do Gelo",28,Viseu
+111,"Santa Catarina",21,Porto
+111,"Vasgo da Gama",9,Lisboa
+112,Aeroporto,3,Lisboa
+112,Amoreiras,8,Lisboa
+112,"Braga Parque",21,Braga
+112,"CC Setúbal",21,Setúbal
+112,Colombo,14,Lisboa
+112,"Estação Viana",8,"Viana do Castelo"
+112,"Évora Plaza",15,Évora
+112,"Fórum Algarve",1,Faro
+112,"Fórum Aveiro",8,Aveiro
+112,"Fórum Coimbra",22,Coimbra
+112,"Gaia Shopping",8,Porto
+112,"Leiria Shopping",0,Leiria
+112,"Norte Shopping",22,Porto
+112,"Nosso Shopping",21,"Vila Real"
+112,"Palácio do Gelo",4,Viseu
+112,"Santa Catarina",22,Porto
+112,"Vasgo da Gama",14,Lisboa
+113,Aeroporto,26,Lisboa
+113,Amoreiras,9,Lisboa
+113,"Braga Parque",22,Braga
+113,"CC Setúbal",19,Setúbal
+113,Colombo,14,Lisboa
+113,"Estação Viana",20,"Viana do Castelo"
+113,"Évora Plaza",1,Évora
+113,"Fórum Algarve",17,Faro
+113,"Fórum Aveiro",28,Aveiro
+113,"Fórum Coimbra",20,Coimbra
+113,"Gaia Shopping",0,Porto
+113,"Leiria Shopping",21,Leiria
+113,"Norte Shopping",25,Porto
+113,"Nosso Shopping",13,"Vila Real"
+113,"Palácio do Gelo",6,Viseu
+113,"Santa Catarina",20,Porto
+113,"Vasgo da Gama",20,Lisboa
+114,Aeroporto,16,Lisboa
+114,Amoreiras,22,Lisboa
+114,"Braga Parque",13,Braga
+114,"CC Setúbal",14,Setúbal
+114,Colombo,21,Lisboa
+114,"Estação Viana",27,"Viana do Castelo"
+114,"Évora Plaza",31,Évora
+114,"Fórum Algarve",0,Faro
+114,"Fórum Aveiro",0,Aveiro
+114,"Fórum Coimbra",18,Coimbra
+114,"Gaia Shopping",17,Porto
+114,"Leiria Shopping",0,Leiria
+114,"Norte Shopping",10,Porto
+114,"Nosso Shopping",0,"Vila Real"
+114,"Palácio do Gelo",8,Viseu
+114,"Santa Catarina",5,Porto
+114,"Vasgo da Gama",19,Lisboa
+115,Aeroporto,5,Lisboa
+115,Amoreiras,15,Lisboa
+115,"Braga Parque",15,Braga
+115,"CC Setúbal",4,Setúbal
+115,Colombo,16,Lisboa
+115,"Estação Viana",21,"Viana do Castelo"
+115,"Évora Plaza",0,Évora
+115,"Fórum Algarve",1,Faro
+115,"Fórum Aveiro",4,Aveiro
+115,"Fórum Coimbra",31,Coimbra
+115,"Gaia Shopping",14,Porto
+115,"Leiria Shopping",12,Leiria
+115,"Norte Shopping",0,Porto
+115,"Nosso Shopping",31,"Vila Real"
+115,"Palácio do Gelo",7,Viseu
+115,"Santa Catarina",9,Porto
+115,"Vasgo da Gama",0,Lisboa
+116,Aeroporto,2,Lisboa
+116,Amoreiras,0,Lisboa
+116,"Braga Parque",5,Braga
+116,"CC Setúbal",14,Setúbal
+116,Colombo,26,Lisboa
+116,"Estação Viana",21,"Viana do Castelo"
+116,"Évora Plaza",0,Évora
+116,"Fórum Algarve",2,Faro
+116,"Fórum Aveiro",13,Aveiro
+116,"Fórum Coimbra",18,Coimbra
+116,"Gaia Shopping",21,Porto
+116,"Leiria Shopping",2,Leiria
+116,"Norte Shopping",23,Porto
+116,"Nosso Shopping",4,"Vila Real"
+116,"Palácio do Gelo",6,Viseu
+116,"Santa Catarina",29,Porto
+116,"Vasgo da Gama",30,Lisboa
+117,Aeroporto,0,Lisboa
+117,Amoreiras,13,Lisboa
+117,"Braga Parque",0,Braga
+117,"CC Setúbal",0,Setúbal
+117,Colombo,10,Lisboa
+117,"Estação Viana",30,"Viana do Castelo"
+117,"Évora Plaza",24,Évora
+117,"Fórum Algarve",26,Faro
+117,"Fórum Aveiro",29,Aveiro
+117,"Fórum Coimbra",11,Coimbra
+117,"Gaia Shopping",13,Porto
+117,"Leiria Shopping",0,Leiria
+117,"Norte Shopping",1,Porto
+117,"Nosso Shopping",27,"Vila Real"
+117,"Palácio do Gelo",6,Viseu
+117,"Santa Catarina",23,Porto
+117,"Vasgo da Gama",2,Lisboa
+118,Aeroporto,20,Lisboa
+118,Amoreiras,19,Lisboa
+118,"Braga Parque",8,Braga
+118,"CC Setúbal",14,Setúbal
+118,Colombo,0,Lisboa
+118,"Estação Viana",14,"Viana do Castelo"
+118,"Évora Plaza",21,Évora
+118,"Fórum Algarve",3,Faro
+118,"Fórum Aveiro",20,Aveiro
+118,"Fórum Coimbra",22,Coimbra
+118,"Gaia Shopping",25,Porto
+118,"Leiria Shopping",19,Leiria
+118,"Norte Shopping",30,Porto
+118,"Nosso Shopping",25,"Vila Real"
+118,"Palácio do Gelo",19,Viseu
+118,"Santa Catarina",30,Porto
+118,"Vasgo da Gama",1,Lisboa
+119,Aeroporto,26,Lisboa
+119,Amoreiras,26,Lisboa
+119,"Braga Parque",12,Braga
+119,"CC Setúbal",29,Setúbal
+119,Colombo,22,Lisboa
+119,"Estação Viana",16,"Viana do Castelo"
+119,"Évora Plaza",12,Évora
+119,"Fórum Algarve",8,Faro
+119,"Fórum Aveiro",17,Aveiro
+119,"Fórum Coimbra",4,Coimbra
+119,"Gaia Shopping",0,Porto
+119,"Leiria Shopping",6,Leiria
+119,"Norte Shopping",17,Porto
+119,"Nosso Shopping",28,"Vila Real"
+119,"Palácio do Gelo",29,Viseu
+119,"Santa Catarina",29,Porto
+119,"Vasgo da Gama",23,Lisboa
+120,Aeroporto,20,Lisboa
+120,Amoreiras,26,Lisboa
+120,"Braga Parque",24,Braga
+120,"CC Setúbal",29,Setúbal
+120,Colombo,11,Lisboa
+120,"Estação Viana",15,"Viana do Castelo"
+120,"Évora Plaza",0,Évora
+120,"Fórum Algarve",1,Faro
+120,"Fórum Aveiro",0,Aveiro
+120,"Fórum Coimbra",5,Coimbra
+120,"Gaia Shopping",5,Porto
+120,"Leiria Shopping",30,Leiria
+120,"Norte Shopping",18,Porto
+120,"Nosso Shopping",29,"Vila Real"
+120,"Palácio do Gelo",12,Viseu
+120,"Santa Catarina",20,Porto
+120,"Vasgo da Gama",30,Lisboa
+121,Aeroporto,12,Lisboa
+121,Amoreiras,3,Lisboa
+121,"Braga Parque",15,Braga
+121,"CC Setúbal",24,Setúbal
+121,Colombo,1,Lisboa
+121,"Estação Viana",9,"Viana do Castelo"
+121,"Évora Plaza",16,Évora
+121,"Fórum Algarve",23,Faro
+121,"Fórum Aveiro",7,Aveiro
+121,"Fórum Coimbra",9,Coimbra
+121,"Gaia Shopping",27,Porto
+121,"Leiria Shopping",30,Leiria
+121,"Norte Shopping",10,Porto
+121,"Nosso Shopping",30,"Vila Real"
+121,"Palácio do Gelo",15,Viseu
+121,"Santa Catarina",0,Porto
+121,"Vasgo da Gama",18,Lisboa
+122,Aeroporto,7,Lisboa
+122,Amoreiras,6,Lisboa
+122,"Braga Parque",22,Braga
+122,"CC Setúbal",13,Setúbal
+122,Colombo,23,Lisboa
+122,"Estação Viana",17,"Viana do Castelo"
+122,"Évora Plaza",9,Évora
+122,"Fórum Algarve",15,Faro
+122,"Fórum Aveiro",16,Aveiro
+122,"Fórum Coimbra",1,Coimbra
+122,"Gaia Shopping",18,Porto
+122,"Leiria Shopping",12,Leiria
+122,"Norte Shopping",2,Porto
+122,"Nosso Shopping",28,"Vila Real"
+122,"Palácio do Gelo",17,Viseu
+122,"Santa Catarina",0,Porto
+122,"Vasgo da Gama",11,Lisboa
+123,Aeroporto,13,Lisboa
+123,Amoreiras,14,Lisboa
+123,"Braga Parque",22,Braga
+123,"CC Setúbal",25,Setúbal
+123,Colombo,4,Lisboa
+123,"Estação Viana",21,"Viana do Castelo"
+123,"Évora Plaza",17,Évora
+123,"Fórum Algarve",12,Faro
+123,"Fórum Aveiro",4,Aveiro
+123,"Fórum Coimbra",2,Coimbra
+123,"Gaia Shopping",9,Porto
+123,"Leiria Shopping",29,Leiria
+123,"Norte Shopping",13,Porto
+123,"Nosso Shopping",10,"Vila Real"
+123,"Palácio do Gelo",3,Viseu
+123,"Santa Catarina",25,Porto
+123,"Vasgo da Gama",1,Lisboa
+124,Aeroporto,10,Lisboa
+124,Amoreiras,21,Lisboa
+124,"Braga Parque",20,Braga
+124,"CC Setúbal",1,Setúbal
+124,Colombo,15,Lisboa
+124,"Estação Viana",28,"Viana do Castelo"
+124,"Évora Plaza",5,Évora
+124,"Fórum Algarve",0,Faro
+124,"Fórum Aveiro",21,Aveiro
+124,"Fórum Coimbra",14,Coimbra
+124,"Gaia Shopping",17,Porto
+124,"Leiria Shopping",21,Leiria
+124,"Norte Shopping",4,Porto
+124,"Nosso Shopping",0,"Vila Real"
+124,"Palácio do Gelo",27,Viseu
+124,"Santa Catarina",31,Porto
+124,"Vasgo da Gama",9,Lisboa
+125,Aeroporto,13,Lisboa
+125,Amoreiras,14,Lisboa
+125,"Braga Parque",10,Braga
+125,"CC Setúbal",15,Setúbal
+125,Colombo,14,Lisboa
+125,"Estação Viana",1,"Viana do Castelo"
+125,"Évora Plaza",2,Évora
+125,"Fórum Algarve",9,Faro
+125,"Fórum Aveiro",7,Aveiro
+125,"Fórum Coimbra",29,Coimbra
+125,"Gaia Shopping",13,Porto
+125,"Leiria Shopping",29,Leiria
+125,"Norte Shopping",18,Porto
+125,"Nosso Shopping",11,"Vila Real"
+125,"Palácio do Gelo",14,Viseu
+125,"Santa Catarina",23,Porto
+125,"Vasgo da Gama",6,Lisboa
+126,Aeroporto,12,Lisboa
+126,Amoreiras,9,Lisboa
+126,"Braga Parque",15,Braga
+126,"CC Setúbal",13,Setúbal
+126,Colombo,11,Lisboa
+126,"Estação Viana",0,"Viana do Castelo"
+126,"Évora Plaza",0,Évora
+126,"Fórum Algarve",6,Faro
+126,"Fórum Aveiro",0,Aveiro
+126,"Fórum Coimbra",28,Coimbra
+126,"Gaia Shopping",24,Porto
+126,"Leiria Shopping",16,Leiria
+126,"Norte Shopping",17,Porto
+126,"Nosso Shopping",14,"Vila Real"
+126,"Palácio do Gelo",0,Viseu
+126,"Santa Catarina",0,Porto
+126,"Vasgo da Gama",2,Lisboa
+127,Aeroporto,24,Lisboa
+127,Amoreiras,9,Lisboa
+127,"Braga Parque",6,Braga
+127,"CC Setúbal",30,Setúbal
+127,Colombo,8,Lisboa
+127,"Estação Viana",0,"Viana do Castelo"
+127,"Évora Plaza",1,Évora
+127,"Fórum Algarve",11,Faro
+127,"Fórum Aveiro",30,Aveiro
+127,"Fórum Coimbra",5,Coimbra
+127,"Gaia Shopping",19,Porto
+127,"Leiria Shopping",4,Leiria
+127,"Norte Shopping",21,Porto
+127,"Nosso Shopping",0,"Vila Real"
+127,"Palácio do Gelo",8,Viseu
+127,"Santa Catarina",23,Porto
+127,"Vasgo da Gama",0,Lisboa
+128,Aeroporto,26,Lisboa
+128,Amoreiras,2,Lisboa
+128,"Braga Parque",14,Braga
+128,"CC Setúbal",31,Setúbal
+128,Colombo,11,Lisboa
+128,"Estação Viana",13,"Viana do Castelo"
+128,"Évora Plaza",0,Évora
+128,"Fórum Algarve",29,Faro
+128,"Fórum Aveiro",25,Aveiro
+128,"Fórum Coimbra",17,Coimbra
+128,"Gaia Shopping",0,Porto
+128,"Leiria Shopping",0,Leiria
+128,"Norte Shopping",3,Porto
+128,"Nosso Shopping",0,"Vila Real"
+128,"Palácio do Gelo",27,Viseu
+128,"Santa Catarina",2,Porto
+128,"Vasgo da Gama",17,Lisboa
+129,Aeroporto,10,Lisboa
+129,Amoreiras,29,Lisboa
+129,"Braga Parque",0,Braga
+129,"CC Setúbal",19,Setúbal
+129,Colombo,17,Lisboa
+129,"Estação Viana",5,"Viana do Castelo"
+129,"Évora Plaza",7,Évora
+129,"Fórum Algarve",20,Faro
+129,"Fórum Aveiro",23,Aveiro
+129,"Fórum Coimbra",18,Coimbra
+129,"Gaia Shopping",0,Porto
+129,"Leiria Shopping",17,Leiria
+129,"Norte Shopping",13,Porto
+129,"Nosso Shopping",16,"Vila Real"
+129,"Palácio do Gelo",13,Viseu
+129,"Santa Catarina",25,Porto
+129,"Vasgo da Gama",9,Lisboa
+130,Aeroporto,26,Lisboa
+130,Amoreiras,4,Lisboa
+130,"Braga Parque",10,Braga
+130,"CC Setúbal",14,Setúbal
+130,Colombo,20,Lisboa
+130,"Estação Viana",9,"Viana do Castelo"
+130,"Évora Plaza",31,Évora
+130,"Fórum Algarve",20,Faro
+130,"Fórum Aveiro",0,Aveiro
+130,"Fórum Coimbra",21,Coimbra
+130,"Gaia Shopping",14,Porto
+130,"Leiria Shopping",31,Leiria
+130,"Norte Shopping",22,Porto
+130,"Nosso Shopping",12,"Vila Real"
+130,"Palácio do Gelo",30,Viseu
+130,"Santa Catarina",31,Porto
+130,"Vasgo da Gama",27,Lisboa
+131,Aeroporto,27,Lisboa
+131,Amoreiras,0,Lisboa
+131,"Braga Parque",4,Braga
+131,"CC Setúbal",30,Setúbal
+131,Colombo,4,Lisboa
+131,"Estação Viana",26,"Viana do Castelo"
+131,"Évora Plaza",23,Évora
+131,"Fórum Algarve",1,Faro
+131,"Fórum Aveiro",0,Aveiro
+131,"Fórum Coimbra",23,Coimbra
+131,"Gaia Shopping",16,Porto
+131,"Leiria Shopping",18,Leiria
+131,"Norte Shopping",0,Porto
+131,"Nosso Shopping",31,"Vila Real"
+131,"Palácio do Gelo",4,Viseu
+131,"Santa Catarina",25,Porto
+131,"Vasgo da Gama",10,Lisboa
+132,Aeroporto,21,Lisboa
+132,Amoreiras,0,Lisboa
+132,"Braga Parque",25,Braga
+132,"CC Setúbal",2,Setúbal
+132,Colombo,23,Lisboa
+132,"Estação Viana",29,"Viana do Castelo"
+132,"Évora Plaza",3,Évora
+132,"Fórum Algarve",0,Faro
+132,"Fórum Aveiro",29,Aveiro
+132,"Fórum Coimbra",24,Coimbra
+132,"Gaia Shopping",14,Porto
+132,"Leiria Shopping",19,Leiria
+132,"Norte Shopping",11,Porto
+132,"Nosso Shopping",20,"Vila Real"
+132,"Palácio do Gelo",11,Viseu
+132,"Santa Catarina",30,Porto
+132,"Vasgo da Gama",26,Lisboa
+133,Aeroporto,14,Lisboa
+133,Amoreiras,6,Lisboa
+133,"Braga Parque",19,Braga
+133,"CC Setúbal",1,Setúbal
+133,Colombo,27,Lisboa
+133,"Estação Viana",16,"Viana do Castelo"
+133,"Évora Plaza",16,Évora
+133,"Fórum Algarve",2,Faro
+133,"Fórum Aveiro",0,Aveiro
+133,"Fórum Coimbra",0,Coimbra
+133,"Gaia Shopping",31,Porto
+133,"Leiria Shopping",13,Leiria
+133,"Norte Shopping",19,Porto
+133,"Nosso Shopping",31,"Vila Real"
+133,"Palácio do Gelo",28,Viseu
+133,"Santa Catarina",12,Porto
+133,"Vasgo da Gama",16,Lisboa
+134,Aeroporto,0,Lisboa
+134,Amoreiras,0,Lisboa
+134,"Braga Parque",19,Braga
+134,"CC Setúbal",17,Setúbal
+134,Colombo,3,Lisboa
+134,"Estação Viana",12,"Viana do Castelo"
+134,"Évora Plaza",1,Évora
+134,"Fórum Algarve",20,Faro
+134,"Fórum Aveiro",11,Aveiro
+134,"Fórum Coimbra",31,Coimbra
+134,"Gaia Shopping",3,Porto
+134,"Leiria Shopping",12,Leiria
+134,"Norte Shopping",22,Porto
+134,"Nosso Shopping",18,"Vila Real"
+134,"Palácio do Gelo",0,Viseu
+134,"Santa Catarina",5,Porto
+134,"Vasgo da Gama",24,Lisboa
+135,Aeroporto,6,Lisboa
+135,Amoreiras,0,Lisboa
+135,"Braga Parque",5,Braga
+135,"CC Setúbal",30,Setúbal
+135,Colombo,27,Lisboa
+135,"Estação Viana",2,"Viana do Castelo"
+135,"Évora Plaza",31,Évora
+135,"Fórum Algarve",13,Faro
+135,"Fórum Aveiro",28,Aveiro
+135,"Fórum Coimbra",28,Coimbra
+135,"Gaia Shopping",29,Porto
+135,"Leiria Shopping",28,Leiria
+135,"Norte Shopping",6,Porto
+135,"Nosso Shopping",0,"Vila Real"
+135,"Palácio do Gelo",9,Viseu
+135,"Santa Catarina",4,Porto
+135,"Vasgo da Gama",2,Lisboa
+136,Aeroporto,20,Lisboa
+136,Amoreiras,3,Lisboa
+136,"Braga Parque",28,Braga
+136,"CC Setúbal",14,Setúbal
+136,Colombo,15,Lisboa
+136,"Estação Viana",0,"Viana do Castelo"
+136,"Évora Plaza",0,Évora
+136,"Fórum Algarve",0,Faro
+136,"Fórum Aveiro",7,Aveiro
+136,"Fórum Coimbra",0,Coimbra
+136,"Gaia Shopping",3,Porto
+136,"Leiria Shopping",6,Leiria
+136,"Norte Shopping",0,Porto
+136,"Nosso Shopping",27,"Vila Real"
+136,"Palácio do Gelo",17,Viseu
+136,"Santa Catarina",18,Porto
+136,"Vasgo da Gama",9,Lisboa
+137,Aeroporto,27,Lisboa
+137,Amoreiras,3,Lisboa
+137,"Braga Parque",5,Braga
+137,"CC Setúbal",0,Setúbal
+137,Colombo,18,Lisboa
+137,"Estação Viana",15,"Viana do Castelo"
+137,"Évora Plaza",13,Évora
+137,"Fórum Algarve",29,Faro
+137,"Fórum Aveiro",11,Aveiro
+137,"Fórum Coimbra",31,Coimbra
+137,"Gaia Shopping",6,Porto
+137,"Leiria Shopping",22,Leiria
+137,"Norte Shopping",7,Porto
+137,"Nosso Shopping",12,"Vila Real"
+137,"Palácio do Gelo",28,Viseu
+137,"Santa Catarina",17,Porto
+137,"Vasgo da Gama",27,Lisboa
+138,Aeroporto,1,Lisboa
+138,Amoreiras,29,Lisboa
+138,"Braga Parque",7,Braga
+138,"CC Setúbal",0,Setúbal
+138,Colombo,3,Lisboa
+138,"Estação Viana",31,"Viana do Castelo"
+138,"Évora Plaza",25,Évora
+138,"Fórum Algarve",0,Faro
+138,"Fórum Aveiro",21,Aveiro
+138,"Fórum Coimbra",17,Coimbra
+138,"Gaia Shopping",13,Porto
+138,"Leiria Shopping",15,Leiria
+138,"Norte Shopping",9,Porto
+138,"Nosso Shopping",12,"Vila Real"
+138,"Palácio do Gelo",0,Viseu
+138,"Santa Catarina",14,Porto
+138,"Vasgo da Gama",7,Lisboa
+139,Aeroporto,23,Lisboa
+139,Amoreiras,0,Lisboa
+139,"Braga Parque",0,Braga
+139,"CC Setúbal",14,Setúbal
+139,Colombo,30,Lisboa
+139,"Estação Viana",11,"Viana do Castelo"
+139,"Évora Plaza",10,Évora
+139,"Fórum Algarve",15,Faro
+139,"Fórum Aveiro",0,Aveiro
+139,"Fórum Coimbra",24,Coimbra
+139,"Gaia Shopping",31,Porto
+139,"Leiria Shopping",8,Leiria
+139,"Norte Shopping",8,Porto
+139,"Nosso Shopping",2,"Vila Real"
+139,"Palácio do Gelo",15,Viseu
+139,"Santa Catarina",7,Porto
+139,"Vasgo da Gama",11,Lisboa
+140,Aeroporto,5,Lisboa
+140,Amoreiras,0,Lisboa
+140,"Braga Parque",16,Braga
+140,"CC Setúbal",5,Setúbal
+140,Colombo,15,Lisboa
+140,"Estação Viana",6,"Viana do Castelo"
+140,"Évora Plaza",23,Évora
+140,"Fórum Algarve",29,Faro
+140,"Fórum Aveiro",15,Aveiro
+140,"Fórum Coimbra",0,Coimbra
+140,"Gaia Shopping",10,Porto
+140,"Leiria Shopping",11,Leiria
+140,"Norte Shopping",14,Porto
+140,"Nosso Shopping",23,"Vila Real"
+140,"Palácio do Gelo",0,Viseu
+140,"Santa Catarina",10,Porto
+140,"Vasgo da Gama",28,Lisboa
+141,Aeroporto,4,Lisboa
+141,Amoreiras,14,Lisboa
+141,"Braga Parque",14,Braga
+141,"CC Setúbal",12,Setúbal
+141,Colombo,29,Lisboa
+141,"Estação Viana",0,"Viana do Castelo"
+141,"Évora Plaza",27,Évora
+141,"Fórum Algarve",18,Faro
+141,"Fórum Aveiro",16,Aveiro
+141,"Fórum Coimbra",6,Coimbra
+141,"Gaia Shopping",25,Porto
+141,"Leiria Shopping",12,Leiria
+141,"Norte Shopping",22,Porto
+141,"Nosso Shopping",12,"Vila Real"
+141,"Palácio do Gelo",15,Viseu
+141,"Santa Catarina",9,Porto
+141,"Vasgo da Gama",12,Lisboa
+142,Aeroporto,13,Lisboa
+142,Amoreiras,10,Lisboa
+142,"Braga Parque",22,Braga
+142,"CC Setúbal",0,Setúbal
+142,Colombo,0,Lisboa
+142,"Estação Viana",0,"Viana do Castelo"
+142,"Évora Plaza",26,Évora
+142,"Fórum Algarve",0,Faro
+142,"Fórum Aveiro",0,Aveiro
+142,"Fórum Coimbra",21,Coimbra
+142,"Gaia Shopping",10,Porto
+142,"Leiria Shopping",12,Leiria
+142,"Norte Shopping",10,Porto
+142,"Nosso Shopping",14,"Vila Real"
+142,"Palácio do Gelo",7,Viseu
+142,"Santa Catarina",14,Porto
+142,"Vasgo da Gama",17,Lisboa
+143,Aeroporto,25,Lisboa
+143,Amoreiras,30,Lisboa
+143,"Braga Parque",1,Braga
+143,"CC Setúbal",11,Setúbal
+143,Colombo,13,Lisboa
+143,"Estação Viana",9,"Viana do Castelo"
+143,"Évora Plaza",9,Évora
+143,"Fórum Algarve",14,Faro
+143,"Fórum Aveiro",13,Aveiro
+143,"Fórum Coimbra",30,Coimbra
+143,"Gaia Shopping",11,Porto
+143,"Leiria Shopping",5,Leiria
+143,"Norte Shopping",23,Porto
+143,"Nosso Shopping",16,"Vila Real"
+143,"Palácio do Gelo",16,Viseu
+143,"Santa Catarina",31,Porto
+143,"Vasgo da Gama",0,Lisboa
+144,Aeroporto,18,Lisboa
+144,Amoreiras,24,Lisboa
+144,"Braga Parque",26,Braga
+144,"CC Setúbal",16,Setúbal
+144,Colombo,22,Lisboa
+144,"Estação Viana",28,"Viana do Castelo"
+144,"Évora Plaza",18,Évora
+144,"Fórum Algarve",18,Faro
+144,"Fórum Aveiro",8,Aveiro
+144,"Fórum Coimbra",15,Coimbra
+144,"Gaia Shopping",3,Porto
+144,"Leiria Shopping",0,Leiria
+144,"Norte Shopping",7,Porto
+144,"Nosso Shopping",11,"Vila Real"
+144,"Palácio do Gelo",14,Viseu
+144,"Santa Catarina",25,Porto
+144,"Vasgo da Gama",19,Lisboa
+145,Aeroporto,26,Lisboa
+145,Amoreiras,7,Lisboa
+145,"Braga Parque",7,Braga
+145,"CC Setúbal",6,Setúbal
+145,Colombo,28,Lisboa
+145,"Estação Viana",19,"Viana do Castelo"
+145,"Évora Plaza",22,Évora
+145,"Fórum Algarve",23,Faro
+145,"Fórum Aveiro",8,Aveiro
+145,"Fórum Coimbra",13,Coimbra
+145,"Gaia Shopping",20,Porto
+145,"Leiria Shopping",9,Leiria
+145,"Norte Shopping",5,Porto
+145,"Nosso Shopping",15,"Vila Real"
+145,"Palácio do Gelo",23,Viseu
+145,"Santa Catarina",5,Porto
+145,"Vasgo da Gama",26,Lisboa
+146,Aeroporto,5,Lisboa
+146,Amoreiras,31,Lisboa
+146,"Braga Parque",18,Braga
+146,"CC Setúbal",8,Setúbal
+146,Colombo,11,Lisboa
+146,"Estação Viana",5,"Viana do Castelo"
+146,"Évora Plaza",2,Évora
+146,"Fórum Algarve",24,Faro
+146,"Fórum Aveiro",4,Aveiro
+146,"Fórum Coimbra",6,Coimbra
+146,"Gaia Shopping",15,Porto
+146,"Leiria Shopping",20,Leiria
+146,"Norte Shopping",21,Porto
+146,"Nosso Shopping",25,"Vila Real"
+146,"Palácio do Gelo",6,Viseu
+146,"Santa Catarina",27,Porto
+146,"Vasgo da Gama",2,Lisboa
+147,Aeroporto,0,Lisboa
+147,Amoreiras,24,Lisboa
+147,"Braga Parque",9,Braga
+147,"CC Setúbal",27,Setúbal
+147,Colombo,4,Lisboa
+147,"Estação Viana",0,"Viana do Castelo"
+147,"Évora Plaza",31,Évora
+147,"Fórum Algarve",30,Faro
+147,"Fórum Aveiro",20,Aveiro
+147,"Fórum Coimbra",6,Coimbra
+147,"Gaia Shopping",25,Porto
+147,"Leiria Shopping",30,Leiria
+147,"Norte Shopping",8,Porto
+147,"Nosso Shopping",0,"Vila Real"
+147,"Palácio do Gelo",11,Viseu
+147,"Santa Catarina",29,Porto
+147,"Vasgo da Gama",16,Lisboa
+148,Aeroporto,16,Lisboa
+148,Amoreiras,25,Lisboa
+148,"Braga Parque",0,Braga
+148,"CC Setúbal",0,Setúbal
+148,Colombo,0,Lisboa
+148,"Estação Viana",30,"Viana do Castelo"
+148,"Évora Plaza",0,Évora
+148,"Fórum Algarve",14,Faro
+148,"Fórum Aveiro",13,Aveiro
+148,"Fórum Coimbra",28,Coimbra
+148,"Gaia Shopping",20,Porto
+148,"Leiria Shopping",18,Leiria
+148,"Norte Shopping",3,Porto
+148,"Nosso Shopping",8,"Vila Real"
+148,"Palácio do Gelo",7,Viseu
+148,"Santa Catarina",15,Porto
+148,"Vasgo da Gama",0,Lisboa
+149,Aeroporto,0,Lisboa
+149,Amoreiras,0,Lisboa
+149,"Braga Parque",30,Braga
+149,"CC Setúbal",22,Setúbal
+149,Colombo,26,Lisboa
+149,"Estação Viana",17,"Viana do Castelo"
+149,"Évora Plaza",0,Évora
+149,"Fórum Algarve",15,Faro
+149,"Fórum Aveiro",3,Aveiro
+149,"Fórum Coimbra",1,Coimbra
+149,"Gaia Shopping",25,Porto
+149,"Leiria Shopping",0,Leiria
+149,"Norte Shopping",7,Porto
+149,"Nosso Shopping",0,"Vila Real"
+149,"Palácio do Gelo",1,Viseu
+149,"Santa Catarina",19,Porto
+149,"Vasgo da Gama",6,Lisboa
+150,Aeroporto,7,Lisboa
+150,Amoreiras,8,Lisboa
+150,"Braga Parque",0,Braga
+150,"CC Setúbal",30,Setúbal
+150,Colombo,27,Lisboa
+150,"Estação Viana",4,"Viana do Castelo"
+150,"Évora Plaza",26,Évora
+150,"Fórum Algarve",6,Faro
+150,"Fórum Aveiro",20,Aveiro
+150,"Fórum Coimbra",9,Coimbra
+150,"Gaia Shopping",0,Porto
+150,"Leiria Shopping",31,Leiria
+150,"Norte Shopping",14,Porto
+150,"Nosso Shopping",13,"Vila Real"
+150,"Palácio do Gelo",23,Viseu
+150,"Santa Catarina",24,Porto
+150,"Vasgo da Gama",16,Lisboa
+151,Aeroporto,0,Lisboa
+151,Amoreiras,11,Lisboa
+151,"Braga Parque",18,Braga
+151,"CC Setúbal",26,Setúbal
+151,Colombo,0,Lisboa
+151,"Estação Viana",10,"Viana do Castelo"
+151,"Évora Plaza",18,Évora
+151,"Fórum Algarve",24,Faro
+151,"Fórum Aveiro",25,Aveiro
+151,"Fórum Coimbra",7,Coimbra
+151,"Gaia Shopping",17,Porto
+151,"Leiria Shopping",18,Leiria
+151,"Norte Shopping",9,Porto
+151,"Nosso Shopping",20,"Vila Real"
+151,"Palácio do Gelo",1,Viseu
+151,"Santa Catarina",13,Porto
+151,"Vasgo da Gama",14,Lisboa
+152,Aeroporto,27,Lisboa
+152,Amoreiras,17,Lisboa
+152,"Braga Parque",0,Braga
+152,"CC Setúbal",24,Setúbal
+152,Colombo,0,Lisboa
+152,"Estação Viana",0,"Viana do Castelo"
+152,"Évora Plaza",23,Évora
+152,"Fórum Algarve",9,Faro
+152,"Fórum Aveiro",25,Aveiro
+152,"Fórum Coimbra",10,Coimbra
+152,"Gaia Shopping",0,Porto
+152,"Leiria Shopping",31,Leiria
+152,"Norte Shopping",15,Porto
+152,"Nosso Shopping",26,"Vila Real"
+152,"Palácio do Gelo",6,Viseu
+152,"Santa Catarina",14,Porto
+152,"Vasgo da Gama",0,Lisboa
+153,Aeroporto,18,Lisboa
+153,Amoreiras,16,Lisboa
+153,"Braga Parque",0,Braga
+153,"CC Setúbal",15,Setúbal
+153,Colombo,11,Lisboa
+153,"Estação Viana",0,"Viana do Castelo"
+153,"Évora Plaza",5,Évora
+153,"Fórum Algarve",10,Faro
+153,"Fórum Aveiro",18,Aveiro
+153,"Fórum Coimbra",3,Coimbra
+153,"Gaia Shopping",15,Porto
+153,"Leiria Shopping",17,Leiria
+153,"Norte Shopping",17,Porto
+153,"Nosso Shopping",4,"Vila Real"
+153,"Palácio do Gelo",4,Viseu
+153,"Santa Catarina",0,Porto
+153,"Vasgo da Gama",8,Lisboa
+154,Aeroporto,16,Lisboa
+154,Amoreiras,17,Lisboa
+154,"Braga Parque",0,Braga
+154,"CC Setúbal",0,Setúbal
+154,Colombo,7,Lisboa
+154,"Estação Viana",0,"Viana do Castelo"
+154,"Évora Plaza",0,Évora
+154,"Fórum Algarve",7,Faro
+154,"Fórum Aveiro",13,Aveiro
+154,"Fórum Coimbra",5,Coimbra
+154,"Gaia Shopping",0,Porto
+154,"Leiria Shopping",22,Leiria
+154,"Norte Shopping",14,Porto
+154,"Nosso Shopping",4,"Vila Real"
+154,"Palácio do Gelo",0,Viseu
+154,"Santa Catarina",9,Porto
+154,"Vasgo da Gama",0,Lisboa
+155,Aeroporto,3,Lisboa
+155,Amoreiras,25,Lisboa
+155,"Braga Parque",23,Braga
+155,"CC Setúbal",0,Setúbal
+155,Colombo,20,Lisboa
+155,"Estação Viana",22,"Viana do Castelo"
+155,"Évora Plaza",14,Évora
+155,"Fórum Algarve",13,Faro
+155,"Fórum Aveiro",1,Aveiro
+155,"Fórum Coimbra",3,Coimbra
+155,"Gaia Shopping",8,Porto
+155,"Leiria Shopping",15,Leiria
+155,"Norte Shopping",2,Porto
+155,"Nosso Shopping",14,"Vila Real"
+155,"Palácio do Gelo",16,Viseu
+155,"Santa Catarina",28,Porto
+155,"Vasgo da Gama",16,Lisboa
+156,Aeroporto,5,Lisboa
+156,Amoreiras,0,Lisboa
+156,"Braga Parque",31,Braga
+156,"CC Setúbal",2,Setúbal
+156,Colombo,9,Lisboa
+156,"Estação Viana",0,"Viana do Castelo"
+156,"Évora Plaza",19,Évora
+156,"Fórum Algarve",11,Faro
+156,"Fórum Aveiro",26,Aveiro
+156,"Fórum Coimbra",1,Coimbra
+156,"Gaia Shopping",19,Porto
+156,"Leiria Shopping",25,Leiria
+156,"Norte Shopping",0,Porto
+156,"Nosso Shopping",0,"Vila Real"
+156,"Palácio do Gelo",4,Viseu
+156,"Santa Catarina",0,Porto
+156,"Vasgo da Gama",12,Lisboa
+157,Aeroporto,8,Lisboa
+157,Amoreiras,5,Lisboa
+157,"Braga Parque",23,Braga
+157,"CC Setúbal",14,Setúbal
+157,Colombo,0,Lisboa
+157,"Estação Viana",23,"Viana do Castelo"
+157,"Évora Plaza",26,Évora
+157,"Fórum Algarve",18,Faro
+157,"Fórum Aveiro",0,Aveiro
+157,"Fórum Coimbra",6,Coimbra
+157,"Gaia Shopping",8,Porto
+157,"Leiria Shopping",13,Leiria
+157,"Norte Shopping",2,Porto
+157,"Nosso Shopping",22,"Vila Real"
+157,"Palácio do Gelo",0,Viseu
+157,"Santa Catarina",1,Porto
+157,"Vasgo da Gama",3,Lisboa
+158,Aeroporto,25,Lisboa
+158,Amoreiras,5,Lisboa
+158,"Braga Parque",0,Braga
+158,"CC Setúbal",10,Setúbal
+158,Colombo,18,Lisboa
+158,"Estação Viana",31,"Viana do Castelo"
+158,"Évora Plaza",30,Évora
+158,"Fórum Algarve",14,Faro
+158,"Fórum Aveiro",7,Aveiro
+158,"Fórum Coimbra",24,Coimbra
+158,"Gaia Shopping",0,Porto
+158,"Leiria Shopping",31,Leiria
+158,"Norte Shopping",12,Porto
+158,"Nosso Shopping",18,"Vila Real"
+158,"Palácio do Gelo",22,Viseu
+158,"Santa Catarina",24,Porto
+158,"Vasgo da Gama",5,Lisboa
+159,Aeroporto,15,Lisboa
+159,Amoreiras,0,Lisboa
+159,"Braga Parque",10,Braga
+159,"CC Setúbal",6,Setúbal
+159,Colombo,16,Lisboa
+159,"Estação Viana",9,"Viana do Castelo"
+159,"Évora Plaza",14,Évora
+159,"Fórum Algarve",1,Faro
+159,"Fórum Aveiro",20,Aveiro
+159,"Fórum Coimbra",13,Coimbra
+159,"Gaia Shopping",6,Porto
+159,"Leiria Shopping",0,Leiria
+159,"Norte Shopping",28,Porto
+159,"Nosso Shopping",14,"Vila Real"
+159,"Palácio do Gelo",3,Viseu
+159,"Santa Catarina",0,Porto
+159,"Vasgo da Gama",15,Lisboa
+160,Aeroporto,19,Lisboa
+160,Amoreiras,28,Lisboa
+160,"Braga Parque",16,Braga
+160,"CC Setúbal",21,Setúbal
+160,Colombo,25,Lisboa
+160,"Estação Viana",22,"Viana do Castelo"
+160,"Évora Plaza",0,Évora
+160,"Fórum Algarve",10,Faro
+160,"Fórum Aveiro",1,Aveiro
+160,"Fórum Coimbra",22,Coimbra
+160,"Gaia Shopping",31,Porto
+160,"Leiria Shopping",0,Leiria
+160,"Norte Shopping",1,Porto
+160,"Nosso Shopping",6,"Vila Real"
+160,"Palácio do Gelo",21,Viseu
+160,"Santa Catarina",26,Porto
+160,"Vasgo da Gama",24,Lisboa
+161,Aeroporto,9,Lisboa
+161,Amoreiras,19,Lisboa
+161,"Braga Parque",11,Braga
+161,"CC Setúbal",28,Setúbal
+161,Colombo,7,Lisboa
+161,"Estação Viana",28,"Viana do Castelo"
+161,"Évora Plaza",14,Évora
+161,"Fórum Algarve",19,Faro
+161,"Fórum Aveiro",6,Aveiro
+161,"Fórum Coimbra",0,Coimbra
+161,"Gaia Shopping",0,Porto
+161,"Leiria Shopping",26,Leiria
+161,"Norte Shopping",8,Porto
+161,"Nosso Shopping",3,"Vila Real"
+161,"Palácio do Gelo",13,Viseu
+161,"Santa Catarina",14,Porto
+161,"Vasgo da Gama",20,Lisboa
+162,Aeroporto,4,Lisboa
+162,Amoreiras,6,Lisboa
+162,"Braga Parque",2,Braga
+162,"CC Setúbal",30,Setúbal
+162,Colombo,30,Lisboa
+162,"Estação Viana",23,"Viana do Castelo"
+162,"Évora Plaza",28,Évora
+162,"Fórum Algarve",3,Faro
+162,"Fórum Aveiro",29,Aveiro
+162,"Fórum Coimbra",17,Coimbra
+162,"Gaia Shopping",0,Porto
+162,"Leiria Shopping",4,Leiria
+162,"Norte Shopping",18,Porto
+162,"Nosso Shopping",30,"Vila Real"
+162,"Palácio do Gelo",0,Viseu
+162,"Santa Catarina",9,Porto
+162,"Vasgo da Gama",9,Lisboa
+163,Aeroporto,11,Lisboa
+163,Amoreiras,26,Lisboa
+163,"Braga Parque",7,Braga
+163,"CC Setúbal",7,Setúbal
+163,Colombo,4,Lisboa
+163,"Estação Viana",20,"Viana do Castelo"
+163,"Évora Plaza",16,Évora
+163,"Fórum Algarve",3,Faro
+163,"Fórum Aveiro",16,Aveiro
+163,"Fórum Coimbra",6,Coimbra
+163,"Gaia Shopping",9,Porto
+163,"Leiria Shopping",3,Leiria
+163,"Norte Shopping",23,Porto
+163,"Nosso Shopping",18,"Vila Real"
+163,"Palácio do Gelo",11,Viseu
+163,"Santa Catarina",30,Porto
+163,"Vasgo da Gama",31,Lisboa
+164,Aeroporto,27,Lisboa
+164,Amoreiras,28,Lisboa
+164,"Braga Parque",6,Braga
+164,"CC Setúbal",30,Setúbal
+164,Colombo,22,Lisboa
+164,"Estação Viana",15,"Viana do Castelo"
+164,"Évora Plaza",15,Évora
+164,"Fórum Algarve",7,Faro
+164,"Fórum Aveiro",1,Aveiro
+164,"Fórum Coimbra",6,Coimbra
+164,"Gaia Shopping",2,Porto
+164,"Leiria Shopping",9,Leiria
+164,"Norte Shopping",2,Porto
+164,"Nosso Shopping",16,"Vila Real"
+164,"Palácio do Gelo",11,Viseu
+164,"Santa Catarina",27,Porto
+164,"Vasgo da Gama",17,Lisboa
+165,Aeroporto,14,Lisboa
+165,Amoreiras,9,Lisboa
+165,"Braga Parque",30,Braga
+165,"CC Setúbal",4,Setúbal
+165,Colombo,10,Lisboa
+165,"Estação Viana",25,"Viana do Castelo"
+165,"Évora Plaza",0,Évora
+165,"Fórum Algarve",11,Faro
+165,"Fórum Aveiro",0,Aveiro
+165,"Fórum Coimbra",0,Coimbra
+165,"Gaia Shopping",12,Porto
+165,"Leiria Shopping",3,Leiria
+165,"Norte Shopping",16,Porto
+165,"Nosso Shopping",6,"Vila Real"
+165,"Palácio do Gelo",5,Viseu
+165,"Santa Catarina",20,Porto
+165,"Vasgo da Gama",0,Lisboa
+166,Aeroporto,21,Lisboa
+166,Amoreiras,26,Lisboa
+166,"Braga Parque",28,Braga
+166,"CC Setúbal",0,Setúbal
+166,Colombo,4,Lisboa
+166,"Estação Viana",0,"Viana do Castelo"
+166,"Évora Plaza",28,Évora
+166,"Fórum Algarve",9,Faro
+166,"Fórum Aveiro",10,Aveiro
+166,"Fórum Coimbra",22,Coimbra
+166,"Gaia Shopping",31,Porto
+166,"Leiria Shopping",4,Leiria
+166,"Norte Shopping",27,Porto
+166,"Nosso Shopping",16,"Vila Real"
+166,"Palácio do Gelo",12,Viseu
+166,"Santa Catarina",0,Porto
+166,"Vasgo da Gama",0,Lisboa
+167,Aeroporto,0,Lisboa
+167,Amoreiras,26,Lisboa
+167,"Braga Parque",8,Braga
+167,"CC Setúbal",23,Setúbal
+167,Colombo,1,Lisboa
+167,"Estação Viana",12,"Viana do Castelo"
+167,"Évora Plaza",26,Évora
+167,"Fórum Algarve",15,Faro
+167,"Fórum Aveiro",16,Aveiro
+167,"Fórum Coimbra",26,Coimbra
+167,"Gaia Shopping",14,Porto
+167,"Leiria Shopping",25,Leiria
+167,"Norte Shopping",6,Porto
+167,"Nosso Shopping",15,"Vila Real"
+167,"Palácio do Gelo",3,Viseu
+167,"Santa Catarina",31,Porto
+167,"Vasgo da Gama",7,Lisboa
+168,Aeroporto,13,Lisboa
+168,Amoreiras,7,Lisboa
+168,"Braga Parque",4,Braga
+168,"CC Setúbal",21,Setúbal
+168,Colombo,28,Lisboa
+168,"Estação Viana",0,"Viana do Castelo"
+168,"Évora Plaza",31,Évora
+168,"Fórum Algarve",17,Faro
+168,"Fórum Aveiro",28,Aveiro
+168,"Fórum Coimbra",12,Coimbra
+168,"Gaia Shopping",20,Porto
+168,"Leiria Shopping",25,Leiria
+168,"Norte Shopping",28,Porto
+168,"Nosso Shopping",0,"Vila Real"
+168,"Palácio do Gelo",31,Viseu
+168,"Santa Catarina",12,Porto
+168,"Vasgo da Gama",0,Lisboa
+169,Aeroporto,18,Lisboa
+169,Amoreiras,10,Lisboa
+169,"Braga Parque",7,Braga
+169,"CC Setúbal",30,Setúbal
+169,Colombo,29,Lisboa
+169,"Estação Viana",8,"Viana do Castelo"
+169,"Évora Plaza",9,Évora
+169,"Fórum Algarve",25,Faro
+169,"Fórum Aveiro",7,Aveiro
+169,"Fórum Coimbra",6,Coimbra
+169,"Gaia Shopping",12,Porto
+169,"Leiria Shopping",19,Leiria
+169,"Norte Shopping",21,Porto
+169,"Nosso Shopping",14,"Vila Real"
+169,"Palácio do Gelo",1,Viseu
+169,"Santa Catarina",10,Porto
+169,"Vasgo da Gama",13,Lisboa
+170,Aeroporto,20,Lisboa
+170,Amoreiras,18,Lisboa
+170,"Braga Parque",0,Braga
+170,"CC Setúbal",24,Setúbal
+170,Colombo,2,Lisboa
+170,"Estação Viana",21,"Viana do Castelo"
+170,"Évora Plaza",13,Évora
+170,"Fórum Algarve",14,Faro
+170,"Fórum Aveiro",0,Aveiro
+170,"Fórum Coimbra",17,Coimbra
+170,"Gaia Shopping",8,Porto
+170,"Leiria Shopping",3,Leiria
+170,"Norte Shopping",5,Porto
+170,"Nosso Shopping",19,"Vila Real"
+170,"Palácio do Gelo",16,Viseu
+170,"Santa Catarina",4,Porto
+170,"Vasgo da Gama",27,Lisboa
+171,Aeroporto,3,Lisboa
+171,Amoreiras,0,Lisboa
+171,"Braga Parque",0,Braga
+171,"CC Setúbal",0,Setúbal
+171,Colombo,27,Lisboa
+171,"Estação Viana",11,"Viana do Castelo"
+171,"Évora Plaza",10,Évora
+171,"Fórum Algarve",30,Faro
+171,"Fórum Aveiro",1,Aveiro
+171,"Fórum Coimbra",19,Coimbra
+171,"Gaia Shopping",20,Porto
+171,"Leiria Shopping",17,Leiria
+171,"Norte Shopping",23,Porto
+171,"Nosso Shopping",9,"Vila Real"
+171,"Palácio do Gelo",15,Viseu
+171,"Santa Catarina",11,Porto
+171,"Vasgo da Gama",0,Lisboa
+172,Aeroporto,13,Lisboa
+172,Amoreiras,26,Lisboa
+172,"Braga Parque",25,Braga
+172,"CC Setúbal",2,Setúbal
+172,Colombo,2,Lisboa
+172,"Estação Viana",12,"Viana do Castelo"
+172,"Évora Plaza",19,Évora
+172,"Fórum Algarve",30,Faro
+172,"Fórum Aveiro",0,Aveiro
+172,"Fórum Coimbra",22,Coimbra
+172,"Gaia Shopping",21,Porto
+172,"Leiria Shopping",27,Leiria
+172,"Norte Shopping",25,Porto
+172,"Nosso Shopping",0,"Vila Real"
+172,"Palácio do Gelo",6,Viseu
+172,"Santa Catarina",0,Porto
+172,"Vasgo da Gama",3,Lisboa
+173,Aeroporto,16,Lisboa
+173,Amoreiras,16,Lisboa
+173,"Braga Parque",11,Braga
+173,"CC Setúbal",7,Setúbal
+173,Colombo,0,Lisboa
+173,"Estação Viana",29,"Viana do Castelo"
+173,"Évora Plaza",0,Évora
+173,"Fórum Algarve",27,Faro
+173,"Fórum Aveiro",17,Aveiro
+173,"Fórum Coimbra",5,Coimbra
+173,"Gaia Shopping",15,Porto
+173,"Leiria Shopping",9,Leiria
+173,"Norte Shopping",18,Porto
+173,"Nosso Shopping",18,"Vila Real"
+173,"Palácio do Gelo",0,Viseu
+173,"Santa Catarina",24,Porto
+173,"Vasgo da Gama",21,Lisboa
+174,Aeroporto,19,Lisboa
+174,Amoreiras,14,Lisboa
+174,"Braga Parque",4,Braga
+174,"CC Setúbal",13,Setúbal
+174,Colombo,0,Lisboa
+174,"Estação Viana",7,"Viana do Castelo"
+174,"Évora Plaza",4,Évora
+174,"Fórum Algarve",0,Faro
+174,"Fórum Aveiro",22,Aveiro
+174,"Fórum Coimbra",28,Coimbra
+174,"Gaia Shopping",21,Porto
+174,"Leiria Shopping",19,Leiria
+174,"Norte Shopping",5,Porto
+174,"Nosso Shopping",18,"Vila Real"
+174,"Palácio do Gelo",26,Viseu
+174,"Santa Catarina",21,Porto
+174,"Vasgo da Gama",12,Lisboa
+175,Aeroporto,14,Lisboa
+175,Amoreiras,0,Lisboa
+175,"Braga Parque",17,Braga
+175,"CC Setúbal",23,Setúbal
+175,Colombo,5,Lisboa
+175,"Estação Viana",23,"Viana do Castelo"
+175,"Évora Plaza",0,Évora
+175,"Fórum Algarve",26,Faro
+175,"Fórum Aveiro",0,Aveiro
+175,"Fórum Coimbra",0,Coimbra
+175,"Gaia Shopping",7,Porto
+175,"Leiria Shopping",9,Leiria
+175,"Norte Shopping",24,Porto
+175,"Nosso Shopping",19,"Vila Real"
+175,"Palácio do Gelo",30,Viseu
+175,"Santa Catarina",0,Porto
+175,"Vasgo da Gama",0,Lisboa
+176,Aeroporto,10,Lisboa
+176,Amoreiras,27,Lisboa
+176,"Braga Parque",0,Braga
+176,"CC Setúbal",11,Setúbal
+176,Colombo,0,Lisboa
+176,"Estação Viana",5,"Viana do Castelo"
+176,"Évora Plaza",16,Évora
+176,"Fórum Algarve",14,Faro
+176,"Fórum Aveiro",0,Aveiro
+176,"Fórum Coimbra",24,Coimbra
+176,"Gaia Shopping",20,Porto
+176,"Leiria Shopping",8,Leiria
+176,"Norte Shopping",22,Porto
+176,"Nosso Shopping",11,"Vila Real"
+176,"Palácio do Gelo",20,Viseu
+176,"Santa Catarina",15,Porto
+176,"Vasgo da Gama",11,Lisboa
+177,Aeroporto,1,Lisboa
+177,Amoreiras,14,Lisboa
+177,"Braga Parque",18,Braga
+177,"CC Setúbal",16,Setúbal
+177,Colombo,20,Lisboa
+177,"Estação Viana",22,"Viana do Castelo"
+177,"Évora Plaza",7,Évora
+177,"Fórum Algarve",16,Faro
+177,"Fórum Aveiro",3,Aveiro
+177,"Fórum Coimbra",27,Coimbra
+177,"Gaia Shopping",17,Porto
+177,"Leiria Shopping",14,Leiria
+177,"Norte Shopping",11,Porto
+177,"Nosso Shopping",27,"Vila Real"
+177,"Palácio do Gelo",17,Viseu
+177,"Santa Catarina",18,Porto
+177,"Vasgo da Gama",27,Lisboa
+178,Aeroporto,24,Lisboa
+178,Amoreiras,1,Lisboa
+178,"Braga Parque",8,Braga
+178,"CC Setúbal",0,Setúbal
+178,Colombo,25,Lisboa
+178,"Estação Viana",7,"Viana do Castelo"
+178,"Évora Plaza",25,Évora
+178,"Fórum Algarve",8,Faro
+178,"Fórum Aveiro",18,Aveiro
+178,"Fórum Coimbra",22,Coimbra
+178,"Gaia Shopping",12,Porto
+178,"Leiria Shopping",2,Leiria
+178,"Norte Shopping",27,Porto
+178,"Nosso Shopping",9,"Vila Real"
+178,"Palácio do Gelo",10,Viseu
+178,"Santa Catarina",0,Porto
+178,"Vasgo da Gama",25,Lisboa
+179,Aeroporto,11,Lisboa
+179,Amoreiras,22,Lisboa
+179,"Braga Parque",26,Braga
+179,"CC Setúbal",30,Setúbal
+179,Colombo,30,Lisboa
+179,"Estação Viana",12,"Viana do Castelo"
+179,"Évora Plaza",0,Évora
+179,"Fórum Algarve",16,Faro
+179,"Fórum Aveiro",19,Aveiro
+179,"Fórum Coimbra",24,Coimbra
+179,"Gaia Shopping",0,Porto
+179,"Leiria Shopping",17,Leiria
+179,"Norte Shopping",14,Porto
+179,"Nosso Shopping",29,"Vila Real"
+179,"Palácio do Gelo",9,Viseu
+179,"Santa Catarina",9,Porto
+179,"Vasgo da Gama",17,Lisboa
+180,Aeroporto,6,Lisboa
+180,Amoreiras,0,Lisboa
+180,"Braga Parque",0,Braga
+180,"CC Setúbal",13,Setúbal
+180,Colombo,0,Lisboa
+180,"Estação Viana",17,"Viana do Castelo"
+180,"Évora Plaza",22,Évora
+180,"Fórum Algarve",5,Faro
+180,"Fórum Aveiro",23,Aveiro
+180,"Fórum Coimbra",29,Coimbra
+180,"Gaia Shopping",0,Porto
+180,"Leiria Shopping",14,Leiria
+180,"Norte Shopping",23,Porto
+180,"Nosso Shopping",21,"Vila Real"
+180,"Palácio do Gelo",12,Viseu
+180,"Santa Catarina",13,Porto
+180,"Vasgo da Gama",13,Lisboa
+181,Aeroporto,27,Lisboa
+181,Amoreiras,28,Lisboa
+181,"Braga Parque",0,Braga
+181,"CC Setúbal",1,Setúbal
+181,Colombo,16,Lisboa
+181,"Estação Viana",0,"Viana do Castelo"
+181,"Évora Plaza",5,Évora
+181,"Fórum Algarve",10,Faro
+181,"Fórum Aveiro",25,Aveiro
+181,"Fórum Coimbra",3,Coimbra
+181,"Gaia Shopping",1,Porto
+181,"Leiria Shopping",19,Leiria
+181,"Norte Shopping",9,Porto
+181,"Nosso Shopping",20,"Vila Real"
+181,"Palácio do Gelo",9,Viseu
+181,"Santa Catarina",20,Porto
+181,"Vasgo da Gama",14,Lisboa
+182,Aeroporto,8,Lisboa
+182,Amoreiras,12,Lisboa
+182,"Braga Parque",0,Braga
+182,"CC Setúbal",24,Setúbal
+182,Colombo,4,Lisboa
+182,"Estação Viana",9,"Viana do Castelo"
+182,"Évora Plaza",13,Évora
+182,"Fórum Algarve",7,Faro
+182,"Fórum Aveiro",28,Aveiro
+182,"Fórum Coimbra",29,Coimbra
+182,"Gaia Shopping",14,Porto
+182,"Leiria Shopping",0,Leiria
+182,"Norte Shopping",2,Porto
+182,"Nosso Shopping",11,"Vila Real"
+182,"Palácio do Gelo",9,Viseu
+182,"Santa Catarina",10,Porto
+182,"Vasgo da Gama",31,Lisboa
+183,Aeroporto,25,Lisboa
+183,Amoreiras,31,Lisboa
+183,"Braga Parque",30,Braga
+183,"CC Setúbal",1,Setúbal
+183,Colombo,14,Lisboa
+183,"Estação Viana",29,"Viana do Castelo"
+183,"Évora Plaza",23,Évora
+183,"Fórum Algarve",9,Faro
+183,"Fórum Aveiro",30,Aveiro
+183,"Fórum Coimbra",24,Coimbra
+183,"Gaia Shopping",13,Porto
+183,"Leiria Shopping",26,Leiria
+183,"Norte Shopping",30,Porto
+183,"Nosso Shopping",29,"Vila Real"
+183,"Palácio do Gelo",14,Viseu
+183,"Santa Catarina",6,Porto
+183,"Vasgo da Gama",8,Lisboa
+184,Aeroporto,18,Lisboa
+184,Amoreiras,4,Lisboa
+184,"Braga Parque",14,Braga
+184,"CC Setúbal",14,Setúbal
+184,Colombo,29,Lisboa
+184,"Estação Viana",19,"Viana do Castelo"
+184,"Évora Plaza",27,Évora
+184,"Fórum Algarve",2,Faro
+184,"Fórum Aveiro",2,Aveiro
+184,"Fórum Coimbra",17,Coimbra
+184,"Gaia Shopping",26,Porto
+184,"Leiria Shopping",26,Leiria
+184,"Norte Shopping",1,Porto
+184,"Nosso Shopping",24,"Vila Real"
+184,"Palácio do Gelo",8,Viseu
+184,"Santa Catarina",18,Porto
+184,"Vasgo da Gama",16,Lisboa
+185,Aeroporto,27,Lisboa
+185,Amoreiras,6,Lisboa
+185,"Braga Parque",15,Braga
+185,"CC Setúbal",13,Setúbal
+185,Colombo,11,Lisboa
+185,"Estação Viana",6,"Viana do Castelo"
+185,"Évora Plaza",22,Évora
+185,"Fórum Algarve",14,Faro
+185,"Fórum Aveiro",29,Aveiro
+185,"Fórum Coimbra",30,Coimbra
+185,"Gaia Shopping",0,Porto
+185,"Leiria Shopping",28,Leiria
+185,"Norte Shopping",14,Porto
+185,"Nosso Shopping",5,"Vila Real"
+185,"Palácio do Gelo",0,Viseu
+185,"Santa Catarina",16,Porto
+185,"Vasgo da Gama",14,Lisboa
+186,Aeroporto,15,Lisboa
+186,Amoreiras,13,Lisboa
+186,"Braga Parque",7,Braga
+186,"CC Setúbal",17,Setúbal
+186,Colombo,24,Lisboa
+186,"Estação Viana",23,"Viana do Castelo"
+186,"Évora Plaza",0,Évora
+186,"Fórum Algarve",13,Faro
+186,"Fórum Aveiro",17,Aveiro
+186,"Fórum Coimbra",14,Coimbra
+186,"Gaia Shopping",25,Porto
+186,"Leiria Shopping",10,Leiria
+186,"Norte Shopping",30,Porto
+186,"Nosso Shopping",10,"Vila Real"
+186,"Palácio do Gelo",0,Viseu
+186,"Santa Catarina",5,Porto
+186,"Vasgo da Gama",0,Lisboa
+187,Aeroporto,26,Lisboa
+187,Amoreiras,13,Lisboa
+187,"Braga Parque",3,Braga
+187,"CC Setúbal",30,Setúbal
+187,Colombo,6,Lisboa
+187,"Estação Viana",7,"Viana do Castelo"
+187,"Évora Plaza",0,Évora
+187,"Fórum Algarve",7,Faro
+187,"Fórum Aveiro",10,Aveiro
+187,"Fórum Coimbra",0,Coimbra
+187,"Gaia Shopping",28,Porto
+187,"Leiria Shopping",0,Leiria
+187,"Norte Shopping",17,Porto
+187,"Nosso Shopping",0,"Vila Real"
+187,"Palácio do Gelo",22,Viseu
+187,"Santa Catarina",1,Porto
+187,"Vasgo da Gama",0,Lisboa
+188,Aeroporto,14,Lisboa
+188,Amoreiras,3,Lisboa
+188,"Braga Parque",6,Braga
+188,"CC Setúbal",0,Setúbal
+188,Colombo,3,Lisboa
+188,"Estação Viana",0,"Viana do Castelo"
+188,"Évora Plaza",0,Évora
+188,"Fórum Algarve",2,Faro
+188,"Fórum Aveiro",29,Aveiro
+188,"Fórum Coimbra",0,Coimbra
+188,"Gaia Shopping",10,Porto
+188,"Leiria Shopping",31,Leiria
+188,"Norte Shopping",29,Porto
+188,"Nosso Shopping",19,"Vila Real"
+188,"Palácio do Gelo",3,Viseu
+188,"Santa Catarina",12,Porto
+188,"Vasgo da Gama",9,Lisboa
+189,Aeroporto,14,Lisboa
+189,Amoreiras,14,Lisboa
+189,"Braga Parque",19,Braga
+189,"CC Setúbal",5,Setúbal
+189,Colombo,7,Lisboa
+189,"Estação Viana",0,"Viana do Castelo"
+189,"Évora Plaza",11,Évora
+189,"Fórum Algarve",14,Faro
+189,"Fórum Aveiro",9,Aveiro
+189,"Fórum Coimbra",29,Coimbra
+189,"Gaia Shopping",17,Porto
+189,"Leiria Shopping",30,Leiria
+189,"Norte Shopping",0,Porto
+189,"Nosso Shopping",3,"Vila Real"
+189,"Palácio do Gelo",30,Viseu
+189,"Santa Catarina",0,Porto
+189,"Vasgo da Gama",5,Lisboa
+190,Aeroporto,28,Lisboa
+190,Amoreiras,9,Lisboa
+190,"Braga Parque",11,Braga
+190,"CC Setúbal",30,Setúbal
+190,Colombo,1,Lisboa
+190,"Estação Viana",13,"Viana do Castelo"
+190,"Évora Plaza",7,Évora
+190,"Fórum Algarve",1,Faro
+190,"Fórum Aveiro",22,Aveiro
+190,"Fórum Coimbra",0,Coimbra
+190,"Gaia Shopping",5,Porto
+190,"Leiria Shopping",14,Leiria
+190,"Norte Shopping",23,Porto
+190,"Nosso Shopping",14,"Vila Real"
+190,"Palácio do Gelo",12,Viseu
+190,"Santa Catarina",21,Porto
+190,"Vasgo da Gama",29,Lisboa
+191,Aeroporto,27,Lisboa
+191,Amoreiras,19,Lisboa
+191,"Braga Parque",19,Braga
+191,"CC Setúbal",0,Setúbal
+191,Colombo,5,Lisboa
+191,"Estação Viana",2,"Viana do Castelo"
+191,"Évora Plaza",12,Évora
+191,"Fórum Algarve",5,Faro
+191,"Fórum Aveiro",27,Aveiro
+191,"Fórum Coimbra",30,Coimbra
+191,"Gaia Shopping",24,Porto
+191,"Leiria Shopping",22,Leiria
+191,"Norte Shopping",14,Porto
+191,"Nosso Shopping",3,"Vila Real"
+191,"Palácio do Gelo",22,Viseu
+191,"Santa Catarina",2,Porto
+191,"Vasgo da Gama",18,Lisboa
+192,Aeroporto,5,Lisboa
+192,Amoreiras,5,Lisboa
+192,"Braga Parque",29,Braga
+192,"CC Setúbal",27,Setúbal
+192,Colombo,24,Lisboa
+192,"Estação Viana",12,"Viana do Castelo"
+192,"Évora Plaza",7,Évora
+192,"Fórum Algarve",12,Faro
+192,"Fórum Aveiro",19,Aveiro
+192,"Fórum Coimbra",23,Coimbra
+192,"Gaia Shopping",1,Porto
+192,"Leiria Shopping",6,Leiria
+192,"Norte Shopping",7,Porto
+192,"Nosso Shopping",10,"Vila Real"
+192,"Palácio do Gelo",28,Viseu
+192,"Santa Catarina",24,Porto
+192,"Vasgo da Gama",13,Lisboa
+193,Aeroporto,17,Lisboa
+193,Amoreiras,3,Lisboa
+193,"Braga Parque",0,Braga
+193,"CC Setúbal",28,Setúbal
+193,Colombo,19,Lisboa
+193,"Estação Viana",13,"Viana do Castelo"
+193,"Évora Plaza",0,Évora
+193,"Fórum Algarve",10,Faro
+193,"Fórum Aveiro",29,Aveiro
+193,"Fórum Coimbra",7,Coimbra
+193,"Gaia Shopping",0,Porto
+193,"Leiria Shopping",10,Leiria
+193,"Norte Shopping",25,Porto
+193,"Nosso Shopping",1,"Vila Real"
+193,"Palácio do Gelo",13,Viseu
+193,"Santa Catarina",11,Porto
+193,"Vasgo da Gama",18,Lisboa
+194,Aeroporto,24,Lisboa
+194,Amoreiras,0,Lisboa
+194,"Braga Parque",10,Braga
+194,"CC Setúbal",27,Setúbal
+194,Colombo,12,Lisboa
+194,"Estação Viana",28,"Viana do Castelo"
+194,"Évora Plaza",4,Évora
+194,"Fórum Algarve",14,Faro
+194,"Fórum Aveiro",22,Aveiro
+194,"Fórum Coimbra",21,Coimbra
+194,"Gaia Shopping",22,Porto
+194,"Leiria Shopping",19,Leiria
+194,"Norte Shopping",7,Porto
+194,"Nosso Shopping",2,"Vila Real"
+194,"Palácio do Gelo",7,Viseu
+194,"Santa Catarina",21,Porto
+194,"Vasgo da Gama",23,Lisboa
+195,Aeroporto,31,Lisboa
+195,Amoreiras,13,Lisboa
+195,"Braga Parque",0,Braga
+195,"CC Setúbal",0,Setúbal
+195,Colombo,29,Lisboa
+195,"Estação Viana",17,"Viana do Castelo"
+195,"Évora Plaza",19,Évora
+195,"Fórum Algarve",19,Faro
+195,"Fórum Aveiro",10,Aveiro
+195,"Fórum Coimbra",29,Coimbra
+195,"Gaia Shopping",0,Porto
+195,"Leiria Shopping",4,Leiria
+195,"Norte Shopping",11,Porto
+195,"Nosso Shopping",10,"Vila Real"
+195,"Palácio do Gelo",0,Viseu
+195,"Santa Catarina",20,Porto
+195,"Vasgo da Gama",28,Lisboa
+196,Aeroporto,27,Lisboa
+196,Amoreiras,15,Lisboa
+196,"Braga Parque",10,Braga
+196,"CC Setúbal",0,Setúbal
+196,Colombo,15,Lisboa
+196,"Estação Viana",7,"Viana do Castelo"
+196,"Évora Plaza",18,Évora
+196,"Fórum Algarve",8,Faro
+196,"Fórum Aveiro",5,Aveiro
+196,"Fórum Coimbra",4,Coimbra
+196,"Gaia Shopping",30,Porto
+196,"Leiria Shopping",19,Leiria
+196,"Norte Shopping",24,Porto
+196,"Nosso Shopping",9,"Vila Real"
+196,"Palácio do Gelo",2,Viseu
+196,"Santa Catarina",15,Porto
+196,"Vasgo da Gama",13,Lisboa
+197,Aeroporto,21,Lisboa
+197,Amoreiras,28,Lisboa
+197,"Braga Parque",9,Braga
+197,"CC Setúbal",22,Setúbal
+197,Colombo,0,Lisboa
+197,"Estação Viana",24,"Viana do Castelo"
+197,"Évora Plaza",0,Évora
+197,"Fórum Algarve",14,Faro
+197,"Fórum Aveiro",0,Aveiro
+197,"Fórum Coimbra",4,Coimbra
+197,"Gaia Shopping",16,Porto
+197,"Leiria Shopping",21,Leiria
+197,"Norte Shopping",27,Porto
+197,"Nosso Shopping",0,"Vila Real"
+197,"Palácio do Gelo",27,Viseu
+197,"Santa Catarina",0,Porto
+197,"Vasgo da Gama",23,Lisboa
+198,Aeroporto,4,Lisboa
+198,Amoreiras,0,Lisboa
+198,"Braga Parque",7,Braga
+198,"CC Setúbal",4,Setúbal
+198,Colombo,10,Lisboa
+198,"Estação Viana",18,"Viana do Castelo"
+198,"Évora Plaza",3,Évora
+198,"Fórum Algarve",14,Faro
+198,"Fórum Aveiro",0,Aveiro
+198,"Fórum Coimbra",0,Coimbra
+198,"Gaia Shopping",19,Porto
+198,"Leiria Shopping",0,Leiria
+198,"Norte Shopping",15,Porto
+198,"Nosso Shopping",24,"Vila Real"
+198,"Palácio do Gelo",11,Viseu
+198,"Santa Catarina",0,Porto
+198,"Vasgo da Gama",15,Lisboa
+199,Aeroporto,9,Lisboa
+199,Amoreiras,17,Lisboa
+199,"Braga Parque",9,Braga
+199,"CC Setúbal",0,Setúbal
+199,Colombo,22,Lisboa
+199,"Estação Viana",28,"Viana do Castelo"
+199,"Évora Plaza",15,Évora
+199,"Fórum Algarve",9,Faro
+199,"Fórum Aveiro",0,Aveiro
+199,"Fórum Coimbra",23,Coimbra
+199,"Gaia Shopping",9,Porto
+199,"Leiria Shopping",11,Leiria
+199,"Norte Shopping",0,Porto
+199,"Nosso Shopping",28,"Vila Real"
+199,"Palácio do Gelo",0,Viseu
+199,"Santa Catarina",24,Porto
+199,"Vasgo da Gama",19,Lisboa
+200,Aeroporto,0,Lisboa
+200,Amoreiras,27,Lisboa
+200,"Braga Parque",20,Braga
+200,"CC Setúbal",8,Setúbal
+200,Colombo,30,Lisboa
+200,"Estação Viana",25,"Viana do Castelo"
+200,"Évora Plaza",0,Évora
+200,"Fórum Algarve",20,Faro
+200,"Fórum Aveiro",27,Aveiro
+200,"Fórum Coimbra",21,Coimbra
+200,"Gaia Shopping",27,Porto
+200,"Leiria Shopping",24,Leiria
+200,"Norte Shopping",22,Porto
+200,"Nosso Shopping",0,"Vila Real"
+200,"Palácio do Gelo",3,Viseu
+200,"Santa Catarina",18,Porto
+200,"Vasgo da Gama",10,Lisboa

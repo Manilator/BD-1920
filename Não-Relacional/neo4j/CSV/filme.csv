@@ -1,0 +1,51 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,duracao,realizador,genero
+51,"The Shawshank Redemption",Filme,20.50,1994,9,142,"Frank Darabont",Drama
+52,"The Godfather",Filme,20.10,1972,9,175,"Francis Ford Coppola",Crime
+53,"The Godfather: Part II",Filme,10.60,1974,9,202,"Francis Ford Coppola",Crime
+54,"The Dark Knight",Filme,17.20,2008,9,152,"Christopher Nolan",Action
+55,"12 Angry Men",Filme,13.20,1957,9,96,"Sidney Lumet",Drama
+56,"Schindler’s List",Filme,10.10,1993,9,195,"Steven Spielberg",Biography
+57,"The Lord of the Rings: The Return of the King",Filme,17.30,2003,9,201,"Peter Jackson",Adventure
+58,"Pulp Fiction",Filme,14.00,1994,9,154,"Quentin Tarantino",Crime
+59,"The Good, the Bad and the Ugly",Filme,13.80,1966,9,161,"Sergio Leone",Western
+60,"Fight Club",Filme,12.10,1999,9,139,"David Fincher",Drama
+61,"The Lord of the Rings: The Fellowship of the Ring",Filme,13.90,2001,9,178,"Peter Jackson",Adventure
+62,"Forrest Gump",Filme,15.20,1994,9,142,"Robert Zemeckis",Drama
+63,Inception,Filme,14.00,2010,9,148,"Christopher Nolan",Action
+64,"Star Wars: Episode V - The Empire Strikes Back",Filme,17.80,1980,9,124,"Irvin Kershner",Action
+65,"The Lord of the Rings: The Two Towers",Filme,16.00,2002,9,179,"Peter Jackson",Adventure
+66,"The Matrix",Filme,12.50,1999,9,136,"Lana Wachowski",Action
+67,Goodfellas,Filme,10.40,1990,9,146,"Martin Scorsese",Biography
+68,"One Flew Over the Cuckoo’s Nest",Filme,16.40,1975,9,133,"Milos Forman",Drama
+69,"Seven Samurai",Filme,11.80,1954,9,207,"Akira Kurosawa",Action
+70,Se7en,Filme,17.70,1995,9,127,"David Fincher",Crime
+71,"City of God",Filme,18.30,2002,9,130,"Fernando Meirelles",Crime
+72,"Life Is Beautiful",Filme,16.10,1997,9,116,"Roberto Benigni",Comedy
+73,"The Silence of the Lambs",Filme,16.80,1991,9,118,"Jonathan Demme",Crime
+74,Joker,Filme,15.70,2019,9,122,"Todd Phillips",Crime
+75,"It’s a Wonderful Life",Filme,14.10,1946,9,130,"Frank Capra",Drama
+76,"Star Wars: Episode IV - A New Hope",Filme,15.40,1977,9,121,"George Lucas",Action
+77,"Saving Private Ryan",Filme,13.30,1998,9,169,"Steven Spielberg",Drama
+78,"Spirited Away",Filme,16.50,2001,9,125,"Hayao Miyazaki",Animation
+79,"The Green Mile",Filme,11.30,1999,9,189,"Frank Darabont",Crime
+80,Parasite,Filme,20.50,2019,9,132,"Bong Joon Ho",Comedy
+81,Interstellar,Filme,17.90,2014,9,169,"Christopher Nolan",Adventure
+82,"Léon: The Professional",Filme,13.00,1994,9,110,"Luc Besson",Action
+83,Harakiri,Filme,10.60,1962,9,133,"Masaki Kobayashi",Drama
+84,"The Usual Suspects",Filme,16.40,1995,9,106,"Bryan Singer",Crime
+85,"The Lion King",Filme,11.40,1994,9,88,"Roger Allers",Animation
+86,"American History X",Filme,17.70,1998,9,119,"Tony Kaye",Drama
+87,"Back to the Future",Filme,13.30,1985,9,116,"Robert Zemeckis",Adventure
+88,"The Pianist",Filme,17.50,2002,9,150,"Roman Polanski",Biography
+89,"Terminator 2: Judgment Day",Filme,17.30,1991,9,137,"James Cameron",Action
+90,"Modern Times",Filme,13.00,1936,9,87,"Charles Chaplin",Comedy
+91,Psycho,Filme,12.40,1960,9,109,"Alfred Hitchcock",Horror
+92,Gladiator,Filme,11.20,2000,9,155,"Ridley Scott",Action
+93,"The Intouchables",Filme,20.70,2011,9,112,"Olivier Nakache",Biography
+94,"City Lights",Filme,13.50,1931,9,87,"Charles Chaplin",Comedy
+95,"The Departed",Filme,11.80,2006,9,151,"Martin Scorsese",Crime
+96,Whiplash,Filme,13.70,2014,9,106,"Damien Chazelle",Drama
+97,"Once Upon a Time in the West",Filme,11.00,1968,9,165,"Sergio Leone",Western
+98,"The Prestige",Filme,16.30,2006,9,130,"Christopher Nolan",Drama
+99,Casablanca,Filme,11.20,1942,9,102,"Michael Curtiz",Drama
+100,"Cinema Paradiso",Filme,17.10,1988,9,155,"Giuseppe Tornatore",Drama

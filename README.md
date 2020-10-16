@@ -33,7 +33,7 @@
 to-do
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * MySQL
 * MongoDB
 * Neo4J
